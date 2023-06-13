@@ -1,0 +1,2065 @@
+﻿Year,ScopeID,Sector,SubSector1,SubSector2,Emissions,LGA,Planning_Region,Metro_or_Regional,LGA_CODE18
+2016,1,Waste,Solid Waste,," 44,766 ",Albury,Riverina Murray,Regional,10050
+2016,1,Waste,Solid Waste,," 12,720 ",Armidale Regional,New England North West,Regional,10130
+2016,1,Waste,Solid Waste,," 10,657 ",Ballina,North Coast,Regional,10250
+2016,1,Waste,Solid Waste,," 1,716 ",Balranald,Far West,Regional,10300
+2016,1,Waste,Solid Waste,," 35,899 ",Bathurst Regional,Central West and Orana,Regional,10470
+2016,1,Waste,Solid Waste,, -   ,Bayside,Eastern Harbour City,Six Cities,10500
+2016,1,Waste,Solid Waste,," 15,724 ",Bega Valley,South East and Tablelands,Regional,10550
+2016,1,Waste,Solid Waste,, 755 ,Bellingen,North Coast,Regional,10600
+2016,1,Waste,Solid Waste,," 1,219 ",Berrigan,Riverina Murray,Regional,10650
+2016,1,Waste,Solid Waste,," 77,669 ",Blacktown,Central River City,Six Cities,10750
+2016,1,Waste,Solid Waste,," 1,003 ",Bland,Riverina Murray,Regional,10800
+2016,1,Waste,Solid Waste,," 4,133 ",Blayney,Central West and Orana,Regional,10850
+2016,1,Waste,Solid Waste,," 32,076 ",Blue Mountains,Western Parkland City,Six Cities,10900
+2016,1,Waste,Solid Waste,, 721 ,Bogan,Central West and Orana,Regional,10950
+2016,1,Waste,Solid Waste,," 2,012 ",Bourke,Far West,Regional,11150
+2016,1,Waste,Solid Waste,, 404 ,Brewarrina,Far West,Regional,11200
+2016,1,Waste,Solid Waste,," 17,849 ",Broken Hill,Far West,Regional,11250
+2016,1,Waste,Solid Waste,, -   ,Burwood,Eastern Harbour City,Six Cities,11300
+2016,1,Waste,Solid Waste,, -   ,Byron,North Coast,Regional,11350
+2016,1,Waste,Solid Waste,," 18,294 ",Cabonne,Central West and Orana,Regional,11400
+2016,1,Waste,Solid Waste,," 20,620 ",Camden,Western Parkland City,Six Cities,11450
+2016,1,Waste,Solid Waste,," 36,819 ",Campbelltown,Western Parkland City,Six Cities,11500
+2016,1,Waste,Solid Waste,, -   ,Canada Bay,Eastern Harbour City,Six Cities,11520
+2016,1,Waste,Solid Waste,," 8,720 ",Canterbury-Bankstown,Central River City,Six Cities,11570
+2016,1,Waste,Solid Waste,, 428 ,Carrathool,Riverina Murray,Regional,11600
+2016,1,Waste,Solid Waste,," 52,001 ",Central Coast,Central Coast City,Six Cities,11650
+2016,1,Waste,Solid Waste,," 1,259 ",Central Darling,Far West,Regional,11700
+2016,1,Waste,Solid Waste,," 39,668 ",Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2016,1,Waste,Solid Waste,," 19,631 ",Clarence Valley,North Coast,Regional,11730
+2016,1,Waste,Solid Waste,," 1,115 ",Cobar,Far West,Regional,11750
+2016,1,Waste,Solid Waste,," 13,588 ",Coffs Harbour,North Coast,Regional,11800
+2016,1,Waste,Solid Waste,, 525 ,Coolamon,Riverina Murray,Regional,12000
+2016,1,Waste,Solid Waste,," 3,314 ",Coonamble,Central West and Orana,Regional,12150
+2016,1,Waste,Solid Waste,," 42,680 ",Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2016,1,Waste,Solid Waste,," 4,625 ",Cowra,Central West and Orana,Regional,12350
+2016,1,Waste,Solid Waste,, -   ,Cumberland,Central River City,Six Cities,12380
+2016,1,Waste,Solid Waste,," 36,227 ",Dubbo Regional,Central West and Orana,Regional,12390
+2016,1,Waste,Solid Waste,," 1,981 ",Dungog,Upper Hunter,Regional,12700
+2016,1,Waste,Solid Waste,," 3,877 ",Edward River,Riverina Murray,Regional,12730
+2016,1,Waste,Solid Waste,," 14,421 ",Eurobodalla,South East and Tablelands,Regional,12750
+2016,1,Waste,Solid Waste,,"-14,056 ",Fairfield,Western Parkland City,Six Cities,12850
+2016,1,Waste,Solid Waste,," 2,046 ",Federation,Riverina Murray,Regional,12870
+2016,1,Waste,Solid Waste,," 19,208 ",Forbes,Central West and Orana,Regional,12900
+2016,1,Waste,Solid Waste,, -   ,Georges River,Central River City,Six Cities,12930
+2016,1,Waste,Solid Waste,," 1,751 ",Gilgandra,Central West and Orana,Regional,12950
+2016,1,Waste,Solid Waste,," 4,604 ",Glen Innes Severn,New England North West,Regional,13010
+2016,1,Waste,Solid Waste,," 103,068 ",Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2016,1,Waste,Solid Waste,," 2,989 ",Greater Hume Shire,Riverina Murray,Regional,13340
+2016,1,Waste,Solid Waste,," 13,794 ",Griffith,Riverina Murray,Regional,13450
+2016,1,Waste,Solid Waste,," 6,153 ",Gunnedah,New England North West,Regional,13550
+2016,1,Waste,Solid Waste,," 1,278 ",Gwydir,New England North West,Regional,13660
+2016,1,Waste,Solid Waste,," 15,349 ",Hawkesbury,Western Parkland City,Six Cities,13800
+2016,1,Waste,Solid Waste,, 982 ,Hay,Riverina Murray,Regional,13850
+2016,1,Waste,Solid Waste,," 25,326 ",Hilltops,South East and Tablelands,Regional,13910
+2016,1,Waste,Solid Waste,, -   ,Hornsby,Eastern Harbour City,Six Cities,14000
+2016,1,Waste,Solid Waste,, -   ,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2016,1,Waste,Solid Waste,, -   ,Inner West,Eastern Harbour City,Six Cities,14170
+2016,1,Waste,Solid Waste,," 6,023 ",Inverell,New England North West,Regional,14200
+2016,1,Waste,Solid Waste,," 1,216 ",Junee,Riverina Murray,Regional,14300
+2016,1,Waste,Solid Waste,," 10,313 ",Kempsey,North Coast,Regional,14350
+2016,1,Waste,Solid Waste,, -   ,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2016,1,Waste,Solid Waste,, -   ,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2016,1,Waste,Solid Waste,," 1,907 ",Kyogle,North Coast,Regional,14550
+2016,1,Waste,Solid Waste,," 2,081 ",Lachlan,Central West and Orana,Regional,14600
+2016,1,Waste,Solid Waste,," 34,270 ",Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2016,1,Waste,Solid Waste,, -   ,Lane Cove,Eastern Harbour City,Six Cities,14700
+2016,1,Waste,Solid Waste,," 9,645 ",Leeton,Riverina Murray,Regional,14750
+2016,1,Waste,Solid Waste,," 21,560 ",Lismore,North Coast,Regional,14850
+2016,1,Waste,Solid Waste,, -   ,Lithgow,Central West and Orana,Regional,14870
+2016,1,Waste,Solid Waste,, -   ,Liverpool,Western Parkland City,Six Cities,14900
+2016,1,Waste,Solid Waste,," 3,171 ",Liverpool Plains,New England North West,Regional,14920
+2016,1,Waste,Solid Waste,, 958 ,Lockhart,Riverina Murray,Regional,14950
+2016,1,Waste,Solid Waste,," 31,831 ",Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2016,1,Waste,Solid Waste,," 40,926 ",Mid-Coast,Upper Hunter,Regional,15240
+2016,1,Waste,Solid Waste,," 14,767 ",Mid-Western Regional,Central West and Orana,Regional,15270
+2016,1,Waste,Solid Waste,," 5,446 ",Moree Plains,New England North West,Regional,15300
+2016,1,Waste,Solid Waste,, -   ,Mosman,Eastern Harbour City,Six Cities,15350
+2016,1,Waste,Solid Waste,," 8,044 ",Murray River,Riverina Murray,Regional,15520
+2016,1,Waste,Solid Waste,, 600 ,Murrumbidgee,Riverina Murray,Regional,15560
+2016,1,Waste,Solid Waste,," 16,204 ",Muswellbrook,Upper Hunter,Regional,15650
+2016,1,Waste,Solid Waste,, 100 ,Nambucca,North Coast,Regional,15700
+2016,1,Waste,Solid Waste,," 6,707 ",Narrabri,New England North West,Regional,15750
+2016,1,Waste,Solid Waste,," 3,238 ",Narrandera,Riverina Murray,Regional,15800
+2016,1,Waste,Solid Waste,," 6,746 ",Narromine,Central West and Orana,Regional,15850
+2016,1,Waste,Solid Waste,," 89,845 ",Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2016,1,Waste,Solid Waste,, -   ,North Sydney,Eastern Harbour City,Six Cities,15950
+2016,1,Waste,Solid Waste,," 89,200 ",Northern Beaches,Eastern Harbour City,Six Cities,15990
+2016,1,Waste,Solid Waste,," 6,894 ",Oberon,Central West and Orana,Regional,16100
+2016,1,Waste,Solid Waste,," 14,035 ",Orange,Central West and Orana,Regional,16150
+2016,1,Waste,Solid Waste,," 6,663 ",Parkes,Central West and Orana,Regional,16200
+2016,1,Waste,Solid Waste,, -   ,Parramatta,Central River City,Six Cities,16260
+2016,1,Waste,Solid Waste,," 308,304 ",Penrith,Western Parkland City,Six Cities,16350
+2016,1,Waste,Solid Waste,," 27,693 ",Port Macquarie-Hastings,North Coast,Regional,16380
+2016,1,Waste,Solid Waste,," 12,779 ",Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2016,1,Waste,Solid Waste,," 1,135 ",Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2016,1,Waste,Solid Waste,, -   ,Randwick,Eastern Harbour City,Six Cities,16550
+2016,1,Waste,Solid Waste,," 6,498 ",Richmond Valley,North Coast,Regional,16610
+2016,1,Waste,Solid Waste,, -   ,Ryde,Eastern Harbour City,Six Cities,16700
+2016,1,Waste,Solid Waste,," 22,913 ",Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2016,1,Waste,Solid Waste,," 44,811 ",Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2016,1,Waste,Solid Waste,," 8,737 ",Singleton,Upper Hunter,Regional,17000
+2016,1,Waste,Solid Waste,," 9,646 ",Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2016,1,Waste,Solid Waste,," 2,905 ",Snowy Valleys,Riverina Murray,Regional,17080
+2016,1,Waste,Solid Waste,, -   ,Strathfield,Eastern Harbour City,Six Cities,17100
+2016,1,Waste,Solid Waste,," 289,229 ",Sutherland Shire,Central River City,Six Cities,17150
+2016,1,Waste,Solid Waste,, -   ,Sydney,Eastern Harbour City,Six Cities,17200
+2016,1,Waste,Solid Waste,," 33,267 ",Tamworth Regional,New England North West,Regional,17310
+2016,1,Waste,Solid Waste,," 1,394 ",Temora,Riverina Murray,Regional,17350
+2016,1,Waste,Solid Waste,," 1,882 ",Tenterfield,New England North West,Regional,17400
+2016,1,Waste,Solid Waste,, -   ,The Hills Shire,Central River City,Six Cities,17420
+2016,1,Waste,Solid Waste,," 9,683 ",Tweed,North Coast,Regional,17550
+2016,1,Waste,Solid Waste,," 3,184 ",Upper Hunter Shire,Upper Hunter,Regional,17620
+2016,1,Waste,Solid Waste,," 2,974 ",Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2016,1,Waste,Solid Waste,, 607 ,Uralla,New England North West,Regional,17650
+2016,1,Waste,Solid Waste,," 40,247 ",Wagga Wagga,Riverina Murray,Regional,17750
+2016,1,Waste,Solid Waste,, 858 ,Walcha,New England North West,Regional,17850
+2016,1,Waste,Solid Waste,," 5,855 ",Walgett,Far West,Regional,17900
+2016,1,Waste,Solid Waste,," 2,193 ",Warren,Central West and Orana,Regional,17950
+2016,1,Waste,Solid Waste,," 1,184 ",Warrumbungle Shire,Central West and Orana,Regional,18020
+2016,1,Waste,Solid Waste,, -   ,Waverley,Eastern Harbour City,Six Cities,18050
+2016,1,Waste,Solid Waste,," 1,954 ",Weddin,Central West and Orana,Regional,18100
+2016,1,Waste,Solid Waste,," 18,705 ",Wentworth,Far West,Regional,18200
+2016,1,Waste,Solid Waste,, -   ,Willoughby,Eastern Harbour City,Six Cities,18250
+2016,1,Waste,Solid Waste,, -   ,Wingecarribee,South East and Tablelands,Regional,18350
+2016,1,Waste,Solid Waste,," 2,396 ",Wollondilly,Western Parkland City,Six Cities,18400
+2016,1,Waste,Solid Waste,," 128,214 ",Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2016,1,Waste,Solid Waste,, -   ,Woollahra,Eastern Harbour City,Six Cities,18500
+2016,1,Waste,Solid Waste,, 624 ,Yass Valley,South East and Tablelands,Regional,18710
+2017,1,Waste,Solid Waste,," 42,609 ",Albury,Riverina Murray,Regional,10050
+2017,1,Waste,Solid Waste,," 22,929 ",Armidale Regional,New England North West,Regional,10130
+2017,1,Waste,Solid Waste,," 15,153 ",Ballina,North Coast,Regional,10250
+2017,1,Waste,Solid Waste,," 3,506 ",Balranald,Far West,Regional,10300
+2017,1,Waste,Solid Waste,," 37,486 ",Bathurst Regional,Central West and Orana,Regional,10470
+2017,1,Waste,Solid Waste,, -   ,Bayside,Eastern Harbour City,Six Cities,10500
+2017,1,Waste,Solid Waste,," 28,143 ",Bega Valley,South East and Tablelands,Regional,10550
+2017,1,Waste,Solid Waste,," 1,365 ",Bellingen,North Coast,Regional,10600
+2017,1,Waste,Solid Waste,," 2,130 ",Berrigan,Riverina Murray,Regional,10650
+2017,1,Waste,Solid Waste,," 64,205 ",Blacktown,Central River City,Six Cities,10750
+2017,1,Waste,Solid Waste,," 4,235 ",Bland,Riverina Murray,Regional,10800
+2017,1,Waste,Solid Waste,," 5,199 ",Blayney,Central West and Orana,Regional,10850
+2017,1,Waste,Solid Waste,," 36,645 ",Blue Mountains,Western Parkland City,Six Cities,10900
+2017,1,Waste,Solid Waste,," 1,994 ",Bogan,Central West and Orana,Regional,10950
+2017,1,Waste,Solid Waste,," 2,827 ",Bourke,Far West,Regional,11150
+2017,1,Waste,Solid Waste,, 619 ,Brewarrina,Far West,Regional,11200
+2017,1,Waste,Solid Waste,," 36,623 ",Broken Hill,Far West,Regional,11250
+2017,1,Waste,Solid Waste,, -   ,Burwood,Eastern Harbour City,Six Cities,11300
+2017,1,Waste,Solid Waste,, -   ,Byron,North Coast,Regional,11350
+2017,1,Waste,Solid Waste,," 41,856 ",Cabonne,Central West and Orana,Regional,11400
+2017,1,Waste,Solid Waste,," 28,013 ",Camden,Western Parkland City,Six Cities,11450
+2017,1,Waste,Solid Waste,," 35,995 ",Campbelltown,Western Parkland City,Six Cities,11500
+2017,1,Waste,Solid Waste,, -   ,Canada Bay,Eastern Harbour City,Six Cities,11520
+2017,1,Waste,Solid Waste,," 14,249 ",Canterbury-Bankstown,Central River City,Six Cities,11570
+2017,1,Waste,Solid Waste,," 4,687 ",Carrathool,Riverina Murray,Regional,11600
+2017,1,Waste,Solid Waste,," 75,844 ",Central Coast,Central Coast City,Six Cities,11650
+2017,1,Waste,Solid Waste,," 2,232 ",Central Darling,Far West,Regional,11700
+2017,1,Waste,Solid Waste,," 35,211 ",Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2017,1,Waste,Solid Waste,," 31,275 ",Clarence Valley,North Coast,Regional,11730
+2017,1,Waste,Solid Waste,," 1,801 ",Cobar,Far West,Regional,11750
+2017,1,Waste,Solid Waste,," 32,273 ",Coffs Harbour,North Coast,Regional,11800
+2017,1,Waste,Solid Waste,, 932 ,Coolamon,Riverina Murray,Regional,12000
+2017,1,Waste,Solid Waste,," 3,849 ",Coonamble,Central West and Orana,Regional,12150
+2017,1,Waste,Solid Waste,," 46,663 ",Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2017,1,Waste,Solid Waste,," 7,360 ",Cowra,Central West and Orana,Regional,12350
+2017,1,Waste,Solid Waste,, -   ,Cumberland,Central River City,Six Cities,12380
+2017,1,Waste,Solid Waste,," 38,529 ",Dubbo Regional,Central West and Orana,Regional,12390
+2017,1,Waste,Solid Waste,," 3,439 ",Dungog,Upper Hunter,Regional,12700
+2017,1,Waste,Solid Waste,," 5,550 ",Edward River,Riverina Murray,Regional,12730
+2017,1,Waste,Solid Waste,," 23,970 ",Eurobodalla,South East and Tablelands,Regional,12750
+2017,1,Waste,Solid Waste,," 66,963 ",Fairfield,Western Parkland City,Six Cities,12850
+2017,1,Waste,Solid Waste,," 2,010 ",Federation,Riverina Murray,Regional,12870
+2017,1,Waste,Solid Waste,," 17,430 ",Forbes,Central West and Orana,Regional,12900
+2017,1,Waste,Solid Waste,, -   ,Georges River,Central River City,Six Cities,12930
+2017,1,Waste,Solid Waste,, -   ,Gilgandra,Central West and Orana,Regional,12950
+2017,1,Waste,Solid Waste,," 9,718 ",Glen Innes Severn,New England North West,Regional,13010
+2017,1,Waste,Solid Waste,," 122,088 ",Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2017,1,Waste,Solid Waste,," 4,219 ",Greater Hume Shire,Riverina Murray,Regional,13340
+2017,1,Waste,Solid Waste,," 23,516 ",Griffith,Riverina Murray,Regional,13450
+2017,1,Waste,Solid Waste,," 12,738 ",Gunnedah,New England North West,Regional,13550
+2017,1,Waste,Solid Waste,," 1,432 ",Gwydir,New England North West,Regional,13660
+2017,1,Waste,Solid Waste,," 25,298 ",Hawkesbury,Western Parkland City,Six Cities,13800
+2017,1,Waste,Solid Waste,," 1,635 ",Hay,Riverina Murray,Regional,13850
+2017,1,Waste,Solid Waste,," 43,236 ",Hilltops,South East and Tablelands,Regional,13910
+2017,1,Waste,Solid Waste,, -   ,Hornsby,Eastern Harbour City,Six Cities,14000
+2017,1,Waste,Solid Waste,, -   ,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2017,1,Waste,Solid Waste,, -   ,Inner West,Eastern Harbour City,Six Cities,14170
+2017,1,Waste,Solid Waste,," 20,227 ",Inverell,New England North West,Regional,14200
+2017,1,Waste,Solid Waste,," 1,158 ",Junee,Riverina Murray,Regional,14300
+2017,1,Waste,Solid Waste,," 16,803 ",Kempsey,North Coast,Regional,14350
+2017,1,Waste,Solid Waste,, -   ,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2017,1,Waste,Solid Waste,, -   ,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2017,1,Waste,Solid Waste,," 3,163 ",Kyogle,North Coast,Regional,14550
+2017,1,Waste,Solid Waste,," 5,129 ",Lachlan,Central West and Orana,Regional,14600
+2017,1,Waste,Solid Waste,," 57,522 ",Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2017,1,Waste,Solid Waste,, -   ,Lane Cove,Eastern Harbour City,Six Cities,14700
+2017,1,Waste,Solid Waste,," 9,506 ",Leeton,Riverina Murray,Regional,14750
+2017,1,Waste,Solid Waste,," 42,341 ",Lismore,North Coast,Regional,14850
+2017,1,Waste,Solid Waste,, -   ,Lithgow,Central West and Orana,Regional,14870
+2017,1,Waste,Solid Waste,, -   ,Liverpool,Western Parkland City,Six Cities,14900
+2017,1,Waste,Solid Waste,," 4,631 ",Liverpool Plains,New England North West,Regional,14920
+2017,1,Waste,Solid Waste,," 1,409 ",Lockhart,Riverina Murray,Regional,14950
+2017,1,Waste,Solid Waste,," 32,939 ",Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2017,1,Waste,Solid Waste,," 63,984 ",Mid-Coast,Upper Hunter,Regional,15240
+2017,1,Waste,Solid Waste,," 25,086 ",Mid-Western Regional,Central West and Orana,Regional,15270
+2017,1,Waste,Solid Waste,," 10,720 ",Moree Plains,New England North West,Regional,15300
+2017,1,Waste,Solid Waste,, -   ,Mosman,Eastern Harbour City,Six Cities,15350
+2017,1,Waste,Solid Waste,," 12,579 ",Murray River,Riverina Murray,Regional,15520
+2017,1,Waste,Solid Waste,," 1,164 ",Murrumbidgee,Riverina Murray,Regional,15560
+2017,1,Waste,Solid Waste,," 26,542 ",Muswellbrook,Upper Hunter,Regional,15650
+2017,1,Waste,Solid Waste,, 186 ,Nambucca,North Coast,Regional,15700
+2017,1,Waste,Solid Waste,," 11,969 ",Narrabri,New England North West,Regional,15750
+2017,1,Waste,Solid Waste,," 3,504 ",Narrandera,Riverina Murray,Regional,15800
+2017,1,Waste,Solid Waste,," 11,520 ",Narromine,Central West and Orana,Regional,15850
+2017,1,Waste,Solid Waste,," 174,829 ",Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2017,1,Waste,Solid Waste,, -   ,North Sydney,Eastern Harbour City,Six Cities,15950
+2017,1,Waste,Solid Waste,," 80,997 ",Northern Beaches,Eastern Harbour City,Six Cities,15990
+2017,1,Waste,Solid Waste,," 13,555 ",Oberon,Central West and Orana,Regional,16100
+2017,1,Waste,Solid Waste,," 12,014 ",Orange,Central West and Orana,Regional,16150
+2017,1,Waste,Solid Waste,," 6,425 ",Parkes,Central West and Orana,Regional,16200
+2017,1,Waste,Solid Waste,, -   ,Parramatta,Central River City,Six Cities,16260
+2017,1,Waste,Solid Waste,," 303,810 ",Penrith,Western Parkland City,Six Cities,16350
+2017,1,Waste,Solid Waste,," 49,049 ",Port Macquarie-Hastings,North Coast,Regional,16380
+2017,1,Waste,Solid Waste,," 14,567 ",Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2017,1,Waste,Solid Waste,," 1,806 ",Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2017,1,Waste,Solid Waste,, -   ,Randwick,Eastern Harbour City,Six Cities,16550
+2017,1,Waste,Solid Waste,," 1,043 ",Richmond Valley,North Coast,Regional,16610
+2017,1,Waste,Solid Waste,, -   ,Ryde,Eastern Harbour City,Six Cities,16700
+2017,1,Waste,Solid Waste,," 20,056 ",Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2017,1,Waste,Solid Waste,," 69,398 ",Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2017,1,Waste,Solid Waste,," 14,005 ",Singleton,Upper Hunter,Regional,17000
+2017,1,Waste,Solid Waste,," 20,750 ",Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2017,1,Waste,Solid Waste,," 3,876 ",Snowy Valleys,Riverina Murray,Regional,17080
+2017,1,Waste,Solid Waste,, -   ,Strathfield,Eastern Harbour City,Six Cities,17100
+2017,1,Waste,Solid Waste,,"-191,042 ",Sutherland Shire,Central River City,Six Cities,17150
+2017,1,Waste,Solid Waste,, -   ,Sydney,Eastern Harbour City,Six Cities,17200
+2017,1,Waste,Solid Waste,," 34,902 ",Tamworth Regional,New England North West,Regional,17310
+2017,1,Waste,Solid Waste,," 2,292 ",Temora,Riverina Murray,Regional,17350
+2017,1,Waste,Solid Waste,," 2,786 ",Tenterfield,New England North West,Regional,17400
+2017,1,Waste,Solid Waste,, -   ,The Hills Shire,Central River City,Six Cities,17420
+2017,1,Waste,Solid Waste,," 57,173 ",Tweed,North Coast,Regional,17550
+2017,1,Waste,Solid Waste,," 4,818 ",Upper Hunter Shire,Upper Hunter,Regional,17620
+2017,1,Waste,Solid Waste,," 2,620 ",Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2017,1,Waste,Solid Waste,," 1,066 ",Uralla,New England North West,Regional,17650
+2017,1,Waste,Solid Waste,," 41,475 ",Wagga Wagga,Riverina Murray,Regional,17750
+2017,1,Waste,Solid Waste,," 2,375 ",Walcha,New England North West,Regional,17850
+2017,1,Waste,Solid Waste,," 8,893 ",Walgett,Far West,Regional,17900
+2017,1,Waste,Solid Waste,," 3,601 ",Warren,Central West and Orana,Regional,17950
+2017,1,Waste,Solid Waste,," 4,769 ",Warrumbungle Shire,Central West and Orana,Regional,18020
+2017,1,Waste,Solid Waste,, -   ,Waverley,Eastern Harbour City,Six Cities,18050
+2017,1,Waste,Solid Waste,," 3,027 ",Weddin,Central West and Orana,Regional,18100
+2017,1,Waste,Solid Waste,," 67,998 ",Wentworth,Far West,Regional,18200
+2017,1,Waste,Solid Waste,, -   ,Willoughby,Eastern Harbour City,Six Cities,18250
+2017,1,Waste,Solid Waste,, -   ,Wingecarribee,South East and Tablelands,Regional,18350
+2017,1,Waste,Solid Waste,," 5,869 ",Wollondilly,Western Parkland City,Six Cities,18400
+2017,1,Waste,Solid Waste,," 127,760 ",Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2017,1,Waste,Solid Waste,, -   ,Woollahra,Eastern Harbour City,Six Cities,18500
+2017,1,Waste,Solid Waste,, 592 ,Yass Valley,South East and Tablelands,Regional,18710
+2018,1,Waste,Solid Waste,," 48,327 ",Albury,Riverina Murray,Regional,10050
+2018,1,Waste,Solid Waste,," 34,866 ",Armidale Regional,New England North West,Regional,10130
+2018,1,Waste,Solid Waste,," 23,545 ",Ballina,North Coast,Regional,10250
+2018,1,Waste,Solid Waste,," 6,719 ",Balranald,Far West,Regional,10300
+2018,1,Waste,Solid Waste,," 38,629 ",Bathurst Regional,Central West and Orana,Regional,10470
+2018,1,Waste,Solid Waste,, -   ,Bayside,Eastern Harbour City,Six Cities,10500
+2018,1,Waste,Solid Waste,," 34,316 ",Bega Valley,South East and Tablelands,Regional,10550
+2018,1,Waste,Solid Waste,," 1,580 ",Bellingen,North Coast,Regional,10600
+2018,1,Waste,Solid Waste,," 4,357 ",Berrigan,Riverina Murray,Regional,10650
+2018,1,Waste,Solid Waste,," 132,735 ",Blacktown,Central River City,Six Cities,10750
+2018,1,Waste,Solid Waste,," 5,591 ",Bland,Riverina Murray,Regional,10800
+2018,1,Waste,Solid Waste,," 9,109 ",Blayney,Central West and Orana,Regional,10850
+2018,1,Waste,Solid Waste,," 31,082 ",Blue Mountains,Western Parkland City,Six Cities,10900
+2018,1,Waste,Solid Waste,," 3,883 ",Bogan,Central West and Orana,Regional,10950
+2018,1,Waste,Solid Waste,," 4,379 ",Bourke,Far West,Regional,11150
+2018,1,Waste,Solid Waste,," 2,536 ",Brewarrina,Far West,Regional,11200
+2018,1,Waste,Solid Waste,," 48,190 ",Broken Hill,Far West,Regional,11250
+2018,1,Waste,Solid Waste,, -   ,Burwood,Eastern Harbour City,Six Cities,11300
+2018,1,Waste,Solid Waste,, -   ,Byron,North Coast,Regional,11350
+2018,1,Waste,Solid Waste,," 60,711 ",Cabonne,Central West and Orana,Regional,11400
+2018,1,Waste,Solid Waste,," 32,210 ",Camden,Western Parkland City,Six Cities,11450
+2018,1,Waste,Solid Waste,," 35,290 ",Campbelltown,Western Parkland City,Six Cities,11500
+2018,1,Waste,Solid Waste,, -   ,Canada Bay,Eastern Harbour City,Six Cities,11520
+2018,1,Waste,Solid Waste,," 18,291 ",Canterbury-Bankstown,Central River City,Six Cities,11570
+2018,1,Waste,Solid Waste,," 2,052 ",Carrathool,Riverina Murray,Regional,11600
+2018,1,Waste,Solid Waste,," 100,553 ",Central Coast,Central Coast City,Six Cities,11650
+2018,1,Waste,Solid Waste,," 3,018 ",Central Darling,Far West,Regional,11700
+2018,1,Waste,Solid Waste,," 40,462 ",Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2018,1,Waste,Solid Waste,," 47,832 ",Clarence Valley,North Coast,Regional,11730
+2018,1,Waste,Solid Waste,," 4,775 ",Cobar,Far West,Regional,11750
+2018,1,Waste,Solid Waste,," 32,901 ",Coffs Harbour,North Coast,Regional,11800
+2018,1,Waste,Solid Waste,," 1,292 ",Coolamon,Riverina Murray,Regional,12000
+2018,1,Waste,Solid Waste,," 3,862 ",Coonamble,Central West and Orana,Regional,12150
+2018,1,Waste,Solid Waste,," 69,067 ",Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2018,1,Waste,Solid Waste,," 18,869 ",Cowra,Central West and Orana,Regional,12350
+2018,1,Waste,Solid Waste,, -   ,Cumberland,Central River City,Six Cities,12380
+2018,1,Waste,Solid Waste,," 45,384 ",Dubbo Regional,Central West and Orana,Regional,12390
+2018,1,Waste,Solid Waste,," 5,805 ",Dungog,Upper Hunter,Regional,12700
+2018,1,Waste,Solid Waste,," 7,373 ",Edward River,Riverina Murray,Regional,12730
+2018,1,Waste,Solid Waste,," 31,142 ",Eurobodalla,South East and Tablelands,Regional,12750
+2018,1,Waste,Solid Waste,," 133,962 ",Fairfield,Western Parkland City,Six Cities,12850
+2018,1,Waste,Solid Waste,," 4,112 ",Federation,Riverina Murray,Regional,12870
+2018,1,Waste,Solid Waste,," 26,463 ",Forbes,Central West and Orana,Regional,12900
+2018,1,Waste,Solid Waste,, -   ,Georges River,Central River City,Six Cities,12930
+2018,1,Waste,Solid Waste,," 1,489 ",Gilgandra,Central West and Orana,Regional,12950
+2018,1,Waste,Solid Waste,," 8,209 ",Glen Innes Severn,New England North West,Regional,13010
+2018,1,Waste,Solid Waste,," 115,375 ",Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2018,1,Waste,Solid Waste,," 4,477 ",Greater Hume Shire,Riverina Murray,Regional,13340
+2018,1,Waste,Solid Waste,," 40,719 ",Griffith,Riverina Murray,Regional,13450
+2018,1,Waste,Solid Waste,," 21,345 ",Gunnedah,New England North West,Regional,13550
+2018,1,Waste,Solid Waste,," 2,482 ",Gwydir,New England North West,Regional,13660
+2018,1,Waste,Solid Waste,," 36,999 ",Hawkesbury,Western Parkland City,Six Cities,13800
+2018,1,Waste,Solid Waste,," 2,415 ",Hay,Riverina Murray,Regional,13850
+2018,1,Waste,Solid Waste,," 61,435 ",Hilltops,South East and Tablelands,Regional,13910
+2018,1,Waste,Solid Waste,, -   ,Hornsby,Eastern Harbour City,Six Cities,14000
+2018,1,Waste,Solid Waste,, -   ,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2018,1,Waste,Solid Waste,, -   ,Inner West,Eastern Harbour City,Six Cities,14170
+2018,1,Waste,Solid Waste,," 22,859 ",Inverell,New England North West,Regional,14200
+2018,1,Waste,Solid Waste,," 2,126 ",Junee,Riverina Murray,Regional,14300
+2018,1,Waste,Solid Waste,," 23,779 ",Kempsey,North Coast,Regional,14350
+2018,1,Waste,Solid Waste,, -   ,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2018,1,Waste,Solid Waste,, -   ,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2018,1,Waste,Solid Waste,," 4,865 ",Kyogle,North Coast,Regional,14550
+2018,1,Waste,Solid Waste,," 11,490 ",Lachlan,Central West and Orana,Regional,14600
+2018,1,Waste,Solid Waste,," 76,807 ",Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2018,1,Waste,Solid Waste,, -   ,Lane Cove,Eastern Harbour City,Six Cities,14700
+2018,1,Waste,Solid Waste,," 23,858 ",Leeton,Riverina Murray,Regional,14750
+2018,1,Waste,Solid Waste,," 53,536 ",Lismore,North Coast,Regional,14850
+2018,1,Waste,Solid Waste,, -   ,Lithgow,Central West and Orana,Regional,14870
+2018,1,Waste,Solid Waste,, -   ,Liverpool,Western Parkland City,Six Cities,14900
+2018,1,Waste,Solid Waste,," 7,036 ",Liverpool Plains,New England North West,Regional,14920
+2018,1,Waste,Solid Waste,," 3,121 ",Lockhart,Riverina Murray,Regional,14950
+2018,1,Waste,Solid Waste,," 32,143 ",Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2018,1,Waste,Solid Waste,," 97,614 ",Mid-Coast,Upper Hunter,Regional,15240
+2018,1,Waste,Solid Waste,," 36,536 ",Mid-Western Regional,Central West and Orana,Regional,15270
+2018,1,Waste,Solid Waste,," 9,909 ",Moree Plains,New England North West,Regional,15300
+2018,1,Waste,Solid Waste,, -   ,Mosman,Eastern Harbour City,Six Cities,15350
+2018,1,Waste,Solid Waste,," 12,371 ",Murray River,Riverina Murray,Regional,15520
+2018,1,Waste,Solid Waste,," 1,578 ",Murrumbidgee,Riverina Murray,Regional,15560
+2018,1,Waste,Solid Waste,," 34,346 ",Muswellbrook,Upper Hunter,Regional,15650
+2018,1,Waste,Solid Waste,, 288 ,Nambucca,North Coast,Regional,15700
+2018,1,Waste,Solid Waste,," 21,180 ",Narrabri,New England North West,Regional,15750
+2018,1,Waste,Solid Waste,, -   ,Narrandera,Riverina Murray,Regional,15800
+2018,1,Waste,Solid Waste,," 16,102 ",Narromine,Central West and Orana,Regional,15850
+2018,1,Waste,Solid Waste,," 261,507 ",Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2018,1,Waste,Solid Waste,, -   ,North Sydney,Eastern Harbour City,Six Cities,15950
+2018,1,Waste,Solid Waste,," 102,785 ",Northern Beaches,Eastern Harbour City,Six Cities,15990
+2018,1,Waste,Solid Waste,," 7,103 ",Oberon,Central West and Orana,Regional,16100
+2018,1,Waste,Solid Waste,," 22,985 ",Orange,Central West and Orana,Regional,16150
+2018,1,Waste,Solid Waste,," 15,146 ",Parkes,Central West and Orana,Regional,16200
+2018,1,Waste,Solid Waste,, -   ,Parramatta,Central River City,Six Cities,16260
+2018,1,Waste,Solid Waste,," 276,958 ",Penrith,Western Parkland City,Six Cities,16350
+2018,1,Waste,Solid Waste,," 66,490 ",Port Macquarie-Hastings,North Coast,Regional,16380
+2018,1,Waste,Solid Waste,," 14,399 ",Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2018,1,Waste,Solid Waste,," 2,732 ",Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2018,1,Waste,Solid Waste,, -   ,Randwick,Eastern Harbour City,Six Cities,16550
+2018,1,Waste,Solid Waste,, 70 ,Richmond Valley,North Coast,Regional,16610
+2018,1,Waste,Solid Waste,, -   ,Ryde,Eastern Harbour City,Six Cities,16700
+2018,1,Waste,Solid Waste,," 17,233 ",Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2018,1,Waste,Solid Waste,," 104,490 ",Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2018,1,Waste,Solid Waste,," 17,694 ",Singleton,Upper Hunter,Regional,17000
+2018,1,Waste,Solid Waste,," 27,735 ",Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2018,1,Waste,Solid Waste,," 4,210 ",Snowy Valleys,Riverina Murray,Regional,17080
+2018,1,Waste,Solid Waste,, -   ,Strathfield,Eastern Harbour City,Six Cities,17100
+2018,1,Waste,Solid Waste,," 128,278 ",Sutherland Shire,Central River City,Six Cities,17150
+2018,1,Waste,Solid Waste,, -   ,Sydney,Eastern Harbour City,Six Cities,17200
+2018,1,Waste,Solid Waste,," 38,039 ",Tamworth Regional,New England North West,Regional,17310
+2018,1,Waste,Solid Waste,," 3,392 ",Temora,Riverina Murray,Regional,17350
+2018,1,Waste,Solid Waste,," 4,224 ",Tenterfield,New England North West,Regional,17400
+2018,1,Waste,Solid Waste,, -   ,The Hills Shire,Central River City,Six Cities,17420
+2018,1,Waste,Solid Waste,," 44,825 ",Tweed,North Coast,Regional,17550
+2018,1,Waste,Solid Waste,," 8,664 ",Upper Hunter Shire,Upper Hunter,Regional,17620
+2018,1,Waste,Solid Waste,," 2,265 ",Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2018,1,Waste,Solid Waste,," 4,756 ",Uralla,New England North West,Regional,17650
+2018,1,Waste,Solid Waste,," 42,710 ",Wagga Wagga,Riverina Murray,Regional,17750
+2018,1,Waste,Solid Waste,," 2,449 ",Walcha,New England North West,Regional,17850
+2018,1,Waste,Solid Waste,," 13,523 ",Walgett,Far West,Regional,17900
+2018,1,Waste,Solid Waste,," 5,851 ",Warren,Central West and Orana,Regional,17950
+2018,1,Waste,Solid Waste,," 6,391 ",Warrumbungle Shire,Central West and Orana,Regional,18020
+2018,1,Waste,Solid Waste,, -   ,Waverley,Eastern Harbour City,Six Cities,18050
+2018,1,Waste,Solid Waste,," 5,710 ",Weddin,Central West and Orana,Regional,18100
+2018,1,Waste,Solid Waste,," 31,395 ",Wentworth,Far West,Regional,18200
+2018,1,Waste,Solid Waste,, -   ,Willoughby,Eastern Harbour City,Six Cities,18250
+2018,1,Waste,Solid Waste,,-72 ,Wingecarribee,South East and Tablelands,Regional,18350
+2018,1,Waste,Solid Waste,," 8,456 ",Wollondilly,Western Parkland City,Six Cities,18400
+2018,1,Waste,Solid Waste,," 129,655 ",Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2018,1,Waste,Solid Waste,, -   ,Woollahra,Eastern Harbour City,Six Cities,18500
+2018,1,Waste,Solid Waste,," 9,253 ",Yass Valley,South East and Tablelands,Regional,18710
+2019,1,Waste,Solid Waste,," 22,592 ",Albury,Riverina Murray,Regional,10050
+2019,1,Waste,Solid Waste,," 48,044 ",Armidale Regional,New England North West,Regional,10130
+2019,1,Waste,Solid Waste,," 4,233 ",Ballina,North Coast,Regional,10250
+2019,1,Waste,Solid Waste,," 6,947 ",Balranald,Far West,Regional,10300
+2019,1,Waste,Solid Waste,," 39,807 ",Bathurst Regional,Central West and Orana,Regional,10470
+2019,1,Waste,Solid Waste,, -   ,Bayside,Eastern Harbour City,Six Cities,10500
+2019,1,Waste,Solid Waste,," 33,084 ",Bega Valley,South East and Tablelands,Regional,10550
+2019,1,Waste,Solid Waste,," 1,470 ",Bellingen,North Coast,Regional,10600
+2019,1,Waste,Solid Waste,," 5,811 ",Berrigan,Riverina Murray,Regional,10650
+2019,1,Waste,Solid Waste,," 181,747 ",Blacktown,Central River City,Six Cities,10750
+2019,1,Waste,Solid Waste,," 5,005 ",Bland,Riverina Murray,Regional,10800
+2019,1,Waste,Solid Waste,," 8,244 ",Blayney,Central West and Orana,Regional,10850
+2019,1,Waste,Solid Waste,," 36,704 ",Blue Mountains,Western Parkland City,Six Cities,10900
+2019,1,Waste,Solid Waste,," 4,098 ",Bogan,Central West and Orana,Regional,10950
+2019,1,Waste,Solid Waste,," 4,366 ",Bourke,Far West,Regional,11150
+2019,1,Waste,Solid Waste,," 3,726 ",Brewarrina,Far West,Regional,11200
+2019,1,Waste,Solid Waste,," 51,241 ",Broken Hill,Far West,Regional,11250
+2019,1,Waste,Solid Waste,, -   ,Burwood,Eastern Harbour City,Six Cities,11300
+2019,1,Waste,Solid Waste,, -   ,Byron,North Coast,Regional,11350
+2019,1,Waste,Solid Waste,," 68,193 ",Cabonne,Central West and Orana,Regional,11400
+2019,1,Waste,Solid Waste,," 34,578 ",Camden,Western Parkland City,Six Cities,11450
+2019,1,Waste,Solid Waste,," 34,253 ",Campbelltown,Western Parkland City,Six Cities,11500
+2019,1,Waste,Solid Waste,, -   ,Canada Bay,Eastern Harbour City,Six Cities,11520
+2019,1,Waste,Solid Waste,," 18,672 ",Canterbury-Bankstown,Central River City,Six Cities,11570
+2019,1,Waste,Solid Waste,," 2,040 ",Carrathool,Riverina Murray,Regional,11600
+2019,1,Waste,Solid Waste,," 93,970 ",Central Coast,Central Coast City,Six Cities,11650
+2019,1,Waste,Solid Waste,," 3,150 ",Central Darling,Far West,Regional,11700
+2019,1,Waste,Solid Waste,," 41,044 ",Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2019,1,Waste,Solid Waste,," 52,659 ",Clarence Valley,North Coast,Regional,11730
+2019,1,Waste,Solid Waste,," 4,383 ",Cobar,Far West,Regional,11750
+2019,1,Waste,Solid Waste,," 39,222 ",Coffs Harbour,North Coast,Regional,11800
+2019,1,Waste,Solid Waste,," 1,348 ",Coolamon,Riverina Murray,Regional,12000
+2019,1,Waste,Solid Waste,," 8,677 ",Coonamble,Central West and Orana,Regional,12150
+2019,1,Waste,Solid Waste,," 68,155 ",Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2019,1,Waste,Solid Waste,," 30,269 ",Cowra,Central West and Orana,Regional,12350
+2019,1,Waste,Solid Waste,, -   ,Cumberland,Central River City,Six Cities,12380
+2019,1,Waste,Solid Waste,," 42,039 ",Dubbo Regional,Central West and Orana,Regional,12390
+2019,1,Waste,Solid Waste,," 6,654 ",Dungog,Upper Hunter,Regional,12700
+2019,1,Waste,Solid Waste,," 8,936 ",Edward River,Riverina Murray,Regional,12730
+2019,1,Waste,Solid Waste,," 40,078 ",Eurobodalla,South East and Tablelands,Regional,12750
+2019,1,Waste,Solid Waste,," 139,081 ",Fairfield,Western Parkland City,Six Cities,12850
+2019,1,Waste,Solid Waste,," 2,840 ",Federation,Riverina Murray,Regional,12870
+2019,1,Waste,Solid Waste,," 39,340 ",Forbes,Central West and Orana,Regional,12900
+2019,1,Waste,Solid Waste,, -   ,Georges River,Central River City,Six Cities,12930
+2019,1,Waste,Solid Waste,," 3,202 ",Gilgandra,Central West and Orana,Regional,12950
+2019,1,Waste,Solid Waste,," 10,368 ",Glen Innes Severn,New England North West,Regional,13010
+2019,1,Waste,Solid Waste,," 71,619 ",Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2019,1,Waste,Solid Waste,," 7,487 ",Greater Hume Shire,Riverina Murray,Regional,13340
+2019,1,Waste,Solid Waste,," 38,098 ",Griffith,Riverina Murray,Regional,13450
+2019,1,Waste,Solid Waste,," 23,215 ",Gunnedah,New England North West,Regional,13550
+2019,1,Waste,Solid Waste,," 3,071 ",Gwydir,New England North West,Regional,13660
+2019,1,Waste,Solid Waste,," 38,936 ",Hawkesbury,Western Parkland City,Six Cities,13800
+2019,1,Waste,Solid Waste,," 4,874 ",Hay,Riverina Murray,Regional,13850
+2019,1,Waste,Solid Waste,," 72,963 ",Hilltops,South East and Tablelands,Regional,13910
+2019,1,Waste,Solid Waste,, -   ,Hornsby,Eastern Harbour City,Six Cities,14000
+2019,1,Waste,Solid Waste,, -   ,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2019,1,Waste,Solid Waste,, -   ,Inner West,Eastern Harbour City,Six Cities,14170
+2019,1,Waste,Solid Waste,," 24,458 ",Inverell,New England North West,Regional,14200
+2019,1,Waste,Solid Waste,," 1,748 ",Junee,Riverina Murray,Regional,14300
+2019,1,Waste,Solid Waste,," 22,418 ",Kempsey,North Coast,Regional,14350
+2019,1,Waste,Solid Waste,, -   ,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2019,1,Waste,Solid Waste,, -   ,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2019,1,Waste,Solid Waste,," 5,915 ",Kyogle,North Coast,Regional,14550
+2019,1,Waste,Solid Waste,," 10,657 ",Lachlan,Central West and Orana,Regional,14600
+2019,1,Waste,Solid Waste,," 70,145 ",Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2019,1,Waste,Solid Waste,, -   ,Lane Cove,Eastern Harbour City,Six Cities,14700
+2019,1,Waste,Solid Waste,," 21,590 ",Leeton,Riverina Murray,Regional,14750
+2019,1,Waste,Solid Waste,," 41,888 ",Lismore,North Coast,Regional,14850
+2019,1,Waste,Solid Waste,, -   ,Lithgow,Central West and Orana,Regional,14870
+2019,1,Waste,Solid Waste,, -   ,Liverpool,Western Parkland City,Six Cities,14900
+2019,1,Waste,Solid Waste,," 10,178 ",Liverpool Plains,New England North West,Regional,14920
+2019,1,Waste,Solid Waste,," 3,052 ",Lockhart,Riverina Murray,Regional,14950
+2019,1,Waste,Solid Waste,," 30,941 ",Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2019,1,Waste,Solid Waste,," 134,179 ",Mid-Coast,Upper Hunter,Regional,15240
+2019,1,Waste,Solid Waste,," 38,017 ",Mid-Western Regional,Central West and Orana,Regional,15270
+2019,1,Waste,Solid Waste,," 15,145 ",Moree Plains,New England North West,Regional,15300
+2019,1,Waste,Solid Waste,, -   ,Mosman,Eastern Harbour City,Six Cities,15350
+2019,1,Waste,Solid Waste,," 25,745 ",Murray River,Riverina Murray,Regional,15520
+2019,1,Waste,Solid Waste,," 2,319 ",Murrumbidgee,Riverina Murray,Regional,15560
+2019,1,Waste,Solid Waste,," 36,327 ",Muswellbrook,Upper Hunter,Regional,15650
+2019,1,Waste,Solid Waste,, 388 ,Nambucca,North Coast,Regional,15700
+2019,1,Waste,Solid Waste,," 27,061 ",Narrabri,New England North West,Regional,15750
+2019,1,Waste,Solid Waste,, -   ,Narrandera,Riverina Murray,Regional,15800
+2019,1,Waste,Solid Waste,," 10,152 ",Narromine,Central West and Orana,Regional,15850
+2019,1,Waste,Solid Waste,," 312,544 ",Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2019,1,Waste,Solid Waste,, -   ,North Sydney,Eastern Harbour City,Six Cities,15950
+2019,1,Waste,Solid Waste,," 99,203 ",Northern Beaches,Eastern Harbour City,Six Cities,15990
+2019,1,Waste,Solid Waste,," 6,768 ",Oberon,Central West and Orana,Regional,16100
+2019,1,Waste,Solid Waste,," 28,597 ",Orange,Central West and Orana,Regional,16150
+2019,1,Waste,Solid Waste,," 15,404 ",Parkes,Central West and Orana,Regional,16200
+2019,1,Waste,Solid Waste,, -   ,Parramatta,Central River City,Six Cities,16260
+2019,1,Waste,Solid Waste,," 308,478 ",Penrith,Western Parkland City,Six Cities,16350
+2019,1,Waste,Solid Waste,," 70,763 ",Port Macquarie-Hastings,North Coast,Regional,16380
+2019,1,Waste,Solid Waste,," 4,894 ",Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2019,1,Waste,Solid Waste,," 4,047 ",Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2019,1,Waste,Solid Waste,, -   ,Randwick,Eastern Harbour City,Six Cities,16550
+2019,1,Waste,Solid Waste,, 97 ,Richmond Valley,North Coast,Regional,16610
+2019,1,Waste,Solid Waste,, -   ,Ryde,Eastern Harbour City,Six Cities,16700
+2019,1,Waste,Solid Waste,," 17,705 ",Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2019,1,Waste,Solid Waste,," 113,893 ",Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2019,1,Waste,Solid Waste,," 21,095 ",Singleton,Upper Hunter,Regional,17000
+2019,1,Waste,Solid Waste,," 29,656 ",Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2019,1,Waste,Solid Waste,," 5,410 ",Snowy Valleys,Riverina Murray,Regional,17080
+2019,1,Waste,Solid Waste,, -   ,Strathfield,Eastern Harbour City,Six Cities,17100
+2019,1,Waste,Solid Waste,," 127,163 ",Sutherland Shire,Central River City,Six Cities,17150
+2019,1,Waste,Solid Waste,, -   ,Sydney,Eastern Harbour City,Six Cities,17200
+2019,1,Waste,Solid Waste,," 30,564 ",Tamworth Regional,New England North West,Regional,17310
+2019,1,Waste,Solid Waste,," 4,449 ",Temora,Riverina Murray,Regional,17350
+2019,1,Waste,Solid Waste,," 4,238 ",Tenterfield,New England North West,Regional,17400
+2019,1,Waste,Solid Waste,, -   ,The Hills Shire,Central River City,Six Cities,17420
+2019,1,Waste,Solid Waste,," 3,610 ",Tweed,North Coast,Regional,17550
+2019,1,Waste,Solid Waste,," 4,839 ",Upper Hunter Shire,Upper Hunter,Regional,17620
+2019,1,Waste,Solid Waste,," 9,577 ",Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2019,1,Waste,Solid Waste,," 5,255 ",Uralla,New England North West,Regional,17650
+2019,1,Waste,Solid Waste,," 43,695 ",Wagga Wagga,Riverina Murray,Regional,17750
+2019,1,Waste,Solid Waste,," 10,416 ",Walcha,New England North West,Regional,17850
+2019,1,Waste,Solid Waste,," 12,263 ",Walgett,Far West,Regional,17900
+2019,1,Waste,Solid Waste,," 6,473 ",Warren,Central West and Orana,Regional,17950
+2019,1,Waste,Solid Waste,," 5,579 ",Warrumbungle Shire,Central West and Orana,Regional,18020
+2019,1,Waste,Solid Waste,, -   ,Waverley,Eastern Harbour City,Six Cities,18050
+2019,1,Waste,Solid Waste,," 5,840 ",Weddin,Central West and Orana,Regional,18100
+2019,1,Waste,Solid Waste,," 52,742 ",Wentworth,Far West,Regional,18200
+2019,1,Waste,Solid Waste,, -   ,Willoughby,Eastern Harbour City,Six Cities,18250
+2019,1,Waste,Solid Waste,, -   ,Wingecarribee,South East and Tablelands,Regional,18350
+2019,1,Waste,Solid Waste,," 11,998 ",Wollondilly,Western Parkland City,Six Cities,18400
+2019,1,Waste,Solid Waste,," 129,972 ",Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2019,1,Waste,Solid Waste,, -   ,Woollahra,Eastern Harbour City,Six Cities,18500
+2019,1,Waste,Solid Waste,, 54 ,Yass Valley,South East and Tablelands,Regional,18710
+2016,1,Waste,Waste Water,Industrial," 5,065 ",Albury,Riverina Murray,Regional,10050
+2016,1,Waste,Waste Water,Industrial, -   ,Armidale Regional,New England North West,Regional,10130
+2016,1,Waste,Waste Water,Industrial, -   ,Ballina,North Coast,Regional,10250
+2016,1,Waste,Waste Water,Industrial, -   ,Balranald,Far West,Regional,10300
+2016,1,Waste,Waste Water,Industrial, 57 ,Bathurst Regional,Central West and Orana,Regional,10470
+2016,1,Waste,Waste Water,Industrial," 16,030 ",Bayside,Eastern Harbour City,Six Cities,10500
+2016,1,Waste,Waste Water,Industrial," 10,050 ",Bega Valley,South East and Tablelands,Regional,10550
+2016,1,Waste,Waste Water,Industrial, -   ,Bellingen,North Coast,Regional,10600
+2016,1,Waste,Waste Water,Industrial, -   ,Berrigan,Riverina Murray,Regional,10650
+2016,1,Waste,Waste Water,Industrial," 9,835 ",Blacktown,Central River City,Six Cities,10750
+2016,1,Waste,Waste Water,Industrial, -   ,Bland,Riverina Murray,Regional,10800
+2016,1,Waste,Waste Water,Industrial, -   ,Blayney,Central West and Orana,Regional,10850
+2016,1,Waste,Waste Water,Industrial, -   ,Blue Mountains,Western Parkland City,Six Cities,10900
+2016,1,Waste,Waste Water,Industrial, -   ,Bogan,Central West and Orana,Regional,10950
+2016,1,Waste,Waste Water,Industrial, -   ,Bourke,Far West,Regional,11150
+2016,1,Waste,Waste Water,Industrial, -   ,Brewarrina,Far West,Regional,11200
+2016,1,Waste,Waste Water,Industrial, -   ,Broken Hill,Far West,Regional,11250
+2016,1,Waste,Waste Water,Industrial, -   ,Burwood,Eastern Harbour City,Six Cities,11300
+2016,1,Waste,Waste Water,Industrial, -   ,Byron,North Coast,Regional,11350
+2016,1,Waste,Waste Water,Industrial, -   ,Cabonne,Central West and Orana,Regional,11400
+2016,1,Waste,Waste Water,Industrial, -   ,Camden,Western Parkland City,Six Cities,11450
+2016,1,Waste,Waste Water,Industrial," 13,114 ",Campbelltown,Western Parkland City,Six Cities,11500
+2016,1,Waste,Waste Water,Industrial, -   ,Canada Bay,Eastern Harbour City,Six Cities,11520
+2016,1,Waste,Waste Water,Industrial," 11,583 ",Canterbury-Bankstown,Central River City,Six Cities,11570
+2016,1,Waste,Waste Water,Industrial, -   ,Carrathool,Riverina Murray,Regional,11600
+2016,1,Waste,Waste Water,Industrial," 7,350 ",Central Coast,Central Coast City,Six Cities,11650
+2016,1,Waste,Waste Water,Industrial, -   ,Central Darling,Far West,Regional,11700
+2016,1,Waste,Waste Water,Industrial," 1,668 ",Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2016,1,Waste,Waste Water,Industrial," 1,413 ",Clarence Valley,North Coast,Regional,11730
+2016,1,Waste,Waste Water,Industrial, -   ,Cobar,Far West,Regional,11750
+2016,1,Waste,Waste Water,Industrial, -   ,Coffs Harbour,North Coast,Regional,11800
+2016,1,Waste,Waste Water,Industrial, -   ,Coolamon,Riverina Murray,Regional,12000
+2016,1,Waste,Waste Water,Industrial, -   ,Coonamble,Central West and Orana,Regional,12150
+2016,1,Waste,Waste Water,Industrial, -   ,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2016,1,Waste,Waste Water,Industrial, -   ,Cowra,Central West and Orana,Regional,12350
+2016,1,Waste,Waste Water,Industrial," 26,468 ",Cumberland,Central River City,Six Cities,12380
+2016,1,Waste,Waste Water,Industrial," 16,756 ",Dubbo Regional,Central West and Orana,Regional,12390
+2016,1,Waste,Waste Water,Industrial, -   ,Dungog,Upper Hunter,Regional,12700
+2016,1,Waste,Waste Water,Industrial, -   ,Edward River,Riverina Murray,Regional,12730
+2016,1,Waste,Waste Water,Industrial, -   ,Eurobodalla,South East and Tablelands,Regional,12750
+2016,1,Waste,Waste Water,Industrial," 10,208 ",Fairfield,Western Parkland City,Six Cities,12850
+2016,1,Waste,Waste Water,Industrial," 22,466 ",Federation,Riverina Murray,Regional,12870
+2016,1,Waste,Waste Water,Industrial, -   ,Forbes,Central West and Orana,Regional,12900
+2016,1,Waste,Waste Water,Industrial, -   ,Georges River,Central River City,Six Cities,12930
+2016,1,Waste,Waste Water,Industrial, -   ,Gilgandra,Central West and Orana,Regional,12950
+2016,1,Waste,Waste Water,Industrial, -   ,Glen Innes Severn,New England North West,Regional,13010
+2016,1,Waste,Waste Water,Industrial," 4,305 ",Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2016,1,Waste,Waste Water,Industrial, -   ,Greater Hume Shire,Riverina Murray,Regional,13340
+2016,1,Waste,Waste Water,Industrial," 52,443 ",Griffith,Riverina Murray,Regional,13450
+2016,1,Waste,Waste Water,Industrial, -   ,Gunnedah,New England North West,Regional,13550
+2016,1,Waste,Waste Water,Industrial, -   ,Gwydir,New England North West,Regional,13660
+2016,1,Waste,Waste Water,Industrial, -   ,Hawkesbury,Western Parkland City,Six Cities,13800
+2016,1,Waste,Waste Water,Industrial, -   ,Hay,Riverina Murray,Regional,13850
+2016,1,Waste,Waste Water,Industrial, -   ,Hilltops,South East and Tablelands,Regional,13910
+2016,1,Waste,Waste Water,Industrial," 3,867 ",Hornsby,Eastern Harbour City,Six Cities,14000
+2016,1,Waste,Waste Water,Industrial, -   ,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2016,1,Waste,Waste Water,Industrial, 978 ,Inner West,Eastern Harbour City,Six Cities,14170
+2016,1,Waste,Waste Water,Industrial," 20,623 ",Inverell,New England North West,Regional,14200
+2016,1,Waste,Waste Water,Industrial," 3,351 ",Junee,Riverina Murray,Regional,14300
+2016,1,Waste,Waste Water,Industrial, -   ,Kempsey,North Coast,Regional,14350
+2016,1,Waste,Waste Water,Industrial, -   ,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2016,1,Waste,Waste Water,Industrial, -   ,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2016,1,Waste,Waste Water,Industrial, -   ,Kyogle,North Coast,Regional,14550
+2016,1,Waste,Waste Water,Industrial, -   ,Lachlan,Central West and Orana,Regional,14600
+2016,1,Waste,Waste Water,Industrial, 572 ,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2016,1,Waste,Waste Water,Industrial, -   ,Lane Cove,Eastern Harbour City,Six Cities,14700
+2016,1,Waste,Waste Water,Industrial," 11,625 ",Leeton,Riverina Murray,Regional,14750
+2016,1,Waste,Waste Water,Industrial, -   ,Lismore,North Coast,Regional,14850
+2016,1,Waste,Waste Water,Industrial, -   ,Lithgow,Central West and Orana,Regional,14870
+2016,1,Waste,Waste Water,Industrial," 1,985 ",Liverpool,Western Parkland City,Six Cities,14900
+2016,1,Waste,Waste Water,Industrial, -   ,Liverpool Plains,New England North West,Regional,14920
+2016,1,Waste,Waste Water,Industrial, -   ,Lockhart,Riverina Murray,Regional,14950
+2016,1,Waste,Waste Water,Industrial, -   ,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2016,1,Waste,Waste Water,Industrial," 10,956 ",Mid-Coast,Upper Hunter,Regional,15240
+2016,1,Waste,Waste Water,Industrial, -   ,Mid-Western Regional,Central West and Orana,Regional,15270
+2016,1,Waste,Waste Water,Industrial, -   ,Moree Plains,New England North West,Regional,15300
+2016,1,Waste,Waste Water,Industrial, -   ,Mosman,Eastern Harbour City,Six Cities,15350
+2016,1,Waste,Waste Water,Industrial, -   ,Murray River,Riverina Murray,Regional,15520
+2016,1,Waste,Waste Water,Industrial, -   ,Murrumbidgee,Riverina Murray,Regional,15560
+2016,1,Waste,Waste Water,Industrial, 191 ,Muswellbrook,Upper Hunter,Regional,15650
+2016,1,Waste,Waste Water,Industrial, -   ,Nambucca,North Coast,Regional,15700
+2016,1,Waste,Waste Water,Industrial, -   ,Narrabri,New England North West,Regional,15750
+2016,1,Waste,Waste Water,Industrial, -   ,Narrandera,Riverina Murray,Regional,15800
+2016,1,Waste,Waste Water,Industrial, -   ,Narromine,Central West and Orana,Regional,15850
+2016,1,Waste,Waste Water,Industrial," 28,544 ",Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2016,1,Waste,Waste Water,Industrial, -   ,North Sydney,Eastern Harbour City,Six Cities,15950
+2016,1,Waste,Waste Water,Industrial," 1,396 ",Northern Beaches,Eastern Harbour City,Six Cities,15990
+2016,1,Waste,Waste Water,Industrial, 401 ,Oberon,Central West and Orana,Regional,16100
+2016,1,Waste,Waste Water,Industrial, -   ,Orange,Central West and Orana,Regional,16150
+2016,1,Waste,Waste Water,Industrial, -   ,Parkes,Central West and Orana,Regional,16200
+2016,1,Waste,Waste Water,Industrial," 5,725 ",Parramatta,Central River City,Six Cities,16260
+2016,1,Waste,Waste Water,Industrial," 3,068 ",Penrith,Western Parkland City,Six Cities,16350
+2016,1,Waste,Waste Water,Industrial, -   ,Port Macquarie-Hastings,North Coast,Regional,16380
+2016,1,Waste,Waste Water,Industrial," 2,306 ",Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2016,1,Waste,Waste Water,Industrial, -   ,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2016,1,Waste,Waste Water,Industrial," 3,942 ",Randwick,Eastern Harbour City,Six Cities,16550
+2016,1,Waste,Waste Water,Industrial," 26,517 ",Richmond Valley,North Coast,Regional,16610
+2016,1,Waste,Waste Water,Industrial, -   ,Ryde,Eastern Harbour City,Six Cities,16700
+2016,1,Waste,Waste Water,Industrial, -   ,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2016,1,Waste,Waste Water,Industrial," 2,862 ",Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2016,1,Waste,Waste Water,Industrial," 6,829 ",Singleton,Upper Hunter,Regional,17000
+2016,1,Waste,Waste Water,Industrial, -   ,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2016,1,Waste,Waste Water,Industrial," 6,392 ",Snowy Valleys,Riverina Murray,Regional,17080
+2016,1,Waste,Waste Water,Industrial, 773 ,Strathfield,Eastern Harbour City,Six Cities,17100
+2016,1,Waste,Waste Water,Industrial, -   ,Sutherland Shire,Central River City,Six Cities,17150
+2016,1,Waste,Waste Water,Industrial, -   ,Sydney,Eastern Harbour City,Six Cities,17200
+2016,1,Waste,Waste Water,Industrial," 16,756 ",Tamworth Regional,New England North West,Regional,17310
+2016,1,Waste,Waste Water,Industrial, -   ,Temora,Riverina Murray,Regional,17350
+2016,1,Waste,Waste Water,Industrial, -   ,Tenterfield,New England North West,Regional,17400
+2016,1,Waste,Waste Water,Industrial, -   ,The Hills Shire,Central River City,Six Cities,17420
+2016,1,Waste,Waste Water,Industrial, 877 ,Tweed,North Coast,Regional,17550
+2016,1,Waste,Waste Water,Industrial, -   ,Unincorporated NSW,Far West,Regional,19399
+2016,1,Waste,Waste Water,Industrial, -   ,Upper Hunter Shire,Upper Hunter,Regional,17620
+2016,1,Waste,Waste Water,Industrial, -   ,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2016,1,Waste,Waste Water,Industrial, -   ,Uralla,New England North West,Regional,17650
+2016,1,Waste,Waste Water,Industrial," 25,642 ",Wagga Wagga,Riverina Murray,Regional,17750
+2016,1,Waste,Waste Water,Industrial, -   ,Walcha,New England North West,Regional,17850
+2016,1,Waste,Waste Water,Industrial, -   ,Walgett,Far West,Regional,17900
+2016,1,Waste,Waste Water,Industrial, -   ,Warren,Central West and Orana,Regional,17950
+2016,1,Waste,Waste Water,Industrial, -   ,Warrumbungle Shire,Central West and Orana,Regional,18020
+2016,1,Waste,Waste Water,Industrial, -   ,Waverley,Eastern Harbour City,Six Cities,18050
+2016,1,Waste,Waste Water,Industrial, -   ,Weddin,Central West and Orana,Regional,18100
+2016,1,Waste,Waste Water,Industrial," 4,010 ",Wentworth,Far West,Regional,18200
+2016,1,Waste,Waste Water,Industrial, -   ,Willoughby,Eastern Harbour City,Six Cities,18250
+2016,1,Waste,Waste Water,Industrial, -   ,Wingecarribee,South East and Tablelands,Regional,18350
+2016,1,Waste,Waste Water,Industrial, 412 ,Wollondilly,Western Parkland City,Six Cities,18400
+2016,1,Waste,Waste Water,Industrial," 2,023 ",Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2016,1,Waste,Waste Water,Industrial, -   ,Woollahra,Eastern Harbour City,Six Cities,18500
+2016,1,Waste,Waste Water,Industrial, -   ,Yass Valley,South East and Tablelands,Regional,18710
+2017,1,Waste,Waste Water,Industrial," 5,197 ",Albury,Riverina Murray,Regional,10050
+2017,1,Waste,Waste Water,Industrial, -   ,Armidale Regional,New England North West,Regional,10130
+2017,1,Waste,Waste Water,Industrial, -   ,Ballina,North Coast,Regional,10250
+2017,1,Waste,Waste Water,Industrial, -   ,Balranald,Far West,Regional,10300
+2017,1,Waste,Waste Water,Industrial, 59 ,Bathurst Regional,Central West and Orana,Regional,10470
+2017,1,Waste,Waste Water,Industrial," 16,042 ",Bayside,Eastern Harbour City,Six Cities,10500
+2017,1,Waste,Waste Water,Industrial," 10,832 ",Bega Valley,South East and Tablelands,Regional,10550
+2017,1,Waste,Waste Water,Industrial, -   ,Bellingen,North Coast,Regional,10600
+2017,1,Waste,Waste Water,Industrial, -   ,Berrigan,Riverina Murray,Regional,10650
+2017,1,Waste,Waste Water,Industrial," 9,732 ",Blacktown,Central River City,Six Cities,10750
+2017,1,Waste,Waste Water,Industrial, -   ,Bland,Riverina Murray,Regional,10800
+2017,1,Waste,Waste Water,Industrial, -   ,Blayney,Central West and Orana,Regional,10850
+2017,1,Waste,Waste Water,Industrial, -   ,Blue Mountains,Western Parkland City,Six Cities,10900
+2017,1,Waste,Waste Water,Industrial, -   ,Bogan,Central West and Orana,Regional,10950
+2017,1,Waste,Waste Water,Industrial, -   ,Bourke,Far West,Regional,11150
+2017,1,Waste,Waste Water,Industrial, -   ,Brewarrina,Far West,Regional,11200
+2017,1,Waste,Waste Water,Industrial, -   ,Broken Hill,Far West,Regional,11250
+2017,1,Waste,Waste Water,Industrial, -   ,Burwood,Eastern Harbour City,Six Cities,11300
+2017,1,Waste,Waste Water,Industrial, -   ,Byron,North Coast,Regional,11350
+2017,1,Waste,Waste Water,Industrial, -   ,Cabonne,Central West and Orana,Regional,11400
+2017,1,Waste,Waste Water,Industrial, -   ,Camden,Western Parkland City,Six Cities,11450
+2017,1,Waste,Waste Water,Industrial," 13,550 ",Campbelltown,Western Parkland City,Six Cities,11500
+2017,1,Waste,Waste Water,Industrial, -   ,Canada Bay,Eastern Harbour City,Six Cities,11520
+2017,1,Waste,Waste Water,Industrial," 11,631 ",Canterbury-Bankstown,Central River City,Six Cities,11570
+2017,1,Waste,Waste Water,Industrial, -   ,Carrathool,Riverina Murray,Regional,11600
+2017,1,Waste,Waste Water,Industrial," 6,295 ",Central Coast,Central Coast City,Six Cities,11650
+2017,1,Waste,Waste Water,Industrial, -   ,Central Darling,Far West,Regional,11700
+2017,1,Waste,Waste Water,Industrial," 1,682 ",Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2017,1,Waste,Waste Water,Industrial," 1,520 ",Clarence Valley,North Coast,Regional,11730
+2017,1,Waste,Waste Water,Industrial, -   ,Cobar,Far West,Regional,11750
+2017,1,Waste,Waste Water,Industrial, -   ,Coffs Harbour,North Coast,Regional,11800
+2017,1,Waste,Waste Water,Industrial, -   ,Coolamon,Riverina Murray,Regional,12000
+2017,1,Waste,Waste Water,Industrial, -   ,Coonamble,Central West and Orana,Regional,12150
+2017,1,Waste,Waste Water,Industrial, -   ,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2017,1,Waste,Waste Water,Industrial, -   ,Cowra,Central West and Orana,Regional,12350
+2017,1,Waste,Waste Water,Industrial," 27,601 ",Cumberland,Central River City,Six Cities,12380
+2017,1,Waste,Waste Water,Industrial," 14,802 ",Dubbo Regional,Central West and Orana,Regional,12390
+2017,1,Waste,Waste Water,Industrial, -   ,Dungog,Upper Hunter,Regional,12700
+2017,1,Waste,Waste Water,Industrial, -   ,Edward River,Riverina Murray,Regional,12730
+2017,1,Waste,Waste Water,Industrial, -   ,Eurobodalla,South East and Tablelands,Regional,12750
+2017,1,Waste,Waste Water,Industrial," 10,477 ",Fairfield,Western Parkland City,Six Cities,12850
+2017,1,Waste,Waste Water,Industrial," 20,652 ",Federation,Riverina Murray,Regional,12870
+2017,1,Waste,Waste Water,Industrial, -   ,Forbes,Central West and Orana,Regional,12900
+2017,1,Waste,Waste Water,Industrial, -   ,Georges River,Central River City,Six Cities,12930
+2017,1,Waste,Waste Water,Industrial, -   ,Gilgandra,Central West and Orana,Regional,12950
+2017,1,Waste,Waste Water,Industrial, -   ,Glen Innes Severn,New England North West,Regional,13010
+2017,1,Waste,Waste Water,Industrial," 3,803 ",Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2017,1,Waste,Waste Water,Industrial, -   ,Greater Hume Shire,Riverina Murray,Regional,13340
+2017,1,Waste,Waste Water,Industrial," 62,416 ",Griffith,Riverina Murray,Regional,13450
+2017,1,Waste,Waste Water,Industrial, -   ,Gunnedah,New England North West,Regional,13550
+2017,1,Waste,Waste Water,Industrial, -   ,Gwydir,New England North West,Regional,13660
+2017,1,Waste,Waste Water,Industrial, -   ,Hawkesbury,Western Parkland City,Six Cities,13800
+2017,1,Waste,Waste Water,Industrial, -   ,Hay,Riverina Murray,Regional,13850
+2017,1,Waste,Waste Water,Industrial, -   ,Hilltops,South East and Tablelands,Regional,13910
+2017,1,Waste,Waste Water,Industrial," 3,416 ",Hornsby,Eastern Harbour City,Six Cities,14000
+2017,1,Waste,Waste Water,Industrial, -   ,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2017,1,Waste,Waste Water,Industrial," 1,022 ",Inner West,Eastern Harbour City,Six Cities,14170
+2017,1,Waste,Waste Water,Industrial," 18,218 ",Inverell,New England North West,Regional,14200
+2017,1,Waste,Waste Water,Industrial," 2,960 ",Junee,Riverina Murray,Regional,14300
+2017,1,Waste,Waste Water,Industrial, -   ,Kempsey,North Coast,Regional,14350
+2017,1,Waste,Waste Water,Industrial, -   ,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2017,1,Waste,Waste Water,Industrial, -   ,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2017,1,Waste,Waste Water,Industrial, -   ,Kyogle,North Coast,Regional,14550
+2017,1,Waste,Waste Water,Industrial, -   ,Lachlan,Central West and Orana,Regional,14600
+2017,1,Waste,Waste Water,Industrial, 573 ,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2017,1,Waste,Waste Water,Industrial, -   ,Lane Cove,Eastern Harbour City,Six Cities,14700
+2017,1,Waste,Waste Water,Industrial," 10,273 ",Leeton,Riverina Murray,Regional,14750
+2017,1,Waste,Waste Water,Industrial, -   ,Lismore,North Coast,Regional,14850
+2017,1,Waste,Waste Water,Industrial, -   ,Lithgow,Central West and Orana,Regional,14870
+2017,1,Waste,Waste Water,Industrial," 2,082 ",Liverpool,Western Parkland City,Six Cities,14900
+2017,1,Waste,Waste Water,Industrial, -   ,Liverpool Plains,New England North West,Regional,14920
+2017,1,Waste,Waste Water,Industrial, -   ,Lockhart,Riverina Murray,Regional,14950
+2017,1,Waste,Waste Water,Industrial, -   ,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2017,1,Waste,Waste Water,Industrial," 9,678 ",Mid-Coast,Upper Hunter,Regional,15240
+2017,1,Waste,Waste Water,Industrial, -   ,Mid-Western Regional,Central West and Orana,Regional,15270
+2017,1,Waste,Waste Water,Industrial, -   ,Moree Plains,New England North West,Regional,15300
+2017,1,Waste,Waste Water,Industrial, -   ,Mosman,Eastern Harbour City,Six Cities,15350
+2017,1,Waste,Waste Water,Industrial, -   ,Murray River,Riverina Murray,Regional,15520
+2017,1,Waste,Waste Water,Industrial, -   ,Murrumbidgee,Riverina Murray,Regional,15560
+2017,1,Waste,Waste Water,Industrial, 191 ,Muswellbrook,Upper Hunter,Regional,15650
+2017,1,Waste,Waste Water,Industrial, -   ,Nambucca,North Coast,Regional,15700
+2017,1,Waste,Waste Water,Industrial, -   ,Narrabri,New England North West,Regional,15750
+2017,1,Waste,Waste Water,Industrial, -   ,Narrandera,Riverina Murray,Regional,15800
+2017,1,Waste,Waste Water,Industrial, -   ,Narromine,Central West and Orana,Regional,15850
+2017,1,Waste,Waste Water,Industrial," 27,929 ",Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2017,1,Waste,Waste Water,Industrial, -   ,North Sydney,Eastern Harbour City,Six Cities,15950
+2017,1,Waste,Waste Water,Industrial," 1,460 ",Northern Beaches,Eastern Harbour City,Six Cities,15990
+2017,1,Waste,Waste Water,Industrial, 401 ,Oberon,Central West and Orana,Regional,16100
+2017,1,Waste,Waste Water,Industrial, -   ,Orange,Central West and Orana,Regional,16150
+2017,1,Waste,Waste Water,Industrial, -   ,Parkes,Central West and Orana,Regional,16200
+2017,1,Waste,Waste Water,Industrial," 5,729 ",Parramatta,Central River City,Six Cities,16260
+2017,1,Waste,Waste Water,Industrial," 3,260 ",Penrith,Western Parkland City,Six Cities,16350
+2017,1,Waste,Waste Water,Industrial, -   ,Port Macquarie-Hastings,North Coast,Regional,16380
+2017,1,Waste,Waste Water,Industrial," 2,364 ",Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2017,1,Waste,Waste Water,Industrial, -   ,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2017,1,Waste,Waste Water,Industrial," 4,037 ",Randwick,Eastern Harbour City,Six Cities,16550
+2017,1,Waste,Waste Water,Industrial," 23,616 ",Richmond Valley,North Coast,Regional,16610
+2017,1,Waste,Waste Water,Industrial, -   ,Ryde,Eastern Harbour City,Six Cities,16700
+2017,1,Waste,Waste Water,Industrial, -   ,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2017,1,Waste,Waste Water,Industrial," 2,865 ",Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2017,1,Waste,Waste Water,Industrial," 6,277 ",Singleton,Upper Hunter,Regional,17000
+2017,1,Waste,Waste Water,Industrial, -   ,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2017,1,Waste,Waste Water,Industrial," 6,558 ",Snowy Valleys,Riverina Murray,Regional,17080
+2017,1,Waste,Waste Water,Industrial, 683 ,Strathfield,Eastern Harbour City,Six Cities,17100
+2017,1,Waste,Waste Water,Industrial, -   ,Sutherland Shire,Central River City,Six Cities,17150
+2017,1,Waste,Waste Water,Industrial, -   ,Sydney,Eastern Harbour City,Six Cities,17200
+2017,1,Waste,Waste Water,Industrial," 14,802 ",Tamworth Regional,New England North West,Regional,17310
+2017,1,Waste,Waste Water,Industrial, -   ,Temora,Riverina Murray,Regional,17350
+2017,1,Waste,Waste Water,Industrial, -   ,Tenterfield,New England North West,Regional,17400
+2017,1,Waste,Waste Water,Industrial, -   ,The Hills Shire,Central River City,Six Cities,17420
+2017,1,Waste,Waste Water,Industrial, 943 ,Tweed,North Coast,Regional,17550
+2017,1,Waste,Waste Water,Industrial, -   ,Unincorporated NSW,Far West,Regional,19399
+2017,1,Waste,Waste Water,Industrial, -   ,Upper Hunter Shire,Upper Hunter,Regional,17620
+2017,1,Waste,Waste Water,Industrial, -   ,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2017,1,Waste,Waste Water,Industrial, -   ,Uralla,New England North West,Regional,17650
+2017,1,Waste,Waste Water,Industrial," 20,700 ",Wagga Wagga,Riverina Murray,Regional,17750
+2017,1,Waste,Waste Water,Industrial, -   ,Walcha,New England North West,Regional,17850
+2017,1,Waste,Waste Water,Industrial, -   ,Walgett,Far West,Regional,17900
+2017,1,Waste,Waste Water,Industrial, -   ,Warren,Central West and Orana,Regional,17950
+2017,1,Waste,Waste Water,Industrial, -   ,Warrumbungle Shire,Central West and Orana,Regional,18020
+2017,1,Waste,Waste Water,Industrial, -   ,Waverley,Eastern Harbour City,Six Cities,18050
+2017,1,Waste,Waste Water,Industrial, -   ,Weddin,Central West and Orana,Regional,18100
+2017,1,Waste,Waste Water,Industrial," 4,047 ",Wentworth,Far West,Regional,18200
+2017,1,Waste,Waste Water,Industrial, -   ,Willoughby,Eastern Harbour City,Six Cities,18250
+2017,1,Waste,Waste Water,Industrial, -   ,Wingecarribee,South East and Tablelands,Regional,18350
+2017,1,Waste,Waste Water,Industrial, 364 ,Wollondilly,Western Parkland City,Six Cities,18400
+2017,1,Waste,Waste Water,Industrial," 2,024 ",Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2017,1,Waste,Waste Water,Industrial, -   ,Woollahra,Eastern Harbour City,Six Cities,18500
+2017,1,Waste,Waste Water,Industrial, -   ,Yass Valley,South East and Tablelands,Regional,18710
+2018,1,Waste,Waste Water,Industrial," 5,273 ",Albury,Riverina Murray,Regional,10050
+2018,1,Waste,Waste Water,Industrial, -   ,Armidale Regional,New England North West,Regional,10130
+2018,1,Waste,Waste Water,Industrial, -   ,Ballina,North Coast,Regional,10250
+2018,1,Waste,Waste Water,Industrial, -   ,Balranald,Far West,Regional,10300
+2018,1,Waste,Waste Water,Industrial, 59 ,Bathurst Regional,Central West and Orana,Regional,10470
+2018,1,Waste,Waste Water,Industrial," 15,911 ",Bayside,Eastern Harbour City,Six Cities,10500
+2018,1,Waste,Waste Water,Industrial," 10,238 ",Bega Valley,South East and Tablelands,Regional,10550
+2018,1,Waste,Waste Water,Industrial, -   ,Bellingen,North Coast,Regional,10600
+2018,1,Waste,Waste Water,Industrial, -   ,Berrigan,Riverina Murray,Regional,10650
+2018,1,Waste,Waste Water,Industrial," 9,504 ",Blacktown,Central River City,Six Cities,10750
+2018,1,Waste,Waste Water,Industrial, -   ,Bland,Riverina Murray,Regional,10800
+2018,1,Waste,Waste Water,Industrial, -   ,Blayney,Central West and Orana,Regional,10850
+2018,1,Waste,Waste Water,Industrial, -   ,Blue Mountains,Western Parkland City,Six Cities,10900
+2018,1,Waste,Waste Water,Industrial, -   ,Bogan,Central West and Orana,Regional,10950
+2018,1,Waste,Waste Water,Industrial, -   ,Bourke,Far West,Regional,11150
+2018,1,Waste,Waste Water,Industrial, -   ,Brewarrina,Far West,Regional,11200
+2018,1,Waste,Waste Water,Industrial, -   ,Broken Hill,Far West,Regional,11250
+2018,1,Waste,Waste Water,Industrial, -   ,Burwood,Eastern Harbour City,Six Cities,11300
+2018,1,Waste,Waste Water,Industrial, -   ,Byron,North Coast,Regional,11350
+2018,1,Waste,Waste Water,Industrial, -   ,Cabonne,Central West and Orana,Regional,11400
+2018,1,Waste,Waste Water,Industrial, -   ,Camden,Western Parkland City,Six Cities,11450
+2018,1,Waste,Waste Water,Industrial," 13,354 ",Campbelltown,Western Parkland City,Six Cities,11500
+2018,1,Waste,Waste Water,Industrial, -   ,Canada Bay,Eastern Harbour City,Six Cities,11520
+2018,1,Waste,Waste Water,Industrial," 11,558 ",Canterbury-Bankstown,Central River City,Six Cities,11570
+2018,1,Waste,Waste Water,Industrial, -   ,Carrathool,Riverina Murray,Regional,11600
+2018,1,Waste,Waste Water,Industrial," 6,123 ",Central Coast,Central Coast City,Six Cities,11650
+2018,1,Waste,Waste Water,Industrial, -   ,Central Darling,Far West,Regional,11700
+2018,1,Waste,Waste Water,Industrial," 1,634 ",Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2018,1,Waste,Waste Water,Industrial," 1,484 ",Clarence Valley,North Coast,Regional,11730
+2018,1,Waste,Waste Water,Industrial, -   ,Cobar,Far West,Regional,11750
+2018,1,Waste,Waste Water,Industrial, -   ,Coffs Harbour,North Coast,Regional,11800
+2018,1,Waste,Waste Water,Industrial, -   ,Coolamon,Riverina Murray,Regional,12000
+2018,1,Waste,Waste Water,Industrial, -   ,Coonamble,Central West and Orana,Regional,12150
+2018,1,Waste,Waste Water,Industrial, -   ,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2018,1,Waste,Waste Water,Industrial, -   ,Cowra,Central West and Orana,Regional,12350
+2018,1,Waste,Waste Water,Industrial," 25,754 ",Cumberland,Central River City,Six Cities,12380
+2018,1,Waste,Waste Water,Industrial," 14,217 ",Dubbo Regional,Central West and Orana,Regional,12390
+2018,1,Waste,Waste Water,Industrial, -   ,Dungog,Upper Hunter,Regional,12700
+2018,1,Waste,Waste Water,Industrial, -   ,Edward River,Riverina Murray,Regional,12730
+2018,1,Waste,Waste Water,Industrial, -   ,Eurobodalla,South East and Tablelands,Regional,12750
+2018,1,Waste,Waste Water,Industrial," 10,721 ",Fairfield,Western Parkland City,Six Cities,12850
+2018,1,Waste,Waste Water,Industrial," 20,077 ",Federation,Riverina Murray,Regional,12870
+2018,1,Waste,Waste Water,Industrial, -   ,Forbes,Central West and Orana,Regional,12900
+2018,1,Waste,Waste Water,Industrial, -   ,Georges River,Central River City,Six Cities,12930
+2018,1,Waste,Waste Water,Industrial, -   ,Gilgandra,Central West and Orana,Regional,12950
+2018,1,Waste,Waste Water,Industrial, -   ,Glen Innes Severn,New England North West,Regional,13010
+2018,1,Waste,Waste Water,Industrial," 3,653 ",Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2018,1,Waste,Waste Water,Industrial, -   ,Greater Hume Shire,Riverina Murray,Regional,13340
+2018,1,Waste,Waste Water,Industrial," 63,760 ",Griffith,Riverina Murray,Regional,13450
+2018,1,Waste,Waste Water,Industrial, -   ,Gunnedah,New England North West,Regional,13550
+2018,1,Waste,Waste Water,Industrial, -   ,Gwydir,New England North West,Regional,13660
+2018,1,Waste,Waste Water,Industrial, -   ,Hawkesbury,Western Parkland City,Six Cities,13800
+2018,1,Waste,Waste Water,Industrial, -   ,Hay,Riverina Murray,Regional,13850
+2018,1,Waste,Waste Water,Industrial, -   ,Hilltops,South East and Tablelands,Regional,13910
+2018,1,Waste,Waste Water,Industrial," 3,281 ",Hornsby,Eastern Harbour City,Six Cities,14000
+2018,1,Waste,Waste Water,Industrial, -   ,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2018,1,Waste,Waste Water,Industrial, 923 ,Inner West,Eastern Harbour City,Six Cities,14170
+2018,1,Waste,Waste Water,Industrial," 15,880 ",Inverell,New England North West,Regional,14200
+2018,1,Waste,Waste Water,Industrial," 2,843 ",Junee,Riverina Murray,Regional,14300
+2018,1,Waste,Waste Water,Industrial, -   ,Kempsey,North Coast,Regional,14350
+2018,1,Waste,Waste Water,Industrial, -   ,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2018,1,Waste,Waste Water,Industrial, -   ,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2018,1,Waste,Waste Water,Industrial, -   ,Kyogle,North Coast,Regional,14550
+2018,1,Waste,Waste Water,Industrial, -   ,Lachlan,Central West and Orana,Regional,14600
+2018,1,Waste,Waste Water,Industrial, 570 ,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2018,1,Waste,Waste Water,Industrial, -   ,Lane Cove,Eastern Harbour City,Six Cities,14700
+2018,1,Waste,Waste Water,Industrial," 9,868 ",Leeton,Riverina Murray,Regional,14750
+2018,1,Waste,Waste Water,Industrial, -   ,Lismore,North Coast,Regional,14850
+2018,1,Waste,Waste Water,Industrial, -   ,Lithgow,Central West and Orana,Regional,14870
+2018,1,Waste,Waste Water,Industrial," 1,996 ",Liverpool,Western Parkland City,Six Cities,14900
+2018,1,Waste,Waste Water,Industrial, -   ,Liverpool Plains,New England North West,Regional,14920
+2018,1,Waste,Waste Water,Industrial, -   ,Lockhart,Riverina Murray,Regional,14950
+2018,1,Waste,Waste Water,Industrial, -   ,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2018,1,Waste,Waste Water,Industrial," 9,296 ",Mid-Coast,Upper Hunter,Regional,15240
+2018,1,Waste,Waste Water,Industrial, -   ,Mid-Western Regional,Central West and Orana,Regional,15270
+2018,1,Waste,Waste Water,Industrial, -   ,Moree Plains,New England North West,Regional,15300
+2018,1,Waste,Waste Water,Industrial, -   ,Mosman,Eastern Harbour City,Six Cities,15350
+2018,1,Waste,Waste Water,Industrial, -   ,Murray River,Riverina Murray,Regional,15520
+2018,1,Waste,Waste Water,Industrial, -   ,Murrumbidgee,Riverina Murray,Regional,15560
+2018,1,Waste,Waste Water,Industrial, 190 ,Muswellbrook,Upper Hunter,Regional,15650
+2018,1,Waste,Waste Water,Industrial, -   ,Nambucca,North Coast,Regional,15700
+2018,1,Waste,Waste Water,Industrial, -   ,Narrabri,New England North West,Regional,15750
+2018,1,Waste,Waste Water,Industrial, -   ,Narrandera,Riverina Murray,Regional,15800
+2018,1,Waste,Waste Water,Industrial, -   ,Narromine,Central West and Orana,Regional,15850
+2018,1,Waste,Waste Water,Industrial," 27,101 ",Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2018,1,Waste,Waste Water,Industrial, -   ,North Sydney,Eastern Harbour City,Six Cities,15950
+2018,1,Waste,Waste Water,Industrial," 1,318 ",Northern Beaches,Eastern Harbour City,Six Cities,15990
+2018,1,Waste,Waste Water,Industrial, 342 ,Oberon,Central West and Orana,Regional,16100
+2018,1,Waste,Waste Water,Industrial, -   ,Orange,Central West and Orana,Regional,16150
+2018,1,Waste,Waste Water,Industrial, -   ,Parkes,Central West and Orana,Regional,16200
+2018,1,Waste,Waste Water,Industrial," 5,703 ",Parramatta,Central River City,Six Cities,16260
+2018,1,Waste,Waste Water,Industrial," 3,106 ",Penrith,Western Parkland City,Six Cities,16350
+2018,1,Waste,Waste Water,Industrial, -   ,Port Macquarie-Hastings,North Coast,Regional,16380
+2018,1,Waste,Waste Water,Industrial," 2,397 ",Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2018,1,Waste,Waste Water,Industrial, -   ,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2018,1,Waste,Waste Water,Industrial," 3,796 ",Randwick,Eastern Harbour City,Six Cities,16550
+2018,1,Waste,Waste Water,Industrial," 22,700 ",Richmond Valley,North Coast,Regional,16610
+2018,1,Waste,Waste Water,Industrial, -   ,Ryde,Eastern Harbour City,Six Cities,16700
+2018,1,Waste,Waste Water,Industrial, -   ,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2018,1,Waste,Waste Water,Industrial," 2,851 ",Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2018,1,Waste,Waste Water,Industrial," 6,120 ",Singleton,Upper Hunter,Regional,17000
+2018,1,Waste,Waste Water,Industrial, -   ,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2018,1,Waste,Waste Water,Industrial," 6,654 ",Snowy Valleys,Riverina Murray,Regional,17080
+2018,1,Waste,Waste Water,Industrial, 656 ,Strathfield,Eastern Harbour City,Six Cities,17100
+2018,1,Waste,Waste Water,Industrial, -   ,Sutherland Shire,Central River City,Six Cities,17150
+2018,1,Waste,Waste Water,Industrial, -   ,Sydney,Eastern Harbour City,Six Cities,17200
+2018,1,Waste,Waste Water,Industrial," 14,217 ",Tamworth Regional,New England North West,Regional,17310
+2018,1,Waste,Waste Water,Industrial, -   ,Temora,Riverina Murray,Regional,17350
+2018,1,Waste,Waste Water,Industrial, -   ,Tenterfield,New England North West,Regional,17400
+2018,1,Waste,Waste Water,Industrial, -   ,The Hills Shire,Central River City,Six Cities,17420
+2018,1,Waste,Waste Water,Industrial, 921 ,Tweed,North Coast,Regional,17550
+2018,1,Waste,Waste Water,Industrial, -   ,Unincorporated NSW,Far West,Regional,19399
+2018,1,Waste,Waste Water,Industrial, -   ,Upper Hunter Shire,Upper Hunter,Regional,17620
+2018,1,Waste,Waste Water,Industrial, -   ,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2018,1,Waste,Waste Water,Industrial, -   ,Uralla,New England North West,Regional,17650
+2018,1,Waste,Waste Water,Industrial," 19,869 ",Wagga Wagga,Riverina Murray,Regional,17750
+2018,1,Waste,Waste Water,Industrial, -   ,Walcha,New England North West,Regional,17850
+2018,1,Waste,Waste Water,Industrial, -   ,Walgett,Far West,Regional,17900
+2018,1,Waste,Waste Water,Industrial, -   ,Warren,Central West and Orana,Regional,17950
+2018,1,Waste,Waste Water,Industrial, -   ,Warrumbungle Shire,Central West and Orana,Regional,18020
+2018,1,Waste,Waste Water,Industrial, -   ,Waverley,Eastern Harbour City,Six Cities,18050
+2018,1,Waste,Waste Water,Industrial, -   ,Weddin,Central West and Orana,Regional,18100
+2018,1,Waste,Waste Water,Industrial," 3,919 ",Wentworth,Far West,Regional,18200
+2018,1,Waste,Waste Water,Industrial, -   ,Willoughby,Eastern Harbour City,Six Cities,18250
+2018,1,Waste,Waste Water,Industrial, -   ,Wingecarribee,South East and Tablelands,Regional,18350
+2018,1,Waste,Waste Water,Industrial, 350 ,Wollondilly,Western Parkland City,Six Cities,18400
+2018,1,Waste,Waste Water,Industrial," 2,015 ",Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2018,1,Waste,Waste Water,Industrial, -   ,Woollahra,Eastern Harbour City,Six Cities,18500
+2018,1,Waste,Waste Water,Industrial, -   ,Yass Valley,South East and Tablelands,Regional,18710
+2019,1,Waste,Waste Water,Industrial," 5,199 ",Albury,Riverina Murray,Regional,10050
+2019,1,Waste,Waste Water,Industrial, -   ,Armidale Regional,New England North West,Regional,10130
+2019,1,Waste,Waste Water,Industrial, -   ,Ballina,North Coast,Regional,10250
+2019,1,Waste,Waste Water,Industrial, -   ,Balranald,Far West,Regional,10300
+2019,1,Waste,Waste Water,Industrial, 59 ,Bathurst Regional,Central West and Orana,Regional,10470
+2019,1,Waste,Waste Water,Industrial," 15,699 ",Bayside,Eastern Harbour City,Six Cities,10500
+2019,1,Waste,Waste Water,Industrial," 10,769 ",Bega Valley,South East and Tablelands,Regional,10550
+2019,1,Waste,Waste Water,Industrial, -   ,Bellingen,North Coast,Regional,10600
+2019,1,Waste,Waste Water,Industrial, -   ,Berrigan,Riverina Murray,Regional,10650
+2019,1,Waste,Waste Water,Industrial," 9,661 ",Blacktown,Central River City,Six Cities,10750
+2019,1,Waste,Waste Water,Industrial, -   ,Bland,Riverina Murray,Regional,10800
+2019,1,Waste,Waste Water,Industrial, -   ,Blayney,Central West and Orana,Regional,10850
+2019,1,Waste,Waste Water,Industrial, -   ,Blue Mountains,Western Parkland City,Six Cities,10900
+2019,1,Waste,Waste Water,Industrial, -   ,Bogan,Central West and Orana,Regional,10950
+2019,1,Waste,Waste Water,Industrial, -   ,Bourke,Far West,Regional,11150
+2019,1,Waste,Waste Water,Industrial, -   ,Brewarrina,Far West,Regional,11200
+2019,1,Waste,Waste Water,Industrial, -   ,Broken Hill,Far West,Regional,11250
+2019,1,Waste,Waste Water,Industrial, -   ,Burwood,Eastern Harbour City,Six Cities,11300
+2019,1,Waste,Waste Water,Industrial, -   ,Byron,North Coast,Regional,11350
+2019,1,Waste,Waste Water,Industrial, -   ,Cabonne,Central West and Orana,Regional,11400
+2019,1,Waste,Waste Water,Industrial, -   ,Camden,Western Parkland City,Six Cities,11450
+2019,1,Waste,Waste Water,Industrial," 13,290 ",Campbelltown,Western Parkland City,Six Cities,11500
+2019,1,Waste,Waste Water,Industrial, -   ,Canada Bay,Eastern Harbour City,Six Cities,11520
+2019,1,Waste,Waste Water,Industrial," 12,454 ",Canterbury-Bankstown,Central River City,Six Cities,11570
+2019,1,Waste,Waste Water,Industrial, -   ,Carrathool,Riverina Murray,Regional,11600
+2019,1,Waste,Waste Water,Industrial," 6,819 ",Central Coast,Central Coast City,Six Cities,11650
+2019,1,Waste,Waste Water,Industrial, -   ,Central Darling,Far West,Regional,11700
+2019,1,Waste,Waste Water,Industrial," 2,016 ",Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2019,1,Waste,Waste Water,Industrial," 1,390 ",Clarence Valley,North Coast,Regional,11730
+2019,1,Waste,Waste Water,Industrial, -   ,Cobar,Far West,Regional,11750
+2019,1,Waste,Waste Water,Industrial, -   ,Coffs Harbour,North Coast,Regional,11800
+2019,1,Waste,Waste Water,Industrial, -   ,Coolamon,Riverina Murray,Regional,12000
+2019,1,Waste,Waste Water,Industrial, -   ,Coonamble,Central West and Orana,Regional,12150
+2019,1,Waste,Waste Water,Industrial, -   ,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2019,1,Waste,Waste Water,Industrial, -   ,Cowra,Central West and Orana,Regional,12350
+2019,1,Waste,Waste Water,Industrial," 22,325 ",Cumberland,Central River City,Six Cities,12380
+2019,1,Waste,Waste Water,Industrial," 16,835 ",Dubbo Regional,Central West and Orana,Regional,12390
+2019,1,Waste,Waste Water,Industrial, -   ,Dungog,Upper Hunter,Regional,12700
+2019,1,Waste,Waste Water,Industrial, -   ,Edward River,Riverina Murray,Regional,12730
+2019,1,Waste,Waste Water,Industrial, -   ,Eurobodalla,South East and Tablelands,Regional,12750
+2019,1,Waste,Waste Water,Industrial," 10,675 ",Fairfield,Western Parkland City,Six Cities,12850
+2019,1,Waste,Waste Water,Industrial," 22,422 ",Federation,Riverina Murray,Regional,12870
+2019,1,Waste,Waste Water,Industrial, -   ,Forbes,Central West and Orana,Regional,12900
+2019,1,Waste,Waste Water,Industrial, -   ,Georges River,Central River City,Six Cities,12930
+2019,1,Waste,Waste Water,Industrial, -   ,Gilgandra,Central West and Orana,Regional,12950
+2019,1,Waste,Waste Water,Industrial, -   ,Glen Innes Severn,New England North West,Regional,13010
+2019,1,Waste,Waste Water,Industrial," 4,325 ",Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2019,1,Waste,Waste Water,Industrial, -   ,Greater Hume Shire,Riverina Murray,Regional,13340
+2019,1,Waste,Waste Water,Industrial," 69,537 ",Griffith,Riverina Murray,Regional,13450
+2019,1,Waste,Waste Water,Industrial, -   ,Gunnedah,New England North West,Regional,13550
+2019,1,Waste,Waste Water,Industrial, -   ,Gwydir,New England North West,Regional,13660
+2019,1,Waste,Waste Water,Industrial, -   ,Hawkesbury,Western Parkland City,Six Cities,13800
+2019,1,Waste,Waste Water,Industrial, -   ,Hay,Riverina Murray,Regional,13850
+2019,1,Waste,Waste Water,Industrial, -   ,Hilltops,South East and Tablelands,Regional,13910
+2019,1,Waste,Waste Water,Industrial," 3,885 ",Hornsby,Eastern Harbour City,Six Cities,14000
+2019,1,Waste,Waste Water,Industrial, -   ,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2019,1,Waste,Waste Water,Industrial, 967 ,Inner West,Eastern Harbour City,Six Cities,14170
+2019,1,Waste,Waste Water,Industrial," 21,342 ",Inverell,New England North West,Regional,14200
+2019,1,Waste,Waste Water,Industrial," 3,367 ",Junee,Riverina Murray,Regional,14300
+2019,1,Waste,Waste Water,Industrial, -   ,Kempsey,North Coast,Regional,14350
+2019,1,Waste,Waste Water,Industrial, -   ,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2019,1,Waste,Waste Water,Industrial, -   ,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2019,1,Waste,Waste Water,Industrial, -   ,Kyogle,North Coast,Regional,14550
+2019,1,Waste,Waste Water,Industrial, -   ,Lachlan,Central West and Orana,Regional,14600
+2019,1,Waste,Waste Water,Industrial, 563 ,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2019,1,Waste,Waste Water,Industrial, -   ,Lane Cove,Eastern Harbour City,Six Cities,14700
+2019,1,Waste,Waste Water,Industrial," 11,681 ",Leeton,Riverina Murray,Regional,14750
+2019,1,Waste,Waste Water,Industrial, -   ,Lismore,North Coast,Regional,14850
+2019,1,Waste,Waste Water,Industrial, -   ,Lithgow,Central West and Orana,Regional,14870
+2019,1,Waste,Waste Water,Industrial," 2,101 ",Liverpool,Western Parkland City,Six Cities,14900
+2019,1,Waste,Waste Water,Industrial, -   ,Liverpool Plains,New England North West,Regional,14920
+2019,1,Waste,Waste Water,Industrial, -   ,Lockhart,Riverina Murray,Regional,14950
+2019,1,Waste,Waste Water,Industrial, -   ,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2019,1,Waste,Waste Water,Industrial," 11,008 ",Mid-Coast,Upper Hunter,Regional,15240
+2019,1,Waste,Waste Water,Industrial, -   ,Mid-Western Regional,Central West and Orana,Regional,15270
+2019,1,Waste,Waste Water,Industrial, -   ,Moree Plains,New England North West,Regional,15300
+2019,1,Waste,Waste Water,Industrial, -   ,Mosman,Eastern Harbour City,Six Cities,15350
+2019,1,Waste,Waste Water,Industrial, -   ,Murray River,Riverina Murray,Regional,15520
+2019,1,Waste,Waste Water,Industrial, -   ,Murrumbidgee,Riverina Murray,Regional,15560
+2019,1,Waste,Waste Water,Industrial, 188 ,Muswellbrook,Upper Hunter,Regional,15650
+2019,1,Waste,Waste Water,Industrial, -   ,Nambucca,North Coast,Regional,15700
+2019,1,Waste,Waste Water,Industrial, -   ,Narrabri,New England North West,Regional,15750
+2019,1,Waste,Waste Water,Industrial, -   ,Narrandera,Riverina Murray,Regional,15800
+2019,1,Waste,Waste Water,Industrial, -   ,Narromine,Central West and Orana,Regional,15850
+2019,1,Waste,Waste Water,Industrial," 30,871 ",Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2019,1,Waste,Waste Water,Industrial, -   ,North Sydney,Eastern Harbour City,Six Cities,15950
+2019,1,Waste,Waste Water,Industrial," 1,381 ",Northern Beaches,Eastern Harbour City,Six Cities,15990
+2019,1,Waste,Waste Water,Industrial, 338 ,Oberon,Central West and Orana,Regional,16100
+2019,1,Waste,Waste Water,Industrial, -   ,Orange,Central West and Orana,Regional,16150
+2019,1,Waste,Waste Water,Industrial, -   ,Parkes,Central West and Orana,Regional,16200
+2019,1,Waste,Waste Water,Industrial," 5,627 ",Parramatta,Central River City,Six Cities,16260
+2019,1,Waste,Waste Water,Industrial," 3,146 ",Penrith,Western Parkland City,Six Cities,16350
+2019,1,Waste,Waste Water,Industrial, -   ,Port Macquarie-Hastings,North Coast,Regional,16380
+2019,1,Waste,Waste Water,Industrial," 2,363 ",Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2019,1,Waste,Waste Water,Industrial, -   ,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2019,1,Waste,Waste Water,Industrial," 4,032 ",Randwick,Eastern Harbour City,Six Cities,16550
+2019,1,Waste,Waste Water,Industrial," 26,622 ",Richmond Valley,North Coast,Regional,16610
+2019,1,Waste,Waste Water,Industrial, -   ,Ryde,Eastern Harbour City,Six Cities,16700
+2019,1,Waste,Waste Water,Industrial, -   ,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2019,1,Waste,Waste Water,Industrial," 2,813 ",Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2019,1,Waste,Waste Water,Industrial," 6,867 ",Singleton,Upper Hunter,Regional,17000
+2019,1,Waste,Waste Water,Industrial, -   ,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2019,1,Waste,Waste Water,Industrial," 6,561 ",Snowy Valleys,Riverina Murray,Regional,17080
+2019,1,Waste,Waste Water,Industrial, 777 ,Strathfield,Eastern Harbour City,Six Cities,17100
+2019,1,Waste,Waste Water,Industrial, -   ,Sutherland Shire,Central River City,Six Cities,17150
+2019,1,Waste,Waste Water,Industrial, -   ,Sydney,Eastern Harbour City,Six Cities,17200
+2019,1,Waste,Waste Water,Industrial," 16,835 ",Tamworth Regional,New England North West,Regional,17310
+2019,1,Waste,Waste Water,Industrial, -   ,Temora,Riverina Murray,Regional,17350
+2019,1,Waste,Waste Water,Industrial, -   ,Tenterfield,New England North West,Regional,17400
+2019,1,Waste,Waste Water,Industrial, -   ,The Hills Shire,Central River City,Six Cities,17420
+2019,1,Waste,Waste Water,Industrial, 863 ,Tweed,North Coast,Regional,17550
+2019,1,Waste,Waste Water,Industrial, -   ,Unincorporated NSW,Far West,Regional,19399
+2019,1,Waste,Waste Water,Industrial, -   ,Upper Hunter Shire,Upper Hunter,Regional,17620
+2019,1,Waste,Waste Water,Industrial, -   ,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2019,1,Waste,Waste Water,Industrial, -   ,Uralla,New England North West,Regional,17650
+2019,1,Waste,Waste Water,Industrial," 23,346 ",Wagga Wagga,Riverina Murray,Regional,17750
+2019,1,Waste,Waste Water,Industrial, -   ,Walcha,New England North West,Regional,17850
+2019,1,Waste,Waste Water,Industrial, -   ,Walgett,Far West,Regional,17900
+2019,1,Waste,Waste Water,Industrial, -   ,Warren,Central West and Orana,Regional,17950
+2019,1,Waste,Waste Water,Industrial, -   ,Warrumbungle Shire,Central West and Orana,Regional,18020
+2019,1,Waste,Waste Water,Industrial, -   ,Waverley,Eastern Harbour City,Six Cities,18050
+2019,1,Waste,Waste Water,Industrial, -   ,Weddin,Central West and Orana,Regional,18100
+2019,1,Waste,Waste Water,Industrial," 3,915 ",Wentworth,Far West,Regional,18200
+2019,1,Waste,Waste Water,Industrial, -   ,Willoughby,Eastern Harbour City,Six Cities,18250
+2019,1,Waste,Waste Water,Industrial, -   ,Wingecarribee,South East and Tablelands,Regional,18350
+2019,1,Waste,Waste Water,Industrial, 414 ,Wollondilly,Western Parkland City,Six Cities,18400
+2019,1,Waste,Waste Water,Industrial," 1,988 ",Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2019,1,Waste,Waste Water,Industrial, -   ,Woollahra,Eastern Harbour City,Six Cities,18500
+2019,1,Waste,Waste Water,Industrial, -   ,Yass Valley,South East and Tablelands,Regional,18710
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,621 ",Albury,Riverina Murray,Regional,10050
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,989 ",Armidale Regional,New England North West,Regional,10130
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,393 ",Ballina,North Coast,Regional,10250
+2016,1,Waste,Waste Water,Domestic/Commercial," 5,856 ",Balranald,Far West,Regional,10300
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,268 ",Bathurst Regional,Central West and Orana,Regional,10470
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,666 ",Bega Valley,South East and Tablelands,Regional,10550
+2016,1,Waste,Waste Water,Domestic/Commercial, 806 ,Bellingen,North Coast,Regional,10600
+2016,1,Waste,Waste Water,Domestic/Commercial, 802 ,Berrigan,Riverina Murray,Regional,10650
+2016,1,Waste,Waste Water,Domestic/Commercial," 12,745 ",Blacktown,Central River City,Six Cities,10750
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,461 ",Bland,Riverina Murray,Regional,10800
+2016,1,Waste,Waste Water,Domestic/Commercial, 622 ,Blayney,Central West and Orana,Regional,10850
+2016,1,Waste,Waste Water,Domestic/Commercial," 5,333 ",Blue Mountains,Western Parkland City,Six Cities,10900
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,975 ",Bogan,Central West and Orana,Regional,10950
+2016,1,Waste,Waste Water,Domestic/Commercial," 11,185 ",Bourke,Far West,Regional,11150
+2016,1,Waste,Waste Water,Domestic/Commercial," 5,167 ",Brewarrina,Far West,Regional,11200
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,500 ",Broken Hill,Far West,Regional,11250
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,136 ",Byron,North Coast,Regional,11350
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,005 ",Cabonne,Central West and Orana,Regional,11400
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,686 ",Camden,Western Parkland City,Six Cities,11450
+2016,1,Waste,Waste Water,Domestic/Commercial," 5,135 ",Carrathool,Riverina Murray,Regional,11600
+2016,1,Waste,Waste Water,Domestic/Commercial," 10,495 ",Central Coast,Central Coast City,Six Cities,11650
+2016,1,Waste,Waste Water,Domestic/Commercial," 14,335 ",Central Darling,Far West,Regional,11700
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,890 ",Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2016,1,Waste,Waste Water,Domestic/Commercial," 4,295 ",Clarence Valley,North Coast,Regional,11730
+2016,1,Waste,Waste Water,Domestic/Commercial," 12,308 ",Cobar,Far West,Regional,11750
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,529 ",Coffs Harbour,North Coast,Regional,11800
+2016,1,Waste,Waste Water,Domestic/Commercial, 777 ,Coolamon,Riverina Murray,Regional,12000
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,764 ",Coonamble,Central West and Orana,Regional,12150
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,389 ",Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,118 ",Cowra,Central West and Orana,Regional,12350
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,529 ",Dubbo Regional,Central West and Orana,Regional,12390
+2016,1,Waste,Waste Water,Domestic/Commercial, 83 ,Dungog,Upper Hunter,Regional,12700
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,632 ",Edward River,Riverina Murray,Regional,12730
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,017 ",Eurobodalla,South East and Tablelands,Regional,12750
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,876 ",Federation,Riverina Murray,Regional,12870
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,545 ",Forbes,Central West and Orana,Regional,12900
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,413 ",Gilgandra,Central West and Orana,Regional,12950
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,719 ",Glen Innes Severn,New England North West,Regional,13010
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,749 ",Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,843 ",Greater Hume Shire,Riverina Murray,Regional,13340
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,212 ",Griffith,Riverina Murray,Regional,13450
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,699 ",Gunnedah,New England North West,Regional,13550
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,626 ",Gwydir,New England North West,Regional,13660
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,227 ",Hawkesbury,Western Parkland City,Six Cities,13800
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,109 ",Hay,Riverina Murray,Regional,13850
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,450 ",Hilltops,South East and Tablelands,Regional,13910
+2016,1,Waste,Waste Water,Domestic/Commercial," 7,125 ",Hornsby,Eastern Harbour City,Six Cities,14000
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,004 ",Inverell,New England North West,Regional,14200
+2016,1,Waste,Waste Water,Domestic/Commercial, 733 ,Junee,Riverina Murray,Regional,14300
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,759 ",Kempsey,North Coast,Regional,14350
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,946 ",Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,221 ",Kyogle,North Coast,Regional,14550
+2016,1,Waste,Waste Water,Domestic/Commercial," 4,182 ",Lachlan,Central West and Orana,Regional,14600
+2016,1,Waste,Waste Water,Domestic/Commercial," 21,269 ",Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2016,1,Waste,Waste Water,Domestic/Commercial, 647 ,Leeton,Riverina Murray,Regional,14750
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,648 ",Lismore,North Coast,Regional,14850
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,831 ",Lithgow,Central West and Orana,Regional,14870
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,584 ",Liverpool Plains,New England North West,Regional,14920
+2016,1,Waste,Waste Water,Domestic/Commercial, 865 ,Lockhart,Riverina Murray,Regional,14950
+2016,1,Waste,Waste Water,Domestic/Commercial," 5,236 ",Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2016,1,Waste,Waste Water,Domestic/Commercial," 5,387 ",Mid-Coast,Upper Hunter,Regional,15240
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,057 ",Mid-Western Regional,Central West and Orana,Regional,15270
+2016,1,Waste,Waste Water,Domestic/Commercial," 5,173 ",Moree Plains,New England North West,Regional,15300
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,513 ",Murray River,Riverina Murray,Regional,15520
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,951 ",Murrumbidgee,Riverina Murray,Regional,15560
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,395 ",Muswellbrook,Upper Hunter,Regional,15650
+2016,1,Waste,Waste Water,Domestic/Commercial, 971 ,Nambucca,North Coast,Regional,15700
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,864 ",Narrabri,New England North West,Regional,15750
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,271 ",Narrandera,Riverina Murray,Regional,15800
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,595 ",Narromine,Central West and Orana,Regional,15850
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,975 ",Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2016,1,Waste,Waste Water,Domestic/Commercial," 13,064 ",Northern Beaches,Eastern Harbour City,Six Cities,15990
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,124 ",Oberon,Central West and Orana,Regional,16100
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,301 ",Orange,Central West and Orana,Regional,16150
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,026 ",Parkes,Central West and Orana,Regional,16200
+2016,1,Waste,Waste Water,Domestic/Commercial," 14,752 ",Penrith,Western Parkland City,Six Cities,16350
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,359 ",Port Macquarie-Hastings,North Coast,Regional,16380
+2016,1,Waste,Waste Water,Domestic/Commercial," 5,173 ",Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,125 ",Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2016,1,Waste,Waste Water,Domestic/Commercial, 463 ,Randwick,Eastern Harbour City,Six Cities,16550
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,494 ",Richmond Valley,North Coast,Regional,16610
+2016,1,Waste,Waste Water,Domestic/Commercial," 5,169 ",Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2016,1,Waste,Waste Water,Domestic/Commercial," 4,262 ",Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2016,1,Waste,Waste Water,Domestic/Commercial," 5,083 ",Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,816 ",Snowy Valleys,Riverina Murray,Regional,17080
+2016,1,Waste,Waste Water,Domestic/Commercial," 18,271 ",Sutherland Shire,Central River City,Six Cities,17150
+2016,1,Waste,Waste Water,Domestic/Commercial," 4,432 ",Tamworth Regional,New England North West,Regional,17310
+2016,1,Waste,Waste Water,Domestic/Commercial, 929 ,Temora,Riverina Murray,Regional,17350
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,148 ",Tenterfield,New England North West,Regional,17400
+2016,1,Waste,Waste Water,Domestic/Commercial," 6,101 ",The Hills Shire,Central River City,Six Cities,17420
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,134 ",Tweed,North Coast,Regional,17550
+2016,1,Waste,Waste Water,Domestic/Commercial," 24,922 ",Unincorporated NSW,Far West,Regional,19399
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,578 ",Upper Hunter Shire,Upper Hunter,Regional,17620
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,133 ",Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,040 ",Uralla,New England North West,Regional,17650
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,170 ",Wagga Wagga,Riverina Murray,Regional,17750
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,762 ",Walcha,New England North West,Regional,17850
+2016,1,Waste,Waste Water,Domestic/Commercial," 6,138 ",Walgett,Far West,Regional,17900
+2016,1,Waste,Waste Water,Domestic/Commercial," 2,952 ",Warren,Central West and Orana,Regional,17950
+2016,1,Waste,Waste Water,Domestic/Commercial," 3,575 ",Warrumbungle Shire,Central West and Orana,Regional,18020
+2016,1,Waste,Waste Water,Domestic/Commercial, 346 ,Waverley,Eastern Harbour City,Six Cities,18050
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,017 ",Weddin,Central West and Orana,Regional,18100
+2016,1,Waste,Waste Water,Domestic/Commercial," 7,207 ",Wentworth,Far West,Regional,18200
+2016,1,Waste,Waste Water,Domestic/Commercial, 936 ,Wollondilly,Western Parkland City,Six Cities,18400
+2016,1,Waste,Waste Water,Domestic/Commercial," 17,464 ",Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2016,1,Waste,Waste Water,Domestic/Commercial," 1,551 ",Yass Valley,South East and Tablelands,Regional,18710
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,645 ",Albury,Riverina Murray,Regional,10050
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,021 ",Armidale Regional,New England North West,Regional,10130
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,414 ",Ballina,North Coast,Regional,10250
+2017,1,Waste,Waste Water,Domestic/Commercial," 5,907 ",Balranald,Far West,Regional,10300
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,296 ",Bathurst Regional,Central West and Orana,Regional,10470
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,696 ",Bega Valley,South East and Tablelands,Regional,10550
+2017,1,Waste,Waste Water,Domestic/Commercial, 815 ,Bellingen,North Coast,Regional,10600
+2017,1,Waste,Waste Water,Domestic/Commercial, 811 ,Berrigan,Riverina Murray,Regional,10650
+2017,1,Waste,Waste Water,Domestic/Commercial," 12,745 ",Blacktown,Central River City,Six Cities,10750
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,483 ",Bland,Riverina Murray,Regional,10800
+2017,1,Waste,Waste Water,Domestic/Commercial, 629 ,Blayney,Central West and Orana,Regional,10850
+2017,1,Waste,Waste Water,Domestic/Commercial," 5,333 ",Blue Mountains,Western Parkland City,Six Cities,10900
+2017,1,Waste,Waste Water,Domestic/Commercial," 4,011 ",Bogan,Central West and Orana,Regional,10950
+2017,1,Waste,Waste Water,Domestic/Commercial," 11,283 ",Bourke,Far West,Regional,11150
+2017,1,Waste,Waste Water,Domestic/Commercial," 5,212 ",Brewarrina,Far West,Regional,11200
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,528 ",Broken Hill,Far West,Regional,11250
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,153 ",Byron,North Coast,Regional,11350
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,025 ",Cabonne,Central West and Orana,Regional,11400
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,686 ",Camden,Western Parkland City,Six Cities,11450
+2017,1,Waste,Waste Water,Domestic/Commercial," 5,180 ",Carrathool,Riverina Murray,Regional,11600
+2017,1,Waste,Waste Water,Domestic/Commercial," 10,653 ",Central Coast,Central Coast City,Six Cities,11650
+2017,1,Waste,Waste Water,Domestic/Commercial," 14,460 ",Central Darling,Far West,Regional,11700
+2017,1,Waste,Waste Water,Domestic/Commercial," 4,670 ",Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2017,1,Waste,Waste Water,Domestic/Commercial," 4,342 ",Clarence Valley,North Coast,Regional,11730
+2017,1,Waste,Waste Water,Domestic/Commercial," 12,416 ",Cobar,Far West,Regional,11750
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,565 ",Coffs Harbour,North Coast,Regional,11800
+2017,1,Waste,Waste Water,Domestic/Commercial, 784 ,Coolamon,Riverina Murray,Regional,12000
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,788 ",Coonamble,Central West and Orana,Regional,12150
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,403 ",Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,131 ",Cowra,Central West and Orana,Regional,12350
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,570 ",Dubbo Regional,Central West and Orana,Regional,12390
+2017,1,Waste,Waste Water,Domestic/Commercial, 100 ,Dungog,Upper Hunter,Regional,12700
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,657 ",Edward River,Riverina Murray,Regional,12730
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,042 ",Eurobodalla,South East and Tablelands,Regional,12750
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,895 ",Federation,Riverina Murray,Regional,12870
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,560 ",Forbes,Central West and Orana,Regional,12900
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,426 ",Gilgandra,Central West and Orana,Regional,12950
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,736 ",Glen Innes Severn,New England North West,Regional,13010
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,770 ",Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,861 ",Greater Hume Shire,Riverina Murray,Regional,13340
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,227 ",Griffith,Riverina Murray,Regional,13450
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,716 ",Gunnedah,New England North West,Regional,13550
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,650 ",Gwydir,New England North West,Regional,13660
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,227 ",Hawkesbury,Western Parkland City,Six Cities,13800
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,137 ",Hay,Riverina Murray,Regional,13850
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,475 ",Hilltops,South East and Tablelands,Regional,13910
+2017,1,Waste,Waste Water,Domestic/Commercial," 7,125 ",Hornsby,Eastern Harbour City,Six Cities,14000
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,033 ",Inverell,New England North West,Regional,14200
+2017,1,Waste,Waste Water,Domestic/Commercial, 740 ,Junee,Riverina Murray,Regional,14300
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,780 ",Kempsey,North Coast,Regional,14350
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,946 ",Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,233 ",Kyogle,North Coast,Regional,14550
+2017,1,Waste,Waste Water,Domestic/Commercial," 4,219 ",Lachlan,Central West and Orana,Regional,14600
+2017,1,Waste,Waste Water,Domestic/Commercial," 30,032 ",Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2017,1,Waste,Waste Water,Domestic/Commercial, 655 ,Leeton,Riverina Murray,Regional,14750
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,671 ",Lismore,North Coast,Regional,14850
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,851 ",Lithgow,Central West and Orana,Regional,14870
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,600 ",Liverpool Plains,New England North West,Regional,14920
+2017,1,Waste,Waste Water,Domestic/Commercial, 874 ,Lockhart,Riverina Murray,Regional,14950
+2017,1,Waste,Waste Water,Domestic/Commercial," 6,842 ",Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2017,1,Waste,Waste Water,Domestic/Commercial," 5,452 ",Mid-Coast,Upper Hunter,Regional,15240
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,088 ",Mid-Western Regional,Central West and Orana,Regional,15270
+2017,1,Waste,Waste Water,Domestic/Commercial," 5,221 ",Moree Plains,New England North West,Regional,15300
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,546 ",Murray River,Riverina Murray,Regional,15520
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,969 ",Murrumbidgee,Riverina Murray,Regional,15560
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,410 ",Muswellbrook,Upper Hunter,Regional,15650
+2017,1,Waste,Waste Water,Domestic/Commercial, 984 ,Nambucca,North Coast,Regional,15700
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,900 ",Narrabri,New England North West,Regional,15750
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,283 ",Narrandera,Riverina Murray,Regional,15800
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,610 ",Narromine,Central West and Orana,Regional,15850
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,150 ",Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2017,1,Waste,Waste Water,Domestic/Commercial," 13,064 ",Northern Beaches,Eastern Harbour City,Six Cities,15990
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,135 ",Oberon,Central West and Orana,Regional,16100
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,321 ",Orange,Central West and Orana,Regional,16150
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,047 ",Parkes,Central West and Orana,Regional,16200
+2017,1,Waste,Waste Water,Domestic/Commercial," 14,752 ",Penrith,Western Parkland City,Six Cities,16350
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,404 ",Port Macquarie-Hastings,North Coast,Regional,16380
+2017,1,Waste,Waste Water,Domestic/Commercial," 6,106 ",Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,163 ",Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2017,1,Waste,Waste Water,Domestic/Commercial, 463 ,Randwick,Eastern Harbour City,Six Cities,16550
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,511 ",Richmond Valley,North Coast,Regional,16610
+2017,1,Waste,Waste Water,Domestic/Commercial," 5,169 ",Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2017,1,Waste,Waste Water,Domestic/Commercial," 4,319 ",Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2017,1,Waste,Waste Water,Domestic/Commercial," 5,128 ",Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,843 ",Snowy Valleys,Riverina Murray,Regional,17080
+2017,1,Waste,Waste Water,Domestic/Commercial," 18,271 ",Sutherland Shire,Central River City,Six Cities,17150
+2017,1,Waste,Waste Water,Domestic/Commercial," 4,482 ",Tamworth Regional,New England North West,Regional,17310
+2017,1,Waste,Waste Water,Domestic/Commercial, 938 ,Temora,Riverina Murray,Regional,17350
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,168 ",Tenterfield,New England North West,Regional,17400
+2017,1,Waste,Waste Water,Domestic/Commercial," 6,101 ",The Hills Shire,Central River City,Six Cities,17420
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,179 ",Tweed,North Coast,Regional,17550
+2017,1,Waste,Waste Water,Domestic/Commercial," 25,139 ",Unincorporated NSW,Far West,Regional,19399
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,603 ",Upper Hunter Shire,Upper Hunter,Regional,17620
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,153 ",Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,050 ",Uralla,New England North West,Regional,17650
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,210 ",Wagga Wagga,Riverina Murray,Regional,17750
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,778 ",Walcha,New England North West,Regional,17850
+2017,1,Waste,Waste Water,Domestic/Commercial," 6,193 ",Walgett,Far West,Regional,17900
+2017,1,Waste,Waste Water,Domestic/Commercial," 2,978 ",Warren,Central West and Orana,Regional,17950
+2017,1,Waste,Waste Water,Domestic/Commercial," 3,608 ",Warrumbungle Shire,Central West and Orana,Regional,18020
+2017,1,Waste,Waste Water,Domestic/Commercial, 346 ,Waverley,Eastern Harbour City,Six Cities,18050
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,027 ",Weddin,Central West and Orana,Regional,18100
+2017,1,Waste,Waste Water,Domestic/Commercial," 7,271 ",Wentworth,Far West,Regional,18200
+2017,1,Waste,Waste Water,Domestic/Commercial, 936 ,Wollondilly,Western Parkland City,Six Cities,18400
+2017,1,Waste,Waste Water,Domestic/Commercial," 17,464 ",Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2017,1,Waste,Waste Water,Domestic/Commercial," 1,568 ",Yass Valley,South East and Tablelands,Regional,18710
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,673 ",Albury,Riverina Murray,Regional,10050
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,048 ",Armidale Regional,New England North West,Regional,10130
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,437 ",Ballina,North Coast,Regional,10250
+2018,1,Waste,Waste Water,Domestic/Commercial," 5,940 ",Balranald,Far West,Regional,10300
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,324 ",Bathurst Regional,Central West and Orana,Regional,10470
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,723 ",Bega Valley,South East and Tablelands,Regional,10550
+2018,1,Waste,Waste Water,Domestic/Commercial, 825 ,Bellingen,North Coast,Regional,10600
+2018,1,Waste,Waste Water,Domestic/Commercial, 818 ,Berrigan,Riverina Murray,Regional,10650
+2018,1,Waste,Waste Water,Domestic/Commercial," 12,762 ",Blacktown,Central River City,Six Cities,10750
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,499 ",Bland,Riverina Murray,Regional,10800
+2018,1,Waste,Waste Water,Domestic/Commercial, 635 ,Blayney,Central West and Orana,Regional,10850
+2018,1,Waste,Waste Water,Domestic/Commercial," 5,341 ",Blue Mountains,Western Parkland City,Six Cities,10900
+2018,1,Waste,Waste Water,Domestic/Commercial," 4,034 ",Bogan,Central West and Orana,Regional,10950
+2018,1,Waste,Waste Water,Domestic/Commercial," 11,345 ",Bourke,Far West,Regional,11150
+2018,1,Waste,Waste Water,Domestic/Commercial," 5,241 ",Brewarrina,Far West,Regional,11200
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,557 ",Broken Hill,Far West,Regional,11250
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,171 ",Byron,North Coast,Regional,11350
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,041 ",Cabonne,Central West and Orana,Regional,11400
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,691 ",Camden,Western Parkland City,Six Cities,11450
+2018,1,Waste,Waste Water,Domestic/Commercial," 5,210 ",Carrathool,Riverina Murray,Regional,11600
+2018,1,Waste,Waste Water,Domestic/Commercial," 10,835 ",Central Coast,Central Coast City,Six Cities,11650
+2018,1,Waste,Waste Water,Domestic/Commercial," 14,540 ",Central Darling,Far West,Regional,11700
+2018,1,Waste,Waste Water,Domestic/Commercial," 5,371 ",Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2018,1,Waste,Waste Water,Domestic/Commercial," 4,385 ",Clarence Valley,North Coast,Regional,11730
+2018,1,Waste,Waste Water,Domestic/Commercial," 12,486 ",Cobar,Far West,Regional,11750
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,607 ",Coffs Harbour,North Coast,Regional,11800
+2018,1,Waste,Waste Water,Domestic/Commercial, 790 ,Coolamon,Riverina Murray,Regional,12000
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,805 ",Coonamble,Central West and Orana,Regional,12150
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,415 ",Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,141 ",Cowra,Central West and Orana,Regional,12350
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,608 ",Dubbo Regional,Central West and Orana,Regional,12390
+2018,1,Waste,Waste Water,Domestic/Commercial, 93 ,Dungog,Upper Hunter,Regional,12700
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,675 ",Edward River,Riverina Murray,Regional,12730
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,067 ",Eurobodalla,South East and Tablelands,Regional,12750
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,910 ",Federation,Riverina Murray,Regional,12870
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,572 ",Forbes,Central West and Orana,Regional,12900
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,436 ",Gilgandra,Central West and Orana,Regional,12950
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,749 ",Glen Innes Severn,New England North West,Regional,13010
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,790 ",Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,875 ",Greater Hume Shire,Riverina Murray,Regional,13340
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,243 ",Griffith,Riverina Murray,Regional,13450
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,730 ",Gunnedah,New England North West,Regional,13550
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,667 ",Gwydir,New England North West,Regional,13660
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,229 ",Hawkesbury,Western Parkland City,Six Cities,13800
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,155 ",Hay,Riverina Murray,Regional,13850
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,495 ",Hilltops,South East and Tablelands,Regional,13910
+2018,1,Waste,Waste Water,Domestic/Commercial," 7,134 ",Hornsby,Eastern Harbour City,Six Cities,14000
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,056 ",Inverell,New England North West,Regional,14200
+2018,1,Waste,Waste Water,Domestic/Commercial, 747 ,Junee,Riverina Murray,Regional,14300
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,801 ",Kempsey,North Coast,Regional,14350
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,032 ",Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,243 ",Kyogle,North Coast,Regional,14550
+2018,1,Waste,Waste Water,Domestic/Commercial," 4,245 ",Lachlan,Central West and Orana,Regional,14600
+2018,1,Waste,Waste Water,Domestic/Commercial," 23,155 ",Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2018,1,Waste,Waste Water,Domestic/Commercial, 663 ,Leeton,Riverina Murray,Regional,14750
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,696 ",Lismore,North Coast,Regional,14850
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,869 ",Lithgow,Central West and Orana,Regional,14870
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,611 ",Liverpool Plains,New England North West,Regional,14920
+2018,1,Waste,Waste Water,Domestic/Commercial, 879 ,Lockhart,Riverina Murray,Regional,14950
+2018,1,Waste,Waste Water,Domestic/Commercial," 7,176 ",Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2018,1,Waste,Waste Water,Domestic/Commercial," 5,515 ",Mid-Coast,Upper Hunter,Regional,15240
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,114 ",Mid-Western Regional,Central West and Orana,Regional,15270
+2018,1,Waste,Waste Water,Domestic/Commercial," 5,254 ",Moree Plains,New England North West,Regional,15300
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,569 ",Murray River,Riverina Murray,Regional,15520
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,981 ",Murrumbidgee,Riverina Murray,Regional,15560
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,424 ",Muswellbrook,Upper Hunter,Regional,15650
+2018,1,Waste,Waste Water,Domestic/Commercial, 996 ,Nambucca,North Coast,Regional,15700
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,926 ",Narrabri,New England North West,Regional,15750
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,292 ",Narrandera,Riverina Murray,Regional,15800
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,621 ",Narromine,Central West and Orana,Regional,15850
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,226 ",Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2018,1,Waste,Waste Water,Domestic/Commercial," 13,071 ",Northern Beaches,Eastern Harbour City,Six Cities,15990
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,143 ",Oberon,Central West and Orana,Regional,16100
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,343 ",Orange,Central West and Orana,Regional,16150
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,063 ",Parkes,Central West and Orana,Regional,16200
+2018,1,Waste,Waste Water,Domestic/Commercial," 14,772 ",Penrith,Western Parkland City,Six Cities,16350
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,452 ",Port Macquarie-Hastings,North Coast,Regional,16380
+2018,1,Waste,Waste Water,Domestic/Commercial," 6,967 ",Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,202 ",Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2018,1,Waste,Waste Water,Domestic/Commercial, 463 ,Randwick,Eastern Harbour City,Six Cities,16550
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,528 ",Richmond Valley,North Coast,Regional,16610
+2018,1,Waste,Waste Water,Domestic/Commercial," 5,176 ",Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2018,1,Waste,Waste Water,Domestic/Commercial," 4,379 ",Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2018,1,Waste,Waste Water,Domestic/Commercial," 5,161 ",Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,864 ",Snowy Valleys,Riverina Murray,Regional,17080
+2018,1,Waste,Waste Water,Domestic/Commercial," 18,363 ",Sutherland Shire,Central River City,Six Cities,17150
+2018,1,Waste,Waste Water,Domestic/Commercial," 4,529 ",Tamworth Regional,New England North West,Regional,17310
+2018,1,Waste,Waste Water,Domestic/Commercial, 946 ,Temora,Riverina Murray,Regional,17350
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,182 ",Tenterfield,New England North West,Regional,17400
+2018,1,Waste,Waste Water,Domestic/Commercial," 6,110 ",The Hills Shire,Central River City,Six Cities,17420
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,231 ",Tweed,North Coast,Regional,17550
+2018,1,Waste,Waste Water,Domestic/Commercial," 25,277 ",Unincorporated NSW,Far West,Regional,19399
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,623 ",Upper Hunter Shire,Upper Hunter,Regional,17620
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,168 ",Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,058 ",Uralla,New England North West,Regional,17650
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,250 ",Wagga Wagga,Riverina Murray,Regional,17750
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,789 ",Walcha,New England North West,Regional,17850
+2018,1,Waste,Waste Water,Domestic/Commercial," 6,229 ",Walgett,Far West,Regional,17900
+2018,1,Waste,Waste Water,Domestic/Commercial," 2,995 ",Warren,Central West and Orana,Regional,17950
+2018,1,Waste,Waste Water,Domestic/Commercial," 3,631 ",Warrumbungle Shire,Central West and Orana,Regional,18020
+2018,1,Waste,Waste Water,Domestic/Commercial, 350 ,Waverley,Eastern Harbour City,Six Cities,18050
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,034 ",Weddin,Central West and Orana,Regional,18100
+2018,1,Waste,Waste Water,Domestic/Commercial," 7,313 ",Wentworth,Far West,Regional,18200
+2018,1,Waste,Waste Water,Domestic/Commercial, 937 ,Wollondilly,Western Parkland City,Six Cities,18400
+2018,1,Waste,Waste Water,Domestic/Commercial," 17,882 ",Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2018,1,Waste,Waste Water,Domestic/Commercial," 1,583 ",Yass Valley,South East and Tablelands,Regional,18710
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,701 ",Albury,Riverina Murray,Regional,10050
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,075 ",Armidale Regional,New England North West,Regional,10130
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,460 ",Ballina,North Coast,Regional,10250
+2019,1,Waste,Waste Water,Domestic/Commercial," 5,972 ",Balranald,Far West,Regional,10300
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,352 ",Bathurst Regional,Central West and Orana,Regional,10470
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,749 ",Bega Valley,South East and Tablelands,Regional,10550
+2019,1,Waste,Waste Water,Domestic/Commercial, 834 ,Bellingen,North Coast,Regional,10600
+2019,1,Waste,Waste Water,Domestic/Commercial, 826 ,Berrigan,Riverina Murray,Regional,10650
+2019,1,Waste,Waste Water,Domestic/Commercial," 13,558 ",Blacktown,Central River City,Six Cities,10750
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,514 ",Bland,Riverina Murray,Regional,10800
+2019,1,Waste,Waste Water,Domestic/Commercial, 641 ,Blayney,Central West and Orana,Regional,10850
+2019,1,Waste,Waste Water,Domestic/Commercial," 5,673 ",Blue Mountains,Western Parkland City,Six Cities,10900
+2019,1,Waste,Waste Water,Domestic/Commercial," 4,055 ",Bogan,Central West and Orana,Regional,10950
+2019,1,Waste,Waste Water,Domestic/Commercial," 11,405 ",Bourke,Far West,Regional,11150
+2019,1,Waste,Waste Water,Domestic/Commercial," 5,268 ",Brewarrina,Far West,Regional,11200
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,329 ",Broken Hill,Far West,Regional,11250
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,190 ",Byron,North Coast,Regional,11350
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,056 ",Cabonne,Central West and Orana,Regional,11400
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,921 ",Camden,Western Parkland City,Six Cities,11450
+2019,1,Waste,Waste Water,Domestic/Commercial," 5,237 ",Carrathool,Riverina Murray,Regional,11600
+2019,1,Waste,Waste Water,Domestic/Commercial," 11,017 ",Central Coast,Central Coast City,Six Cities,11650
+2019,1,Waste,Waste Water,Domestic/Commercial," 14,615 ",Central Darling,Far West,Regional,11700
+2019,1,Waste,Waste Water,Domestic/Commercial," 5,737 ",Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2019,1,Waste,Waste Water,Domestic/Commercial," 4,426 ",Clarence Valley,North Coast,Regional,11730
+2019,1,Waste,Waste Water,Domestic/Commercial," 12,551 ",Cobar,Far West,Regional,11750
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,648 ",Coffs Harbour,North Coast,Regional,11800
+2019,1,Waste,Waste Water,Domestic/Commercial, 796 ,Coolamon,Riverina Murray,Regional,12000
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,821 ",Coonamble,Central West and Orana,Regional,12150
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,426 ",Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,152 ",Cowra,Central West and Orana,Regional,12350
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,646 ",Dubbo Regional,Central West and Orana,Regional,12390
+2019,1,Waste,Waste Water,Domestic/Commercial, 95 ,Dungog,Upper Hunter,Regional,12700
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,692 ",Edward River,Riverina Murray,Regional,12730
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,091 ",Eurobodalla,South East and Tablelands,Regional,12750
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,924 ",Federation,Riverina Murray,Regional,12870
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,584 ",Forbes,Central West and Orana,Regional,12900
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,445 ",Gilgandra,Central West and Orana,Regional,12950
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,761 ",Glen Innes Severn,New England North West,Regional,13010
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,811 ",Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,888 ",Greater Hume Shire,Riverina Murray,Regional,13340
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,260 ",Griffith,Riverina Murray,Regional,13450
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,743 ",Gunnedah,New England North West,Regional,13550
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,682 ",Gwydir,New England North West,Regional,13660
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,305 ",Hawkesbury,Western Parkland City,Six Cities,13800
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,172 ",Hay,Riverina Murray,Regional,13850
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,515 ",Hilltops,South East and Tablelands,Regional,13910
+2019,1,Waste,Waste Water,Domestic/Commercial," 7,579 ",Hornsby,Eastern Harbour City,Six Cities,14000
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,077 ",Inverell,New England North West,Regional,14200
+2019,1,Waste,Waste Water,Domestic/Commercial, 753 ,Junee,Riverina Murray,Regional,14300
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,821 ",Kempsey,North Coast,Regional,14350
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,110 ",Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,253 ",Kyogle,North Coast,Regional,14550
+2019,1,Waste,Waste Water,Domestic/Commercial," 4,269 ",Lachlan,Central West and Orana,Regional,14600
+2019,1,Waste,Waste Water,Domestic/Commercial," 23,654 ",Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2019,1,Waste,Waste Water,Domestic/Commercial, 670 ,Leeton,Riverina Murray,Regional,14750
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,721 ",Lismore,North Coast,Regional,14850
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,887 ",Lithgow,Central West and Orana,Regional,14870
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,622 ",Liverpool Plains,New England North West,Regional,14920
+2019,1,Waste,Waste Water,Domestic/Commercial, 885 ,Lockhart,Riverina Murray,Regional,14950
+2019,1,Waste,Waste Water,Domestic/Commercial," 7,500 ",Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2019,1,Waste,Waste Water,Domestic/Commercial," 5,578 ",Mid-Coast,Upper Hunter,Regional,15240
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,139 ",Mid-Western Regional,Central West and Orana,Regional,15270
+2019,1,Waste,Waste Water,Domestic/Commercial," 5,286 ",Moree Plains,New England North West,Regional,15300
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,592 ",Murray River,Riverina Murray,Regional,15520
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,992 ",Murrumbidgee,Riverina Murray,Regional,15560
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,437 ",Muswellbrook,Upper Hunter,Regional,15650
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,008 ",Nambucca,North Coast,Regional,15700
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,951 ",Narrabri,New England North West,Regional,15750
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,301 ",Narrandera,Riverina Murray,Regional,15800
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,632 ",Narromine,Central West and Orana,Regional,15850
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,430 ",Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2019,1,Waste,Waste Water,Domestic/Commercial," 13,748 ",Northern Beaches,Eastern Harbour City,Six Cities,15990
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,151 ",Oberon,Central West and Orana,Regional,16100
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,365 ",Orange,Central West and Orana,Regional,16150
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,080 ",Parkes,Central West and Orana,Regional,16200
+2019,1,Waste,Waste Water,Domestic/Commercial," 15,693 ",Penrith,Western Parkland City,Six Cities,16350
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,499 ",Port Macquarie-Hastings,North Coast,Regional,16380
+2019,1,Waste,Waste Water,Domestic/Commercial," 7,295 ",Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,239 ",Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2019,1,Waste,Waste Water,Domestic/Commercial, 505 ,Randwick,Eastern Harbour City,Six Cities,16550
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,544 ",Richmond Valley,North Coast,Regional,16610
+2019,1,Waste,Waste Water,Domestic/Commercial," 5,499 ",Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2019,1,Waste,Waste Water,Domestic/Commercial," 4,440 ",Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2019,1,Waste,Waste Water,Domestic/Commercial," 5,192 ",Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,884 ",Snowy Valleys,Riverina Murray,Regional,17080
+2019,1,Waste,Waste Water,Domestic/Commercial," 18,999 ",Sutherland Shire,Central River City,Six Cities,17150
+2019,1,Waste,Waste Water,Domestic/Commercial," 4,575 ",Tamworth Regional,New England North West,Regional,17310
+2019,1,Waste,Waste Water,Domestic/Commercial, 953 ,Temora,Riverina Murray,Regional,17350
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,196 ",Tenterfield,New England North West,Regional,17400
+2019,1,Waste,Waste Water,Domestic/Commercial," 6,490 ",The Hills Shire,Central River City,Six Cities,17420
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,283 ",Tweed,North Coast,Regional,17550
+2019,1,Waste,Waste Water,Domestic/Commercial," 25,407 ",Unincorporated NSW,Far West,Regional,19399
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,641 ",Upper Hunter Shire,Upper Hunter,Regional,17620
+2019,1,Waste,Waste Water,Domestic/Commercial," 2,182 ",Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,066 ",Uralla,New England North West,Regional,17650
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,291 ",Wagga Wagga,Riverina Murray,Regional,17750
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,799 ",Walcha,New England North West,Regional,17850
+2019,1,Waste,Waste Water,Domestic/Commercial," 6,263 ",Walgett,Far West,Regional,17900
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,011 ",Warren,Central West and Orana,Regional,17950
+2019,1,Waste,Waste Water,Domestic/Commercial," 3,653 ",Warrumbungle Shire,Central West and Orana,Regional,18020
+2019,1,Waste,Waste Water,Domestic/Commercial, 377 ,Waverley,Eastern Harbour City,Six Cities,18050
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,040 ",Weddin,Central West and Orana,Regional,18100
+2019,1,Waste,Waste Water,Domestic/Commercial," 7,353 ",Wentworth,Far West,Regional,18200
+2019,1,Waste,Waste Water,Domestic/Commercial, 995 ,Wollondilly,Western Parkland City,Six Cities,18400
+2019,1,Waste,Waste Water,Domestic/Commercial," 18,302 ",Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2019,1,Waste,Waste Water,Domestic/Commercial," 1,597 ",Yass Valley,South East and Tablelands,Regional,18710
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
