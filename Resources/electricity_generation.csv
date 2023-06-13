@@ -1,0 +1,97 @@
+﻿Year,ScopeID,Sector,SubSector1,SubSector2,Emissions,LGA,Planning_Region,Metro_or_Regional,LGA_CODE18
+2016,1,Electricity Generation,,,13308.2,Bayside,Eastern Harbour City,Six Cities,10500
+2016,1,Electricity Generation,,,5664.1,Blacktown,Central River City,Six Cities,10750
+2016,1,Electricity Generation,,,0,Broken Hill,Far West,Regional,11250
+2016,1,Electricity Generation,,,1168.7,Camden,Western Parkland City,Six Cities,11450
+2016,1,Electricity Generation,,,6508623.3,Central Coast,Central Coast City,Six Cities,11650
+2016,1,Electricity Generation,,,458969.9,Cumberland,Central River City,Six Cities,12380
+2016,1,Electricity Generation,,,12911231.7,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2016,1,Electricity Generation,,,6320481.5,Lithgow,Central West and Orana,Regional,14870
+2016,1,Electricity Generation,,,23492490.5,Muswellbrook,Upper Hunter,Regional,15650
+2016,1,Electricity Generation,,,47707,Narrabri,New England North West,Regional,15750
+2016,1,Electricity Generation,,,3848.5,North Sydney,Eastern Harbour City,Six Cities,15950
+2016,1,Electricity Generation,,,1490.5,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2016,1,Electricity Generation,,,685.1,Penrith,Western Parkland City,Six Cities,16350
+2016,1,Electricity Generation,,,2092.2,Randwick,Eastern Harbour City,Six Cities,16550
+2016,1,Electricity Generation,,,7213,Richmond Valley,North Coast,Regional,16610
+2016,1,Electricity Generation,,,346.5,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2016,1,Electricity Generation,,,50490.4,Singleton,Upper Hunter,Regional,17000
+2016,1,Electricity Generation,,,167,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2016,1,Electricity Generation,,,9763.6,Sutherland Shire,Central River City,Six Cities,17150
+2016,1,Electricity Generation,,,3775.7,Sydney,Eastern Harbour City,Six Cities,17200
+2016,1,Electricity Generation,,,3695.1,Tweed,North Coast,Regional,17550
+2016,1,Electricity Generation,,,474537.4,Wagga Wagga,Riverina Murray,Regional,17750
+2016,1,Electricity Generation,,,308680.2,Wollondilly,Western Parkland City,Six Cities,18400
+2016,1,Electricity Generation,,,689587.6,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2017,1,Electricity Generation,,,15414.6,Bayside,Eastern Harbour City,Six Cities,10500
+2017,1,Electricity Generation,,,5528.5,Blacktown,Central River City,Six Cities,10750
+2017,1,Electricity Generation,,,0,Broken Hill,Far West,Regional,11250
+2017,1,Electricity Generation,,,1085.4,Camden,Western Parkland City,Six Cities,11450
+2017,1,Electricity Generation,,,6912022.3,Central Coast,Central Coast City,Six Cities,11650
+2017,1,Electricity Generation,,,462463.2,Cumberland,Central River City,Six Cities,12380
+2017,1,Electricity Generation,,,12893732,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2017,1,Electricity Generation,,,6573667.8,Lithgow,Central West and Orana,Regional,14870
+2017,1,Electricity Generation,,,22958848.7,Muswellbrook,Upper Hunter,Regional,15650
+2017,1,Electricity Generation,,,49674.8,Narrabri,New England North West,Regional,15750
+2017,1,Electricity Generation,,,3453.6,North Sydney,Eastern Harbour City,Six Cities,15950
+2017,1,Electricity Generation,,,1376.9,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2017,1,Electricity Generation,,,1254.2,Penrith,Western Parkland City,Six Cities,16350
+2017,1,Electricity Generation,,,1458.2,Randwick,Eastern Harbour City,Six Cities,16550
+2017,1,Electricity Generation,,,5273.4,Richmond Valley,North Coast,Regional,16610
+2017,1,Electricity Generation,,,323.8,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2017,1,Electricity Generation,,,40666.7,Singleton,Upper Hunter,Regional,17000
+2017,1,Electricity Generation,,,482.8,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2017,1,Electricity Generation,,,9468.5,Sutherland Shire,Central River City,Six Cities,17150
+2017,1,Electricity Generation,,,6029,Sydney,Eastern Harbour City,Six Cities,17200
+2017,1,Electricity Generation,,,7048.6,Tweed,North Coast,Regional,17550
+2017,1,Electricity Generation,,,388225.1,Wagga Wagga,Riverina Murray,Regional,17750
+2017,1,Electricity Generation,,,249701.7,Wollondilly,Western Parkland City,Six Cities,18400
+2017,1,Electricity Generation,,,309180.3,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2018,1,Electricity Generation,,,15275.6,Bayside,Eastern Harbour City,Six Cities,10500
+2018,1,Electricity Generation,,,5056.3,Blacktown,Central River City,Six Cities,10750
+2018,1,Electricity Generation,,,433,Broken Hill,Far West,Regional,11250
+2018,1,Electricity Generation,,,1034.7,Camden,Western Parkland City,Six Cities,11450
+2018,1,Electricity Generation,,,6974660.5,Central Coast,Central Coast City,Six Cities,11650
+2018,1,Electricity Generation,,,38372.4,Cumberland,Central River City,Six Cities,12380
+2018,1,Electricity Generation,,,14895728.1,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2018,1,Electricity Generation,,,6821304.2,Lithgow,Central West and Orana,Regional,14870
+2018,1,Electricity Generation,,,21499030.5,Muswellbrook,Upper Hunter,Regional,15650
+2018,1,Electricity Generation,,,49951.9,Narrabri,New England North West,Regional,15750
+2018,1,Electricity Generation,,,3773.5,North Sydney,Eastern Harbour City,Six Cities,15950
+2018,1,Electricity Generation,,,1128.6,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2018,1,Electricity Generation,,,1193.6,Penrith,Western Parkland City,Six Cities,16350
+2018,1,Electricity Generation,,,1301.2,Randwick,Eastern Harbour City,Six Cities,16550
+2018,1,Electricity Generation,,,6931.7,Richmond Valley,North Coast,Regional,16610
+2018,1,Electricity Generation,,,108.6,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2018,1,Electricity Generation,,,40502.3,Singleton,Upper Hunter,Regional,17000
+2018,1,Electricity Generation,,,406,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2018,1,Electricity Generation,,,9584.7,Sutherland Shire,Central River City,Six Cities,17150
+2018,1,Electricity Generation,,,6693.2,Sydney,Eastern Harbour City,Six Cities,17200
+2018,1,Electricity Generation,,,5600.9,Tweed,North Coast,Regional,17550
+2018,1,Electricity Generation,,,335939.9,Wagga Wagga,Riverina Murray,Regional,17750
+2018,1,Electricity Generation,,,236864.8,Wollondilly,Western Parkland City,Six Cities,18400
+2018,1,Electricity Generation,,,545703.9,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2019,1,Electricity Generation,,,16234.6,Bayside,Eastern Harbour City,Six Cities,10500
+2019,1,Electricity Generation,,,4462.1,Blacktown,Central River City,Six Cities,10750
+2019,1,Electricity Generation,,,0,Broken Hill,Far West,Regional,11250
+2019,1,Electricity Generation,,,822.5,Camden,Western Parkland City,Six Cities,11450
+2019,1,Electricity Generation,,,6763694.1,Central Coast,Central Coast City,Six Cities,11650
+2019,1,Electricity Generation,,,12481.2,Cumberland,Central River City,Six Cities,12380
+2019,1,Electricity Generation,,,15440707.1,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2019,1,Electricity Generation,,,5913863,Lithgow,Central West and Orana,Regional,14870
+2019,1,Electricity Generation,,,22555014.6,Muswellbrook,Upper Hunter,Regional,15650
+2019,1,Electricity Generation,,,52525,Narrabri,New England North West,Regional,15750
+2019,1,Electricity Generation,,,3893.5,North Sydney,Eastern Harbour City,Six Cities,15950
+2019,1,Electricity Generation,,,1146.3,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2019,1,Electricity Generation,,,583.1,Penrith,Western Parkland City,Six Cities,16350
+2019,1,Electricity Generation,,,1328.2,Randwick,Eastern Harbour City,Six Cities,16550
+2019,1,Electricity Generation,,,5977.7,Richmond Valley,North Coast,Regional,16610
+2019,1,Electricity Generation,,,1219.9,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2019,1,Electricity Generation,,,39647.6,Singleton,Upper Hunter,Regional,17000
+2019,1,Electricity Generation,,,416.8,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2019,1,Electricity Generation,,,9045.6,Sutherland Shire,Central River City,Six Cities,17150
+2019,1,Electricity Generation,,,8146.3,Sydney,Eastern Harbour City,Six Cities,17200
+2019,1,Electricity Generation,,,5254.9,Tweed,North Coast,Regional,17550
+2019,1,Electricity Generation,,,208907.2,Wagga Wagga,Riverina Murray,Regional,17750
+2019,1,Electricity Generation,,,255881.3,Wollondilly,Western Parkland City,Six Cities,18400
+2019,1,Electricity Generation,,,355242.1,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450

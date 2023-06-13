@@ -1,0 +1,2065 @@
+﻿Year,ScopeID,Sector,SubSector1,SubSector2,Emissions,LGA,Planning_Region,Metro_or_Regional,LGA_CODE18
+2019,2,Electricity Consumption - Scope 2,Residential,,98167.8,Albury,Riverina Murray,Regional,10050
+2019,2,Electricity Consumption - Scope 2,Residential,,64320.6,Armidale Regional,New England North West,Regional,10130
+2019,2,Electricity Consumption - Scope 2,Residential,,75335.9,Ballina,North Coast,Regional,10250
+2019,2,Electricity Consumption - Scope 2,Residential,,10314,Balranald,Far West,Regional,10300
+2019,2,Electricity Consumption - Scope 2,Residential,,86460.1,Bathurst Regional,Central West and Orana,Regional,10470
+2019,2,Electricity Consumption - Scope 2,Residential,,241040.6,Bayside,Eastern Harbour City,Six Cities,10500
+2019,2,Electricity Consumption - Scope 2,Residential,,76192.2,Bega Valley,South East and Tablelands,Regional,10550
+2019,2,Electricity Consumption - Scope 2,Residential,,24934.3,Bellingen,North Coast,Regional,10600
+2019,2,Electricity Consumption - Scope 2,Residential,,13706.5,Coonamble,Central West and Orana,Regional,12150
+2019,2,Electricity Consumption - Scope 2,Residential,,26072.1,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2019,2,Electricity Consumption - Scope 2,Residential,,33317.8,Cowra,Central West and Orana,Regional,12350
+2019,2,Electricity Consumption - Scope 2,Residential,,326400.2,Cumberland,Central River City,Six Cities,12380
+2019,2,Electricity Consumption - Scope 2,Residential,,132791.1,Dubbo Regional,Central West and Orana,Regional,12390
+2019,2,Electricity Consumption - Scope 2,Residential,,24397.9,Dungog,Upper Hunter,Regional,12700
+2019,2,Electricity Consumption - Scope 2,Residential,,30610.2,Edward River,Riverina Murray,Regional,12730
+2019,2,Electricity Consumption - Scope 2,Residential,,86395.8,Eurobodalla,South East and Tablelands,Regional,12750
+2019,2,Electricity Consumption - Scope 2,Residential,,348481,Fairfield,Western Parkland City,Six Cities,12850
+2019,2,Electricity Consumption - Scope 2,Residential,,31986.3,Federation,Riverina Murray,Regional,12870
+2019,2,Electricity Consumption - Scope 2,Residential,,26050.6,Forbes,Central West and Orana,Regional,12900
+2019,2,Electricity Consumption - Scope 2,Residential,,245776.1,Georges River,Central River City,Six Cities,12930
+2019,2,Electricity Consumption - Scope 2,Residential,,13553.2,Gilgandra,Central West and Orana,Regional,12950
+2019,2,Electricity Consumption - Scope 2,Residential,,17166,Glen Innes Severn,New England North West,Regional,13010
+2019,2,Electricity Consumption - Scope 2,Residential,,59965.6,Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2019,2,Electricity Consumption - Scope 2,Residential,,27251.1,Greater Hume Shire,Riverina Murray,Regional,13340
+2019,2,Electricity Consumption - Scope 2,Residential,,76602.7,Griffith,Riverina Murray,Regional,13450
+2019,2,Electricity Consumption - Scope 2,Residential,,35098.2,Gunnedah,New England North West,Regional,13550
+2019,2,Electricity Consumption - Scope 2,Residential,,15631.3,Gwydir,New England North West,Regional,13660
+2019,2,Electricity Consumption - Scope 2,Residential,,175392.7,Hawkesbury,Western Parkland City,Six Cities,13800
+2019,2,Electricity Consumption - Scope 2,Residential,,10720.8,Hay,Riverina Murray,Regional,13850
+2019,2,Electricity Consumption - Scope 2,Residential,,49669.5,Hilltops,South East and Tablelands,Regional,13910
+2019,2,Electricity Consumption - Scope 2,Residential,,317438.4,Hornsby,Eastern Harbour City,Six Cities,14000
+2019,2,Electricity Consumption - Scope 2,Residential,,35226.8,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2019,2,Electricity Consumption - Scope 2,Residential,,284856.9,Inner West,Eastern Harbour City,Six Cities,14170
+2019,2,Electricity Consumption - Scope 2,Residential,,39347.1,Inverell,New England North West,Regional,14200
+2019,2,Electricity Consumption - Scope 2,Residential,,12447,Junee,Riverina Murray,Regional,14300
+2019,2,Electricity Consumption - Scope 2,Residential,,56500.9,Kempsey,North Coast,Regional,14350
+2019,2,Electricity Consumption - Scope 2,Residential,,45930.4,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2019,2,Electricity Consumption - Scope 2,Residential,,282874.8,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2019,2,Electricity Consumption - Scope 2,Residential,,18815.3,Kyogle,North Coast,Regional,14550
+2019,2,Electricity Consumption - Scope 2,Residential,,20038.7,Lachlan,Central West and Orana,Regional,14600
+2019,2,Electricity Consumption - Scope 2,Residential,,423554.5,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2019,2,Electricity Consumption - Scope 2,Residential,,72054.5,Lane Cove,Eastern Harbour City,Six Cities,14700
+2019,2,Electricity Consumption - Scope 2,Residential,,32798.1,Leeton,Riverina Murray,Regional,14750
+2019,2,Electricity Consumption - Scope 2,Residential,,76154.2,Lismore,North Coast,Regional,14850
+2019,2,Electricity Consumption - Scope 2,Residential,,41572.5,Lithgow,Central West and Orana,Regional,14870
+2019,2,Electricity Consumption - Scope 2,Residential,,376551.7,Liverpool,Western Parkland City,Six Cities,14900
+2019,2,Electricity Consumption - Scope 2,Residential,,22333.6,Liverpool Plains,New England North West,Regional,14920
+2019,2,Electricity Consumption - Scope 2,Residential,,9110.9,Lockhart,Riverina Murray,Regional,14950
+2019,2,Electricity Consumption - Scope 2,Residential,,172143.5,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2019,2,Electricity Consumption - Scope 2,Residential,,199150,Mid-Coast,Upper Hunter,Regional,15240
+2019,2,Electricity Consumption - Scope 2,Residential,,62374.5,Mid-Western Regional,Central West and Orana,Regional,15270
+2019,2,Electricity Consumption - Scope 2,Residential,,42679.3,Moree Plains,New England North West,Regional,15300
+2019,2,Electricity Consumption - Scope 2,Residential,,72541.2,Mosman,Eastern Harbour City,Six Cities,15350
+2019,2,Electricity Consumption - Scope 2,Residential,,36480,Murray River,Riverina Murray,Regional,15520
+2019,2,Electricity Consumption - Scope 2,Residential,,13740.8,Murrumbidgee,Riverina Murray,Regional,15560
+2019,2,Electricity Consumption - Scope 2,Residential,,45092.6,Muswellbrook,Upper Hunter,Regional,15650
+2019,2,Electricity Consumption - Scope 2,Residential,,35222.9,Nambucca,North Coast,Regional,15700
+2019,2,Electricity Consumption - Scope 2,Residential,,39894.1,Narrabri,New England North West,Regional,15750
+2019,2,Electricity Consumption - Scope 2,Residential,,16140.9,Narrandera,Riverina Murray,Regional,15800
+2019,2,Electricity Consumption - Scope 2,Residential,,20122.5,Narromine,Central West and Orana,Regional,15850
+2019,2,Electricity Consumption - Scope 2,Residential,,289542.7,Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2019,2,Electricity Consumption - Scope 2,Residential,,131954.1,North Sydney,Eastern Harbour City,Six Cities,15950
+2019,2,Electricity Consumption - Scope 2,Residential,,487348.2,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2019,2,Electricity Consumption - Scope 2,Residential,,13168.8,Oberon,Central West and Orana,Regional,16100
+2019,2,Electricity Consumption - Scope 2,Residential,,90554.8,Orange,Central West and Orana,Regional,16150
+2019,2,Electricity Consumption - Scope 2,Residential,,36435.8,Parkes,Central West and Orana,Regional,16200
+2019,2,Electricity Consumption - Scope 2,Residential,,384912.1,Parramatta,Central River City,Six Cities,16260
+2019,2,Electricity Consumption - Scope 2,Residential,,451160.1,Penrith,Western Parkland City,Six Cities,16350
+2019,2,Electricity Consumption - Scope 2,Residential,,154306.6,Port Macquarie-Hastings,North Coast,Regional,16380
+2019,2,Electricity Consumption - Scope 2,Residential,,168804.9,Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2019,2,Electricity Consumption - Scope 2,Residential,,126244,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2019,2,Electricity Consumption - Scope 2,Residential,,225515.4,Randwick,Eastern Harbour City,Six Cities,16550
+2019,2,Electricity Consumption - Scope 2,Residential,,43724.4,Richmond Valley,North Coast,Regional,16610
+2019,2,Electricity Consumption - Scope 2,Residential,,204896.7,Ryde,Eastern Harbour City,Six Cities,16700
+2019,2,Electricity Consumption - Scope 2,Residential,,113045.6,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2019,2,Electricity Consumption - Scope 2,Residential,,229767.5,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2019,2,Electricity Consumption - Scope 2,Residential,,65245.7,Singleton,Upper Hunter,Regional,17000
+2019,2,Electricity Consumption - Scope 2,Residential,,62892.9,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2019,2,Electricity Consumption - Scope 2,Residential,,36717.2,Snowy Valleys,Riverina Murray,Regional,17080
+2019,2,Electricity Consumption - Scope 2,Residential,,65933.6,Strathfield,Eastern Harbour City,Six Cities,17100
+2019,2,Electricity Consumption - Scope 2,Residential,,485777.3,Sutherland Shire,Central River City,Six Cities,17150
+2019,2,Electricity Consumption - Scope 2,Residential,,327484.2,Sydney,Eastern Harbour City,Six Cities,17200
+2019,2,Electricity Consumption - Scope 2,Residential,,154525.4,Tamworth Regional,New England North West,Regional,17310
+2019,2,Electricity Consumption - Scope 2,Residential,,15590.7,Temora,Riverina Murray,Regional,17350
+2019,2,Electricity Consumption - Scope 2,Residential,,11260.2,Tenterfield,New England North West,Regional,17400
+2019,2,Electricity Consumption - Scope 2,Residential,,356028.2,The Hills Shire,Central River City,Six Cities,17420
+2019,2,Electricity Consumption - Scope 2,Residential,,158051.9,Tweed,North Coast,Regional,17550
+2019,2,Electricity Consumption - Scope 2,Residential,,3233.2,Unincorporated NSW,Far West,Regional,19399
+2019,2,Electricity Consumption - Scope 2,Residential,,40806.1,Upper Hunter Shire,Upper Hunter,Regional,17620
+2019,2,Electricity Consumption - Scope 2,Residential,,20419.2,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2019,2,Electricity Consumption - Scope 2,Residential,,12886.6,Uralla,New England North West,Regional,17650
+2019,2,Electricity Consumption - Scope 2,Residential,,130109.6,Wagga Wagga,Riverina Murray,Regional,17750
+2019,2,Electricity Consumption - Scope 2,Residential,,7714.3,Walcha,New England North West,Regional,17850
+2019,2,Electricity Consumption - Scope 2,Residential,,16987.8,Walgett,Far West,Regional,17900
+2019,2,Electricity Consumption - Scope 2,Residential,,10836.3,Warren,Central West and Orana,Regional,17950
+2019,2,Electricity Consumption - Scope 2,Residential,,24299.1,Warrumbungle Shire,Central West and Orana,Regional,18020
+2019,2,Electricity Consumption - Scope 2,Residential,,128151.1,Waverley,Eastern Harbour City,Six Cities,18050
+2019,2,Electricity Consumption - Scope 2,Residential,,9952.9,Weddin,Central West and Orana,Regional,18100
+2019,2,Electricity Consumption - Scope 2,Residential,,24461.2,Wentworth,Far West,Regional,18200
+2019,2,Electricity Consumption - Scope 2,Residential,,133816.3,Willoughby,Eastern Harbour City,Six Cities,18250
+2019,2,Electricity Consumption - Scope 2,Residential,,116256.8,Wingecarribee,South East and Tablelands,Regional,18350
+2019,2,Electricity Consumption - Scope 2,Residential,,121987.9,Wollondilly,Western Parkland City,Six Cities,18400
+2019,2,Electricity Consumption - Scope 2,Residential,,352089.1,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2019,2,Electricity Consumption - Scope 2,Residential,,152150.7,Woollahra,Eastern Harbour City,Six Cities,18500
+2019,2,Electricity Consumption - Scope 2,Residential,,43275.1,Yass Valley,South East and Tablelands,Regional,18710
+2018,2,Electricity Consumption - Scope 2,Residential,,97839.1,Albury,Riverina Murray,Regional,10050
+2018,2,Electricity Consumption - Scope 2,Residential,,66578.2,Armidale Regional,New England North West,Regional,10130
+2018,2,Electricity Consumption - Scope 2,Residential,,76952.2,Ballina,North Coast,Regional,10250
+2018,2,Electricity Consumption - Scope 2,Residential,,10633.3,Balranald,Far West,Regional,10300
+2018,2,Electricity Consumption - Scope 2,Residential,,86879.1,Bathurst Regional,Central West and Orana,Regional,10470
+2018,2,Electricity Consumption - Scope 2,Residential,,241820,Bayside,Eastern Harbour City,Six Cities,10500
+2018,2,Electricity Consumption - Scope 2,Residential,,78318,Bega Valley,South East and Tablelands,Regional,10550
+2018,2,Electricity Consumption - Scope 2,Residential,,25815.5,Bellingen,North Coast,Regional,10600
+2018,2,Electricity Consumption - Scope 2,Residential,,25354.2,Berrigan,Riverina Murray,Regional,10650
+2018,2,Electricity Consumption - Scope 2,Residential,,621923.5,Blacktown,Central River City,Six Cities,10750
+2018,2,Electricity Consumption - Scope 2,Residential,,16064.5,Bland,Riverina Murray,Regional,10800
+2018,2,Electricity Consumption - Scope 2,Residential,,18049.2,Blayney,Central West and Orana,Regional,10850
+2018,2,Electricity Consumption - Scope 2,Residential,,171168.4,Blue Mountains,Western Parkland City,Six Cities,10900
+2018,2,Electricity Consumption - Scope 2,Residential,,10226.7,Bogan,Central West and Orana,Regional,10950
+2018,2,Electricity Consumption - Scope 2,Residential,,10294.6,Bourke,Far West,Regional,11150
+2018,2,Electricity Consumption - Scope 2,Residential,,6162.6,Brewarrina,Far West,Regional,11200
+2018,2,Electricity Consumption - Scope 2,Residential,,47352.8,Broken Hill,Far West,Regional,11250
+2018,2,Electricity Consumption - Scope 2,Residential,,54393.9,Burwood,Eastern Harbour City,Six Cities,11300
+2018,2,Electricity Consumption - Scope 2,Residential,,69049.9,Byron,North Coast,Regional,11350
+2018,2,Electricity Consumption - Scope 2,Residential,,39446.8,Cabonne,Central West and Orana,Regional,11400
+2018,2,Electricity Consumption - Scope 2,Residential,,187388.8,Camden,Western Parkland City,Six Cities,11450
+2018,2,Electricity Consumption - Scope 2,Residential,,310690.8,Campbelltown,Western Parkland City,Six Cities,11500
+2018,2,Electricity Consumption - Scope 2,Residential,,150384.4,Canada Bay,Eastern Harbour City,Six Cities,11520
+2018,2,Electricity Consumption - Scope 2,Residential,,581951.6,Canterbury-Bankstown,Central River City,Six Cities,11570
+2018,2,Electricity Consumption - Scope 2,Residential,,11033.9,Carrathool,Riverina Murray,Regional,11600
+2018,2,Electricity Consumption - Scope 2,Residential,,731053,Central Coast,Central Coast City,Six Cities,11650
+2018,2,Electricity Consumption - Scope 2,Residential,,7343.1,Central Darling,Far West,Regional,11700
+2018,2,Electricity Consumption - Scope 2,Residential,,130942,Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2018,2,Electricity Consumption - Scope 2,Residential,,98538.3,Clarence Valley,North Coast,Regional,11730
+2018,2,Electricity Consumption - Scope 2,Residential,,14648.1,Cobar,Far West,Regional,11750
+2018,2,Electricity Consumption - Scope 2,Residential,,138110.1,Coffs Harbour,North Coast,Regional,11800
+2018,2,Electricity Consumption - Scope 2,Residential,,10580.7,Coolamon,Riverina Murray,Regional,12000
+2018,2,Electricity Consumption - Scope 2,Residential,,14716.2,Coonamble,Central West and Orana,Regional,12150
+2018,2,Electricity Consumption - Scope 2,Residential,,26164.5,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2018,2,Electricity Consumption - Scope 2,Residential,,33462.9,Cowra,Central West and Orana,Regional,12350
+2018,2,Electricity Consumption - Scope 2,Residential,,330078.8,Cumberland,Central River City,Six Cities,12380
+2018,2,Electricity Consumption - Scope 2,Residential,,135053,Dubbo Regional,Central West and Orana,Regional,12390
+2018,2,Electricity Consumption - Scope 2,Residential,,24928.4,Dungog,Upper Hunter,Regional,12700
+2018,2,Electricity Consumption - Scope 2,Residential,,31328.3,Edward River,Riverina Murray,Regional,12730
+2018,2,Electricity Consumption - Scope 2,Residential,,88136.9,Eurobodalla,South East and Tablelands,Regional,12750
+2018,2,Electricity Consumption - Scope 2,Residential,,362288,Fairfield,Western Parkland City,Six Cities,12850
+2018,2,Electricity Consumption - Scope 2,Residential,,32442,Federation,Riverina Murray,Regional,12870
+2018,2,Electricity Consumption - Scope 2,Residential,,26805.8,Forbes,Central West and Orana,Regional,12900
+2018,2,Electricity Consumption - Scope 2,Residential,,250255.1,Georges River,Central River City,Six Cities,12930
+2018,2,Electricity Consumption - Scope 2,Residential,,13766.5,Gilgandra,Central West and Orana,Regional,12950
+2018,2,Electricity Consumption - Scope 2,Residential,,18183.5,Glen Innes Severn,New England North West,Regional,13010
+2018,2,Electricity Consumption - Scope 2,Residential,,60948.6,Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2018,2,Electricity Consumption - Scope 2,Residential,,27750.3,Greater Hume Shire,Riverina Murray,Regional,13340
+2018,2,Electricity Consumption - Scope 2,Residential,,77253.3,Griffith,Riverina Murray,Regional,13450
+2018,2,Electricity Consumption - Scope 2,Residential,,35196,Gunnedah,New England North West,Regional,13550
+2018,2,Electricity Consumption - Scope 2,Residential,,16320.1,Gwydir,New England North West,Regional,13660
+2018,2,Electricity Consumption - Scope 2,Residential,,175558.5,Hawkesbury,Western Parkland City,Six Cities,13800
+2018,2,Electricity Consumption - Scope 2,Residential,,11083.1,Hay,Riverina Murray,Regional,13850
+2018,2,Electricity Consumption - Scope 2,Residential,,50248.6,Hilltops,South East and Tablelands,Regional,13910
+2018,2,Electricity Consumption - Scope 2,Residential,,323358.2,Hornsby,Eastern Harbour City,Six Cities,14000
+2018,2,Electricity Consumption - Scope 2,Residential,,35572.1,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2018,2,Electricity Consumption - Scope 2,Residential,,289319.6,Inner West,Eastern Harbour City,Six Cities,14170
+2018,2,Electricity Consumption - Scope 2,Residential,,40083.6,Inverell,New England North West,Regional,14200
+2018,2,Electricity Consumption - Scope 2,Residential,,12415.9,Junee,Riverina Murray,Regional,14300
+2018,2,Electricity Consumption - Scope 2,Residential,,57657.8,Kempsey,North Coast,Regional,14350
+2018,2,Electricity Consumption - Scope 2,Residential,,45178.2,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2018,2,Electricity Consumption - Scope 2,Residential,,287886.9,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2018,2,Electricity Consumption - Scope 2,Residential,,18994.2,Kyogle,North Coast,Regional,14550
+2018,2,Electricity Consumption - Scope 2,Residential,,20917.4,Lachlan,Central West and Orana,Regional,14600
+2018,2,Electricity Consumption - Scope 2,Residential,,425538,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2018,2,Electricity Consumption - Scope 2,Residential,,73287,Lane Cove,Eastern Harbour City,Six Cities,14700
+2018,2,Electricity Consumption - Scope 2,Residential,,33727,Leeton,Riverina Murray,Regional,14750
+2018,2,Electricity Consumption - Scope 2,Residential,,77320.1,Lismore,North Coast,Regional,14850
+2018,2,Electricity Consumption - Scope 2,Residential,,42611.4,Lithgow,Central West and Orana,Regional,14870
+2018,2,Electricity Consumption - Scope 2,Residential,,383281.9,Liverpool,Western Parkland City,Six Cities,14900
+2018,2,Electricity Consumption - Scope 2,Residential,,23115.7,Liverpool Plains,New England North West,Regional,14920
+2018,2,Electricity Consumption - Scope 2,Residential,,9271.9,Lockhart,Riverina Murray,Regional,14950
+2018,2,Electricity Consumption - Scope 2,Residential,,170561.4,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2018,2,Electricity Consumption - Scope 2,Residential,,203456.1,Mid-Coast,Upper Hunter,Regional,15240
+2018,2,Electricity Consumption - Scope 2,Residential,,63289,Mid-Western Regional,Central West and Orana,Regional,15270
+2018,2,Electricity Consumption - Scope 2,Residential,,45355.5,Moree Plains,New England North West,Regional,15300
+2018,2,Electricity Consumption - Scope 2,Residential,,74317.1,Mosman,Eastern Harbour City,Six Cities,15350
+2018,2,Electricity Consumption - Scope 2,Residential,,37385.9,Murray River,Riverina Murray,Regional,15520
+2018,2,Electricity Consumption - Scope 2,Residential,,14354.2,Murrumbidgee,Riverina Murray,Regional,15560
+2018,2,Electricity Consumption - Scope 2,Residential,,46009.4,Muswellbrook,Upper Hunter,Regional,15650
+2018,2,Electricity Consumption - Scope 2,Residential,,36121.9,Nambucca,North Coast,Regional,15700
+2018,2,Electricity Consumption - Scope 2,Residential,,41550.1,Narrabri,New England North West,Regional,15750
+2018,2,Electricity Consumption - Scope 2,Residential,,16419.8,Narrandera,Riverina Murray,Regional,15800
+2018,2,Electricity Consumption - Scope 2,Residential,,20704.9,Narromine,Central West and Orana,Regional,15850
+2018,2,Electricity Consumption - Scope 2,Residential,,290819.9,Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2018,2,Electricity Consumption - Scope 2,Residential,,133996.7,North Sydney,Eastern Harbour City,Six Cities,15950
+2018,2,Electricity Consumption - Scope 2,Residential,,497050.1,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2018,2,Electricity Consumption - Scope 2,Residential,,13616.4,Oberon,Central West and Orana,Regional,16100
+2018,2,Electricity Consumption - Scope 2,Residential,,90782.3,Orange,Central West and Orana,Regional,16150
+2018,2,Electricity Consumption - Scope 2,Residential,,37447,Parkes,Central West and Orana,Regional,16200
+2018,2,Electricity Consumption - Scope 2,Residential,,392770.1,Parramatta,Central River City,Six Cities,16260
+2018,2,Electricity Consumption - Scope 2,Residential,,458672.5,Penrith,Western Parkland City,Six Cities,16350
+2018,2,Electricity Consumption - Scope 2,Residential,,159267.4,Port Macquarie-Hastings,North Coast,Regional,16380
+2018,2,Electricity Consumption - Scope 2,Residential,,171175.1,Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2018,2,Electricity Consumption - Scope 2,Residential,,127018.7,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2018,2,Electricity Consumption - Scope 2,Residential,,233114.8,Randwick,Eastern Harbour City,Six Cities,16550
+2018,2,Electricity Consumption - Scope 2,Residential,,43679,Richmond Valley,North Coast,Regional,16610
+2018,2,Electricity Consumption - Scope 2,Residential,,207207.8,Ryde,Eastern Harbour City,Six Cities,16700
+2018,2,Electricity Consumption - Scope 2,Residential,,115920,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2018,2,Electricity Consumption - Scope 2,Residential,,232576.2,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2018,2,Electricity Consumption - Scope 2,Residential,,66127.4,Singleton,Upper Hunter,Regional,17000
+2018,2,Electricity Consumption - Scope 2,Residential,,65041.4,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2018,2,Electricity Consumption - Scope 2,Residential,,37904.3,Snowy Valleys,Riverina Murray,Regional,17080
+2018,2,Electricity Consumption - Scope 2,Residential,,66426.8,Strathfield,Eastern Harbour City,Six Cities,17100
+2018,2,Electricity Consumption - Scope 2,Residential,,494422.8,Sutherland Shire,Central River City,Six Cities,17150
+2018,2,Electricity Consumption - Scope 2,Residential,,332887.8,Sydney,Eastern Harbour City,Six Cities,17200
+2018,2,Electricity Consumption - Scope 2,Residential,,157979.4,Tamworth Regional,New England North West,Regional,17310
+2018,2,Electricity Consumption - Scope 2,Residential,,15731.7,Temora,Riverina Murray,Regional,17350
+2018,2,Electricity Consumption - Scope 2,Residential,,11715.2,Tenterfield,New England North West,Regional,17400
+2018,2,Electricity Consumption - Scope 2,Residential,,358810,The Hills Shire,Central River City,Six Cities,17420
+2018,2,Electricity Consumption - Scope 2,Residential,,161634,Tweed,North Coast,Regional,17550
+2018,2,Electricity Consumption - Scope 2,Residential,,3422,Unincorporated NSW,Far West,Regional,19399
+2018,2,Electricity Consumption - Scope 2,Residential,,41597.1,Upper Hunter Shire,Upper Hunter,Regional,17620
+2018,2,Electricity Consumption - Scope 2,Residential,,20803.2,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2018,2,Electricity Consumption - Scope 2,Residential,,13453.6,Uralla,New England North West,Regional,17650
+2018,2,Electricity Consumption - Scope 2,Residential,,130311,Wagga Wagga,Riverina Murray,Regional,17750
+2018,2,Electricity Consumption - Scope 2,Residential,,8177.1,Walcha,New England North West,Regional,17850
+2018,2,Electricity Consumption - Scope 2,Residential,,18106.3,Walgett,Far West,Regional,17900
+2018,2,Electricity Consumption - Scope 2,Residential,,11328.8,Warren,Central West and Orana,Regional,17950
+2018,2,Electricity Consumption - Scope 2,Residential,,25041.9,Warrumbungle Shire,Central West and Orana,Regional,18020
+2018,2,Electricity Consumption - Scope 2,Residential,,132180.2,Waverley,Eastern Harbour City,Six Cities,18050
+2018,2,Electricity Consumption - Scope 2,Residential,,10317.3,Weddin,Central West and Orana,Regional,18100
+2018,2,Electricity Consumption - Scope 2,Residential,,25407.1,Wentworth,Far West,Regional,18200
+2018,2,Electricity Consumption - Scope 2,Residential,,136407,Willoughby,Eastern Harbour City,Six Cities,18250
+2018,2,Electricity Consumption - Scope 2,Residential,,116642.8,Wingecarribee,South East and Tablelands,Regional,18350
+2018,2,Electricity Consumption - Scope 2,Residential,,121616.5,Wollondilly,Western Parkland City,Six Cities,18400
+2018,2,Electricity Consumption - Scope 2,Residential,,358774.5,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2018,2,Electricity Consumption - Scope 2,Residential,,155388.9,Woollahra,Eastern Harbour City,Six Cities,18500
+2018,2,Electricity Consumption - Scope 2,Residential,,44094.8,Yass Valley,South East and Tablelands,Regional,18710
+2017,2,Electricity Consumption - Scope 2,Residential,,99282,Albury,Riverina Murray,Regional,10050
+2017,2,Electricity Consumption - Scope 2,Residential,,69085.5,Armidale Regional,New England North West,Regional,10130
+2017,2,Electricity Consumption - Scope 2,Residential,,79730.3,Ballina,North Coast,Regional,10250
+2017,2,Electricity Consumption - Scope 2,Residential,,10245.8,Balranald,Far West,Regional,10300
+2017,2,Electricity Consumption - Scope 2,Residential,,90562.7,Bathurst Regional,Central West and Orana,Regional,10470
+2017,2,Electricity Consumption - Scope 2,Residential,,246406.9,Bayside,Eastern Harbour City,Six Cities,10500
+2017,2,Electricity Consumption - Scope 2,Residential,,80965.4,Bega Valley,South East and Tablelands,Regional,10550
+2017,2,Electricity Consumption - Scope 2,Residential,,26537.7,Bellingen,North Coast,Regional,10600
+2017,2,Electricity Consumption - Scope 2,Residential,,25860.4,Berrigan,Riverina Murray,Regional,10650
+2017,2,Electricity Consumption - Scope 2,Residential,,598646.3,Blacktown,Central River City,Six Cities,10750
+2017,2,Electricity Consumption - Scope 2,Residential,,17060.4,Bland,Riverina Murray,Regional,10800
+2017,2,Electricity Consumption - Scope 2,Residential,,18826.6,Blayney,Central West and Orana,Regional,10850
+2017,2,Electricity Consumption - Scope 2,Residential,,168506.5,Blue Mountains,Western Parkland City,Six Cities,10900
+2017,2,Electricity Consumption - Scope 2,Residential,,10847,Bogan,Central West and Orana,Regional,10950
+2017,2,Electricity Consumption - Scope 2,Residential,,10705,Bourke,Far West,Regional,11150
+2017,2,Electricity Consumption - Scope 2,Residential,,6458.9,Brewarrina,Far West,Regional,11200
+2017,2,Electricity Consumption - Scope 2,Residential,,48733.5,Broken Hill,Far West,Regional,11250
+2017,2,Electricity Consumption - Scope 2,Residential,,55568.4,Burwood,Eastern Harbour City,Six Cities,11300
+2017,2,Electricity Consumption - Scope 2,Residential,,69941.4,Byron,North Coast,Regional,11350
+2017,2,Electricity Consumption - Scope 2,Residential,,41397.8,Cabonne,Central West and Orana,Regional,11400
+2017,2,Electricity Consumption - Scope 2,Residential,,162630.9,Camden,Western Parkland City,Six Cities,11450
+2017,2,Electricity Consumption - Scope 2,Residential,,301548.8,Campbelltown,Western Parkland City,Six Cities,11500
+2017,2,Electricity Consumption - Scope 2,Residential,,155614.2,Canada Bay,Eastern Harbour City,Six Cities,11520
+2017,2,Electricity Consumption - Scope 2,Residential,,593040.2,Canterbury-Bankstown,Central River City,Six Cities,11570
+2017,2,Electricity Consumption - Scope 2,Residential,,10952.6,Carrathool,Riverina Murray,Regional,11600
+2017,2,Electricity Consumption - Scope 2,Residential,,760736.8,Central Coast,Central Coast City,Six Cities,11650
+2017,2,Electricity Consumption - Scope 2,Residential,,7537.7,Central Darling,Far West,Regional,11700
+2017,2,Electricity Consumption - Scope 2,Residential,,135904.6,Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2017,2,Electricity Consumption - Scope 2,Residential,,102213.4,Clarence Valley,North Coast,Regional,11730
+2017,2,Electricity Consumption - Scope 2,Residential,,15270.7,Cobar,Far West,Regional,11750
+2017,2,Electricity Consumption - Scope 2,Residential,,141472.4,Coffs Harbour,North Coast,Regional,11800
+2017,2,Electricity Consumption - Scope 2,Residential,,11053.2,Coolamon,Riverina Murray,Regional,12000
+2017,2,Electricity Consumption - Scope 2,Residential,,15573,Coonamble,Central West and Orana,Regional,12150
+2017,2,Electricity Consumption - Scope 2,Residential,,27323.8,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2017,2,Electricity Consumption - Scope 2,Residential,,34766.3,Cowra,Central West and Orana,Regional,12350
+2017,2,Electricity Consumption - Scope 2,Residential,,326150,Cumberland,Central River City,Six Cities,12380
+2017,2,Electricity Consumption - Scope 2,Residential,,138084.6,Dubbo Regional,Central West and Orana,Regional,12390
+2017,2,Electricity Consumption - Scope 2,Residential,,25181.3,Dungog,Upper Hunter,Regional,12700
+2017,2,Electricity Consumption - Scope 2,Residential,,32114,Edward River,Riverina Murray,Regional,12730
+2017,2,Electricity Consumption - Scope 2,Residential,,90372.2,Eurobodalla,South East and Tablelands,Regional,12750
+2017,2,Electricity Consumption - Scope 2,Residential,,348667.9,Fairfield,Western Parkland City,Six Cities,12850
+2017,2,Electricity Consumption - Scope 2,Residential,,33438.8,Federation,Riverina Murray,Regional,12870
+2017,2,Electricity Consumption - Scope 2,Residential,,27957.6,Forbes,Central West and Orana,Regional,12900
+2017,2,Electricity Consumption - Scope 2,Residential,,258641.3,Georges River,Central River City,Six Cities,12930
+2017,2,Electricity Consumption - Scope 2,Residential,,14556.8,Gilgandra,Central West and Orana,Regional,12950
+2017,2,Electricity Consumption - Scope 2,Residential,,19083.3,Glen Innes Severn,New England North West,Regional,13010
+2017,2,Electricity Consumption - Scope 2,Residential,,61876.2,Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2017,2,Electricity Consumption - Scope 2,Residential,,28402.6,Greater Hume Shire,Riverina Murray,Regional,13340
+2017,2,Electricity Consumption - Scope 2,Residential,,78269,Griffith,Riverina Murray,Regional,13450
+2017,2,Electricity Consumption - Scope 2,Residential,,36274,Gunnedah,New England North West,Regional,13550
+2017,2,Electricity Consumption - Scope 2,Residential,,16525.5,Gwydir,New England North West,Regional,13660
+2017,2,Electricity Consumption - Scope 2,Residential,,169025.4,Hawkesbury,Western Parkland City,Six Cities,13800
+2017,2,Electricity Consumption - Scope 2,Residential,,11475.6,Hay,Riverina Murray,Regional,13850
+2017,2,Electricity Consumption - Scope 2,Residential,,52489,Hilltops,South East and Tablelands,Regional,13910
+2017,2,Electricity Consumption - Scope 2,Residential,,337316.5,Hornsby,Eastern Harbour City,Six Cities,14000
+2017,2,Electricity Consumption - Scope 2,Residential,,37169,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2017,2,Electricity Consumption - Scope 2,Residential,,298109.8,Inner West,Eastern Harbour City,Six Cities,14170
+2017,2,Electricity Consumption - Scope 2,Residential,,41223.3,Inverell,New England North West,Regional,14200
+2017,2,Electricity Consumption - Scope 2,Residential,,12845.4,Junee,Riverina Murray,Regional,14300
+2017,2,Electricity Consumption - Scope 2,Residential,,58932.2,Kempsey,North Coast,Regional,14350
+2017,2,Electricity Consumption - Scope 2,Residential,,45194.7,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2017,2,Electricity Consumption - Scope 2,Residential,,303962.9,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2017,2,Electricity Consumption - Scope 2,Residential,,19364.7,Kyogle,North Coast,Regional,14550
+2017,2,Electricity Consumption - Scope 2,Residential,,22054,Lachlan,Central West and Orana,Regional,14600
+2017,2,Electricity Consumption - Scope 2,Residential,,445679.3,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2017,2,Electricity Consumption - Scope 2,Residential,,75921.2,Lane Cove,Eastern Harbour City,Six Cities,14700
+2017,2,Electricity Consumption - Scope 2,Residential,,34426.8,Leeton,Riverina Murray,Regional,14750
+2017,2,Electricity Consumption - Scope 2,Residential,,80491,Lismore,North Coast,Regional,14850
+2017,2,Electricity Consumption - Scope 2,Residential,,41998.2,Lithgow,Central West and Orana,Regional,14870
+2017,2,Electricity Consumption - Scope 2,Residential,,358908,Liverpool,Western Parkland City,Six Cities,14900
+2017,2,Electricity Consumption - Scope 2,Residential,,23833.2,Liverpool Plains,New England North West,Regional,14920
+2017,2,Electricity Consumption - Scope 2,Residential,,9653.8,Lockhart,Riverina Murray,Regional,14950
+2017,2,Electricity Consumption - Scope 2,Residential,,174973.4,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2017,2,Electricity Consumption - Scope 2,Residential,,208882.6,Mid-Coast,Upper Hunter,Regional,15240
+2017,2,Electricity Consumption - Scope 2,Residential,,64777.3,Mid-Western Regional,Central West and Orana,Regional,15270
+2017,2,Electricity Consumption - Scope 2,Residential,,47038.9,Moree Plains,New England North West,Regional,15300
+2017,2,Electricity Consumption - Scope 2,Residential,,77089.8,Mosman,Eastern Harbour City,Six Cities,15350
+2017,2,Electricity Consumption - Scope 2,Residential,,37635.7,Murray River,Riverina Murray,Regional,15520
+2017,2,Electricity Consumption - Scope 2,Residential,,14452.9,Murrumbidgee,Riverina Murray,Regional,15560
+2017,2,Electricity Consumption - Scope 2,Residential,,47603,Muswellbrook,Upper Hunter,Regional,15650
+2017,2,Electricity Consumption - Scope 2,Residential,,37204.9,Nambucca,North Coast,Regional,15700
+2017,2,Electricity Consumption - Scope 2,Residential,,42812.4,Narrabri,New England North West,Regional,15750
+2017,2,Electricity Consumption - Scope 2,Residential,,16889.6,Narrandera,Riverina Murray,Regional,15800
+2017,2,Electricity Consumption - Scope 2,Residential,,21448.1,Narromine,Central West and Orana,Regional,15850
+2017,2,Electricity Consumption - Scope 2,Residential,,302369.4,Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2017,2,Electricity Consumption - Scope 2,Residential,,138922,North Sydney,Eastern Harbour City,Six Cities,15950
+2017,2,Electricity Consumption - Scope 2,Residential,,517152.5,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2017,2,Electricity Consumption - Scope 2,Residential,,14184.6,Oberon,Central West and Orana,Regional,16100
+2017,2,Electricity Consumption - Scope 2,Residential,,95768,Orange,Central West and Orana,Regional,16150
+2017,2,Electricity Consumption - Scope 2,Residential,,39538.7,Parkes,Central West and Orana,Regional,16200
+2017,2,Electricity Consumption - Scope 2,Residential,,380296,Parramatta,Central River City,Six Cities,16260
+2017,2,Electricity Consumption - Scope 2,Residential,,445855.3,Penrith,Western Parkland City,Six Cities,16350
+2017,2,Electricity Consumption - Scope 2,Residential,,162597.9,Port Macquarie-Hastings,North Coast,Regional,16380
+2017,2,Electricity Consumption - Scope 2,Residential,,177438.1,Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2017,2,Electricity Consumption - Scope 2,Residential,,130503.5,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2017,2,Electricity Consumption - Scope 2,Residential,,240692.1,Randwick,Eastern Harbour City,Six Cities,16550
+2017,2,Electricity Consumption - Scope 2,Residential,,45594.8,Richmond Valley,North Coast,Regional,16610
+2017,2,Electricity Consumption - Scope 2,Residential,,214928.3,Ryde,Eastern Harbour City,Six Cities,16700
+2017,2,Electricity Consumption - Scope 2,Residential,,110550.6,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2017,2,Electricity Consumption - Scope 2,Residential,,225244.4,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2017,2,Electricity Consumption - Scope 2,Residential,,69388.1,Singleton,Upper Hunter,Regional,17000
+2017,2,Electricity Consumption - Scope 2,Residential,,66077,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2017,2,Electricity Consumption - Scope 2,Residential,,39595.2,Snowy Valleys,Riverina Murray,Regional,17080
+2017,2,Electricity Consumption - Scope 2,Residential,,67546.1,Strathfield,Eastern Harbour City,Six Cities,17100
+2017,2,Electricity Consumption - Scope 2,Residential,,516598.4,Sutherland Shire,Central River City,Six Cities,17150
+2017,2,Electricity Consumption - Scope 2,Residential,,340527.5,Sydney,Eastern Harbour City,Six Cities,17200
+2017,2,Electricity Consumption - Scope 2,Residential,,161737.9,Tamworth Regional,New England North West,Regional,17310
+2017,2,Electricity Consumption - Scope 2,Residential,,16598.9,Temora,Riverina Murray,Regional,17350
+2017,2,Electricity Consumption - Scope 2,Residential,,11904,Tenterfield,New England North West,Regional,17400
+2017,2,Electricity Consumption - Scope 2,Residential,,356416.6,The Hills Shire,Central River City,Six Cities,17420
+2017,2,Electricity Consumption - Scope 2,Residential,,167071,Tweed,North Coast,Regional,17550
+2017,2,Electricity Consumption - Scope 2,Residential,,3306.3,Unincorporated NSW,Far West,Regional,19399
+2017,2,Electricity Consumption - Scope 2,Residential,,42702.1,Upper Hunter Shire,Upper Hunter,Regional,17620
+2017,2,Electricity Consumption - Scope 2,Residential,,21476.7,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2017,2,Electricity Consumption - Scope 2,Residential,,14144.5,Uralla,New England North West,Regional,17650
+2017,2,Electricity Consumption - Scope 2,Residential,,133727.1,Wagga Wagga,Riverina Murray,Regional,17750
+2017,2,Electricity Consumption - Scope 2,Residential,,8552.4,Walcha,New England North West,Regional,17850
+2017,2,Electricity Consumption - Scope 2,Residential,,19409.6,Walgett,Far West,Regional,17900
+2017,2,Electricity Consumption - Scope 2,Residential,,11641.9,Warren,Central West and Orana,Regional,17950
+2017,2,Electricity Consumption - Scope 2,Residential,,26661.4,Warrumbungle Shire,Central West and Orana,Regional,18020
+2017,2,Electricity Consumption - Scope 2,Residential,,135648.1,Waverley,Eastern Harbour City,Six Cities,18050
+2017,2,Electricity Consumption - Scope 2,Residential,,10824,Weddin,Central West and Orana,Regional,18100
+2017,2,Electricity Consumption - Scope 2,Residential,,25090.4,Wentworth,Far West,Regional,18200
+2017,2,Electricity Consumption - Scope 2,Residential,,142883.4,Willoughby,Eastern Harbour City,Six Cities,18250
+2017,2,Electricity Consumption - Scope 2,Residential,,111940,Wingecarribee,South East and Tablelands,Regional,18350
+2017,2,Electricity Consumption - Scope 2,Residential,,118528.8,Wollondilly,Western Parkland City,Six Cities,18400
+2017,2,Electricity Consumption - Scope 2,Residential,,344362.5,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2017,2,Electricity Consumption - Scope 2,Residential,,160906.6,Woollahra,Eastern Harbour City,Six Cities,18500
+2017,2,Electricity Consumption - Scope 2,Residential,,45564.7,Yass Valley,South East and Tablelands,Regional,18710
+2016,2,Electricity Consumption - Scope 2,Residential,,99041.3,Albury,Riverina Murray,Regional,10050
+2016,2,Electricity Consumption - Scope 2,Residential,,67178.5,Armidale Regional,New England North West,Regional,10130
+2016,2,Electricity Consumption - Scope 2,Residential,,80326.8,Ballina,North Coast,Regional,10250
+2016,2,Electricity Consumption - Scope 2,Residential,,10082,Balranald,Far West,Regional,10300
+2016,2,Electricity Consumption - Scope 2,Residential,,85889.3,Bathurst Regional,Central West and Orana,Regional,10470
+2016,2,Electricity Consumption - Scope 2,Residential,,246842.2,Bayside,Eastern Harbour City,Six Cities,10500
+2016,2,Electricity Consumption - Scope 2,Residential,,80766.1,Bega Valley,South East and Tablelands,Regional,10550
+2016,2,Electricity Consumption - Scope 2,Residential,,26702.8,Bellingen,North Coast,Regional,10600
+2016,2,Electricity Consumption - Scope 2,Residential,,26307.3,Berrigan,Riverina Murray,Regional,10650
+2016,2,Electricity Consumption - Scope 2,Residential,,621906.4,Blacktown,Central River City,Six Cities,10750
+2016,2,Electricity Consumption - Scope 2,Residential,,16967.6,Bland,Riverina Murray,Regional,10800
+2016,2,Electricity Consumption - Scope 2,Residential,,18285.7,Blayney,Central West and Orana,Regional,10850
+2016,2,Electricity Consumption - Scope 2,Residential,,177640.8,Blue Mountains,Western Parkland City,Six Cities,10900
+2016,2,Electricity Consumption - Scope 2,Residential,,10557.2,Bogan,Central West and Orana,Regional,10950
+2016,2,Electricity Consumption - Scope 2,Residential,,10336.9,Bourke,Far West,Regional,11150
+2016,2,Electricity Consumption - Scope 2,Residential,,6253.2,Brewarrina,Far West,Regional,11200
+2016,2,Electricity Consumption - Scope 2,Residential,,50092.2,Broken Hill,Far West,Regional,11250
+2016,2,Electricity Consumption - Scope 2,Residential,,55315.1,Burwood,Eastern Harbour City,Six Cities,11300
+2016,2,Electricity Consumption - Scope 2,Residential,,69986.1,Byron,North Coast,Regional,11350
+2016,2,Electricity Consumption - Scope 2,Residential,,39739.8,Cabonne,Central West and Orana,Regional,11400
+2016,2,Electricity Consumption - Scope 2,Residential,,176688.4,Camden,Western Parkland City,Six Cities,11450
+2016,2,Electricity Consumption - Scope 2,Residential,,312923.3,Campbelltown,Western Parkland City,Six Cities,11500
+2016,2,Electricity Consumption - Scope 2,Residential,,156751.6,Canada Bay,Eastern Harbour City,Six Cities,11520
+2016,2,Electricity Consumption - Scope 2,Residential,,589258.1,Canterbury-Bankstown,Central River City,Six Cities,11570
+2016,2,Electricity Consumption - Scope 2,Residential,,10829.6,Carrathool,Riverina Murray,Regional,11600
+2016,2,Electricity Consumption - Scope 2,Residential,,758098,Central Coast,Central Coast City,Six Cities,11650
+2016,2,Electricity Consumption - Scope 2,Residential,,7420.2,Central Darling,Far West,Regional,11700
+2016,2,Electricity Consumption - Scope 2,Residential,,130737.2,Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2016,2,Electricity Consumption - Scope 2,Residential,,101068.4,Clarence Valley,North Coast,Regional,11730
+2016,2,Electricity Consumption - Scope 2,Residential,,15208.5,Cobar,Far West,Regional,11750
+2016,2,Electricity Consumption - Scope 2,Residential,,141958.3,Coffs Harbour,North Coast,Regional,11800
+2016,2,Electricity Consumption - Scope 2,Residential,,10892.1,Coolamon,Riverina Murray,Regional,12000
+2016,2,Electricity Consumption - Scope 2,Residential,,15018,Coonamble,Central West and Orana,Regional,12150
+2016,2,Electricity Consumption - Scope 2,Residential,,26592.1,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2016,2,Electricity Consumption - Scope 2,Residential,,33721.8,Cowra,Central West and Orana,Regional,12350
+2016,2,Electricity Consumption - Scope 2,Residential,,335183.3,Cumberland,Central River City,Six Cities,12380
+2016,2,Electricity Consumption - Scope 2,Residential,,133832.7,Dubbo Regional,Central West and Orana,Regional,12390
+2016,2,Electricity Consumption - Scope 2,Residential,,24218.2,Dungog,Upper Hunter,Regional,12700
+2016,2,Electricity Consumption - Scope 2,Residential,,32554.1,Edward River,Riverina Murray,Regional,12730
+2016,2,Electricity Consumption - Scope 2,Residential,,90061,Eurobodalla,South East and Tablelands,Regional,12750
+2016,2,Electricity Consumption - Scope 2,Residential,,362150.8,Fairfield,Western Parkland City,Six Cities,12850
+2016,2,Electricity Consumption - Scope 2,Residential,,33403.3,Federation,Riverina Murray,Regional,12870
+2016,2,Electricity Consumption - Scope 2,Residential,,27683.8,Forbes,Central West and Orana,Regional,12900
+2016,2,Electricity Consumption - Scope 2,Residential,,258955.5,Georges River,Central River City,Six Cities,12930
+2016,2,Electricity Consumption - Scope 2,Residential,,14292.2,Gilgandra,Central West and Orana,Regional,12950
+2016,2,Electricity Consumption - Scope 2,Residential,,18283.6,Glen Innes Severn,New England North West,Regional,13010
+2016,2,Electricity Consumption - Scope 2,Residential,,60122.4,Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2016,2,Electricity Consumption - Scope 2,Residential,,28334.1,Greater Hume Shire,Riverina Murray,Regional,13340
+2016,2,Electricity Consumption - Scope 2,Residential,,77477.6,Griffith,Riverina Murray,Regional,13450
+2016,2,Electricity Consumption - Scope 2,Residential,,35303.8,Gunnedah,New England North West,Regional,13550
+2016,2,Electricity Consumption - Scope 2,Residential,,16130.5,Gwydir,New England North West,Regional,13660
+2016,2,Electricity Consumption - Scope 2,Residential,,176846,Hawkesbury,Western Parkland City,Six Cities,13800
+2016,2,Electricity Consumption - Scope 2,Residential,,11309.2,Hay,Riverina Murray,Regional,13850
+2016,2,Electricity Consumption - Scope 2,Residential,,50987,Hilltops,South East and Tablelands,Regional,13910
+2016,2,Electricity Consumption - Scope 2,Residential,,334658.5,Hornsby,Eastern Harbour City,Six Cities,14000
+2016,2,Electricity Consumption - Scope 2,Residential,,37206.5,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2016,2,Electricity Consumption - Scope 2,Residential,,301291.1,Inner West,Eastern Harbour City,Six Cities,14170
+2016,2,Electricity Consumption - Scope 2,Residential,,39957,Inverell,New England North West,Regional,14200
+2016,2,Electricity Consumption - Scope 2,Residential,,12572.3,Junee,Riverina Murray,Regional,14300
+2016,2,Electricity Consumption - Scope 2,Residential,,58251.9,Kempsey,North Coast,Regional,14350
+2016,2,Electricity Consumption - Scope 2,Residential,,48077.9,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2016,2,Electricity Consumption - Scope 2,Residential,,303800.8,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2016,2,Electricity Consumption - Scope 2,Residential,,19006.9,Kyogle,North Coast,Regional,14550
+2016,2,Electricity Consumption - Scope 2,Residential,,21648.7,Lachlan,Central West and Orana,Regional,14600
+2016,2,Electricity Consumption - Scope 2,Residential,,443984,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2016,2,Electricity Consumption - Scope 2,Residential,,76191.4,Lane Cove,Eastern Harbour City,Six Cities,14700
+2016,2,Electricity Consumption - Scope 2,Residential,,33480.1,Leeton,Riverina Murray,Regional,14750
+2016,2,Electricity Consumption - Scope 2,Residential,,80486,Lismore,North Coast,Regional,14850
+2016,2,Electricity Consumption - Scope 2,Residential,,43782.1,Lithgow,Central West and Orana,Regional,14870
+2016,2,Electricity Consumption - Scope 2,Residential,,375290.6,Liverpool,Western Parkland City,Six Cities,14900
+2016,2,Electricity Consumption - Scope 2,Residential,,23352.7,Liverpool Plains,New England North West,Regional,14920
+2016,2,Electricity Consumption - Scope 2,Residential,,9368.1,Lockhart,Riverina Murray,Regional,14950
+2016,2,Electricity Consumption - Scope 2,Residential,,168316.1,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2016,2,Electricity Consumption - Scope 2,Residential,,207068.7,Mid-Coast,Upper Hunter,Regional,15240
+2016,2,Electricity Consumption - Scope 2,Residential,,61771.5,Mid-Western Regional,Central West and Orana,Regional,15270
+2016,2,Electricity Consumption - Scope 2,Residential,,46395.9,Moree Plains,New England North West,Regional,15300
+2016,2,Electricity Consumption - Scope 2,Residential,,78752.2,Mosman,Eastern Harbour City,Six Cities,15350
+2016,2,Electricity Consumption - Scope 2,Residential,,37993.5,Murray River,Riverina Murray,Regional,15520
+2016,2,Electricity Consumption - Scope 2,Residential,,14404.4,Murrumbidgee,Riverina Murray,Regional,15560
+2016,2,Electricity Consumption - Scope 2,Residential,,46320.4,Muswellbrook,Upper Hunter,Regional,15650
+2016,2,Electricity Consumption - Scope 2,Residential,,37581.6,Nambucca,North Coast,Regional,15700
+2016,2,Electricity Consumption - Scope 2,Residential,,42682.3,Narrabri,New England North West,Regional,15750
+2016,2,Electricity Consumption - Scope 2,Residential,,16781,Narrandera,Riverina Murray,Regional,15800
+2016,2,Electricity Consumption - Scope 2,Residential,,21352.9,Narromine,Central West and Orana,Regional,15850
+2016,2,Electricity Consumption - Scope 2,Residential,,300401.8,Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2016,2,Electricity Consumption - Scope 2,Residential,,141022.6,North Sydney,Eastern Harbour City,Six Cities,15950
+2016,2,Electricity Consumption - Scope 2,Residential,,523510.1,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2016,2,Electricity Consumption - Scope 2,Residential,,13828.2,Oberon,Central West and Orana,Regional,16100
+2016,2,Electricity Consumption - Scope 2,Residential,,91232.8,Orange,Central West and Orana,Regional,16150
+2016,2,Electricity Consumption - Scope 2,Residential,,38388.5,Parkes,Central West and Orana,Regional,16200
+2016,2,Electricity Consumption - Scope 2,Residential,,398106.5,Parramatta,Central River City,Six Cities,16260
+2016,2,Electricity Consumption - Scope 2,Residential,,460945.5,Penrith,Western Parkland City,Six Cities,16350
+2016,2,Electricity Consumption - Scope 2,Residential,,162181.7,Port Macquarie-Hastings,North Coast,Regional,16380
+2016,2,Electricity Consumption - Scope 2,Residential,,173887.7,Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2016,2,Electricity Consumption - Scope 2,Residential,,124635.2,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2016,2,Electricity Consumption - Scope 2,Residential,,244296.3,Randwick,Eastern Harbour City,Six Cities,16550
+2016,2,Electricity Consumption - Scope 2,Residential,,44723.9,Richmond Valley,North Coast,Regional,16610
+2016,2,Electricity Consumption - Scope 2,Residential,,213268.8,Ryde,Eastern Harbour City,Six Cities,16700
+2016,2,Electricity Consumption - Scope 2,Residential,,120717.4,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2016,2,Electricity Consumption - Scope 2,Residential,,245173.2,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2016,2,Electricity Consumption - Scope 2,Residential,,67169.5,Singleton,Upper Hunter,Regional,17000
+2016,2,Electricity Consumption - Scope 2,Residential,,64668.2,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2016,2,Electricity Consumption - Scope 2,Residential,,38510.2,Snowy Valleys,Riverina Murray,Regional,17080
+2016,2,Electricity Consumption - Scope 2,Residential,,66996.4,Strathfield,Eastern Harbour City,Six Cities,17100
+2016,2,Electricity Consumption - Scope 2,Residential,,524878.3,Sutherland Shire,Central River City,Six Cities,17150
+2016,2,Electricity Consumption - Scope 2,Residential,,339195.5,Sydney,Eastern Harbour City,Six Cities,17200
+2016,2,Electricity Consumption - Scope 2,Residential,,155172.4,Tamworth Regional,New England North West,Regional,17310
+2016,2,Electricity Consumption - Scope 2,Residential,,16381.1,Temora,Riverina Murray,Regional,17350
+2016,2,Electricity Consumption - Scope 2,Residential,,11788.8,Tenterfield,New England North West,Regional,17400
+2016,2,Electricity Consumption - Scope 2,Residential,,366883.4,The Hills Shire,Central River City,Six Cities,17420
+2016,2,Electricity Consumption - Scope 2,Residential,,168938.4,Tweed,North Coast,Regional,17550
+2016,2,Electricity Consumption - Scope 2,Residential,,3513.2,Unincorporated NSW,Far West,Regional,19399
+2016,2,Electricity Consumption - Scope 2,Residential,,41279.8,Upper Hunter Shire,Upper Hunter,Regional,17620
+2016,2,Electricity Consumption - Scope 2,Residential,,20559.4,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2016,2,Electricity Consumption - Scope 2,Residential,,13836.2,Uralla,New England North West,Regional,17650
+2016,2,Electricity Consumption - Scope 2,Residential,,131303.8,Wagga Wagga,Riverina Murray,Regional,17750
+2016,2,Electricity Consumption - Scope 2,Residential,,8425.9,Walcha,New England North West,Regional,17850
+2016,2,Electricity Consumption - Scope 2,Residential,,18764.9,Walgett,Far West,Regional,17900
+2016,2,Electricity Consumption - Scope 2,Residential,,11482.3,Warren,Central West and Orana,Regional,17950
+2016,2,Electricity Consumption - Scope 2,Residential,,25915.2,Warrumbungle Shire,Central West and Orana,Regional,18020
+2016,2,Electricity Consumption - Scope 2,Residential,,137839.9,Waverley,Eastern Harbour City,Six Cities,18050
+2016,2,Electricity Consumption - Scope 2,Residential,,10422.5,Weddin,Central West and Orana,Regional,18100
+2016,2,Electricity Consumption - Scope 2,Residential,,25063.4,Wentworth,Far West,Regional,18200
+2016,2,Electricity Consumption - Scope 2,Residential,,142560.8,Willoughby,Eastern Harbour City,Six Cities,18250
+2016,2,Electricity Consumption - Scope 2,Residential,,119267.4,Wingecarribee,South East and Tablelands,Regional,18350
+2016,2,Electricity Consumption - Scope 2,Residential,,117908.7,Wollondilly,Western Parkland City,Six Cities,18400
+2016,2,Electricity Consumption - Scope 2,Residential,,377576,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2016,2,Electricity Consumption - Scope 2,Residential,,164550.3,Woollahra,Eastern Harbour City,Six Cities,18500
+2016,2,Electricity Consumption - Scope 2,Residential,,43970.1,Yass Valley,South East and Tablelands,Regional,18710
+2019,2,Electricity Consumption - Scope 2,Business,,164629.1,Albury,Riverina Murray,Regional,10050
+2019,2,Electricity Consumption - Scope 2,Business,,62701,Armidale Regional,New England North West,Regional,10130
+2019,2,Electricity Consumption - Scope 2,Business,,69200.9,Ballina,North Coast,Regional,10250
+2019,2,Electricity Consumption - Scope 2,Business,,14738.9,Balranald,Far West,Regional,10300
+2019,2,Electricity Consumption - Scope 2,Business,,129972.5,Bathurst Regional,Central West and Orana,Regional,10470
+2019,2,Electricity Consumption - Scope 2,Business,,841451.4,Bayside,Eastern Harbour City,Six Cities,10500
+2019,2,Electricity Consumption - Scope 2,Business,,77405.5,Bega Valley,South East and Tablelands,Regional,10550
+2019,2,Electricity Consumption - Scope 2,Business,,19301.5,Bellingen,North Coast,Regional,10600
+2019,2,Electricity Consumption - Scope 2,Business,,22780.6,Berrigan,Riverina Murray,Regional,10650
+2019,2,Electricity Consumption - Scope 2,Business,,1325268.4,Blacktown,Central River City,Six Cities,10750
+2019,2,Electricity Consumption - Scope 2,Business,,207026.8,Bland,Riverina Murray,Regional,10800
+2019,2,Electricity Consumption - Scope 2,Business,,895085.5,Blayney,Central West and Orana,Regional,10850
+2019,2,Electricity Consumption - Scope 2,Business,,108905.2,Blue Mountains,Western Parkland City,Six Cities,10900
+2019,2,Electricity Consumption - Scope 2,Business,,77369.8,Bogan,Central West and Orana,Regional,10950
+2019,2,Electricity Consumption - Scope 2,Business,,9651,Bourke,Far West,Regional,11150
+2019,2,Electricity Consumption - Scope 2,Business,,5344.8,Brewarrina,Far West,Regional,11200
+2019,2,Electricity Consumption - Scope 2,Business,,211587.4,Broken Hill,Far West,Regional,11250
+2019,2,Electricity Consumption - Scope 2,Business,,117800.4,Burwood,Eastern Harbour City,Six Cities,11300
+2019,2,Electricity Consumption - Scope 2,Business,,60649.6,Byron,North Coast,Regional,11350
+2019,2,Electricity Consumption - Scope 2,Business,,61800.2,Cabonne,Central West and Orana,Regional,11400
+2019,2,Electricity Consumption - Scope 2,Business,,184796.8,Camden,Western Parkland City,Six Cities,11450
+2019,2,Electricity Consumption - Scope 2,Business,,491471.4,Campbelltown,Western Parkland City,Six Cities,11500
+2019,2,Electricity Consumption - Scope 2,Business,,174158.6,Canada Bay,Eastern Harbour City,Six Cities,11520
+2019,2,Electricity Consumption - Scope 2,Business,,762593,Canterbury-Bankstown,Central River City,Six Cities,11570
+2019,2,Electricity Consumption - Scope 2,Business,,51260.4,Carrathool,Riverina Murray,Regional,11600
+2019,2,Electricity Consumption - Scope 2,Business,,792376.4,Central Coast,Central Coast City,Six Cities,11650
+2019,2,Electricity Consumption - Scope 2,Business,,6145.6,Central Darling,Far West,Regional,11700
+2019,2,Electricity Consumption - Scope 2,Business,,150069.3,Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2019,2,Electricity Consumption - Scope 2,Business,,84870.6,Clarence Valley,North Coast,Regional,11730
+2019,2,Electricity Consumption - Scope 2,Business,,204927,Cobar,Far West,Regional,11750
+2019,2,Electricity Consumption - Scope 2,Business,,138201.7,Coffs Harbour,North Coast,Regional,11800
+2019,2,Electricity Consumption - Scope 2,Business,,3951.6,Coolamon,Riverina Murray,Regional,12000
+2019,2,Electricity Consumption - Scope 2,Business,,6801.7,Coonamble,Central West and Orana,Regional,12150
+2019,2,Electricity Consumption - Scope 2,Business,,25359.9,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2019,2,Electricity Consumption - Scope 2,Business,,34133,Cowra,Central West and Orana,Regional,12350
+2019,2,Electricity Consumption - Scope 2,Business,,802069.2,Cumberland,Central River City,Six Cities,12380
+2019,2,Electricity Consumption - Scope 2,Business,,143056.9,Dubbo Regional,Central West and Orana,Regional,12390
+2019,2,Electricity Consumption - Scope 2,Business,,10711.6,Dungog,Upper Hunter,Regional,12700
+2019,2,Electricity Consumption - Scope 2,Business,,36459.3,Edward River,Riverina Murray,Regional,12730
+2019,2,Electricity Consumption - Scope 2,Business,,205600.9,Eurobodalla,South East and Tablelands,Regional,12750
+2019,2,Electricity Consumption - Scope 2,Business,,603860.1,Fairfield,Western Parkland City,Six Cities,12850
+2019,2,Electricity Consumption - Scope 2,Business,,75293.5,Federation,Riverina Murray,Regional,12870
+2019,2,Electricity Consumption - Scope 2,Business,,35660.7,Forbes,Central West and Orana,Regional,12900
+2019,2,Electricity Consumption - Scope 2,Business,,223653.4,Georges River,Central River City,Six Cities,12930
+2019,2,Electricity Consumption - Scope 2,Business,,6421.9,Gilgandra,Central West and Orana,Regional,12950
+2019,2,Electricity Consumption - Scope 2,Business,,14532.5,Glen Innes Severn,New England North West,Regional,13010
+2019,2,Electricity Consumption - Scope 2,Business,,113434,Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2019,2,Electricity Consumption - Scope 2,Business,,18629.7,Greater Hume Shire,Riverina Murray,Regional,13340
+2019,2,Electricity Consumption - Scope 2,Business,,184458.4,Griffith,Riverina Murray,Regional,13450
+2019,2,Electricity Consumption - Scope 2,Business,,37971.1,Gunnedah,New England North West,Regional,13550
+2019,2,Electricity Consumption - Scope 2,Business,,10985.5,Gwydir,New England North West,Regional,13660
+2019,2,Electricity Consumption - Scope 2,Business,,188990.1,Hawkesbury,Western Parkland City,Six Cities,13800
+2019,2,Electricity Consumption - Scope 2,Business,,13014,Hay,Riverina Murray,Regional,13850
+2019,2,Electricity Consumption - Scope 2,Business,,51301.9,Hilltops,South East and Tablelands,Regional,13910
+2019,2,Electricity Consumption - Scope 2,Business,,425573.9,Hornsby,Eastern Harbour City,Six Cities,14000
+2019,2,Electricity Consumption - Scope 2,Business,,21398.2,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2019,2,Electricity Consumption - Scope 2,Business,,350834.2,Inner West,Eastern Harbour City,Six Cities,14170
+2019,2,Electricity Consumption - Scope 2,Business,,40268.7,Inverell,New England North West,Regional,14200
+2019,2,Electricity Consumption - Scope 2,Business,,14384.5,Junee,Riverina Murray,Regional,14300
+2019,2,Electricity Consumption - Scope 2,Business,,55873.6,Kempsey,North Coast,Regional,14350
+2019,2,Electricity Consumption - Scope 2,Business,,26924.4,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2019,2,Electricity Consumption - Scope 2,Business,,144869.7,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2019,2,Electricity Consumption - Scope 2,Business,,13293.7,Kyogle,North Coast,Regional,14550
+2019,2,Electricity Consumption - Scope 2,Business,,14889.6,Lachlan,Central West and Orana,Regional,14600
+2019,2,Electricity Consumption - Scope 2,Business,,417078.5,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2019,2,Electricity Consumption - Scope 2,Business,,86128.9,Lane Cove,Eastern Harbour City,Six Cities,14700
+2019,2,Electricity Consumption - Scope 2,Business,,83329.4,Leeton,Riverina Murray,Regional,14750
+2019,2,Electricity Consumption - Scope 2,Business,,96586.9,Lismore,North Coast,Regional,14850
+2019,2,Electricity Consumption - Scope 2,Business,,222036.5,Lithgow,Central West and Orana,Regional,14870
+2019,2,Electricity Consumption - Scope 2,Business,,529169.4,Liverpool,Western Parkland City,Six Cities,14900
+2019,2,Electricity Consumption - Scope 2,Business,,16457.3,Liverpool Plains,New England North West,Regional,14920
+2019,2,Electricity Consumption - Scope 2,Business,,3031.2,Lockhart,Riverina Murray,Regional,14950
+2019,2,Electricity Consumption - Scope 2,Business,,176201.4,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2019,2,Electricity Consumption - Scope 2,Business,,159937.5,Mid-Coast,Upper Hunter,Regional,15240
+2019,2,Electricity Consumption - Scope 2,Business,,290740.3,Mid-Western Regional,Central West and Orana,Regional,15270
+2019,2,Electricity Consumption - Scope 2,Business,,51863.2,Moree Plains,New England North West,Regional,15300
+2019,2,Electricity Consumption - Scope 2,Business,,35458.2,Mosman,Eastern Harbour City,Six Cities,15350
+2019,2,Electricity Consumption - Scope 2,Business,,43676.9,Murray River,Riverina Murray,Regional,15520
+2019,2,Electricity Consumption - Scope 2,Business,,45650.6,Murrumbidgee,Riverina Murray,Regional,15560
+2019,2,Electricity Consumption - Scope 2,Business,,405683.8,Muswellbrook,Upper Hunter,Regional,15650
+2019,2,Electricity Consumption - Scope 2,Business,,25739.7,Nambucca,North Coast,Regional,15700
+2019,2,Electricity Consumption - Scope 2,Business,,138460.6,Narrabri,New England North West,Regional,15750
+2019,2,Electricity Consumption - Scope 2,Business,,23958.8,Narrandera,Riverina Murray,Regional,15800
+2019,2,Electricity Consumption - Scope 2,Business,,51646.4,Narromine,Central West and Orana,Regional,15850
+2019,2,Electricity Consumption - Scope 2,Business,,910932.9,Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2019,2,Electricity Consumption - Scope 2,Business,,280357.2,North Sydney,Eastern Harbour City,Six Cities,15950
+2019,2,Electricity Consumption - Scope 2,Business,,532382.9,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2019,2,Electricity Consumption - Scope 2,Business,,119645.8,Oberon,Central West and Orana,Regional,16100
+2019,2,Electricity Consumption - Scope 2,Business,,93013.9,Orange,Central West and Orana,Regional,16150
+2019,2,Electricity Consumption - Scope 2,Business,,234724.8,Parkes,Central West and Orana,Regional,16200
+2019,2,Electricity Consumption - Scope 2,Business,,1246728.2,Parramatta,Central River City,Six Cities,16260
+2019,2,Electricity Consumption - Scope 2,Business,,568898.1,Penrith,Western Parkland City,Six Cities,16350
+2019,2,Electricity Consumption - Scope 2,Business,,142612.9,Port Macquarie-Hastings,North Coast,Regional,16380
+2019,2,Electricity Consumption - Scope 2,Business,,6796031.8,Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2019,2,Electricity Consumption - Scope 2,Business,,75445.7,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2019,2,Electricity Consumption - Scope 2,Business,,491939.6,Randwick,Eastern Harbour City,Six Cities,16550
+2019,2,Electricity Consumption - Scope 2,Business,,60444.2,Richmond Valley,North Coast,Regional,16610
+2019,2,Electricity Consumption - Scope 2,Business,,601628.6,Ryde,Eastern Harbour City,Six Cities,16700
+2019,2,Electricity Consumption - Scope 2,Business,,102589.7,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2019,2,Electricity Consumption - Scope 2,Business,,433622.1,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2019,2,Electricity Consumption - Scope 2,Business,,680874.4,Singleton,Upper Hunter,Regional,17000
+2019,2,Electricity Consumption - Scope 2,Business,,350034.2,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2019,2,Electricity Consumption - Scope 2,Business,,78749.7,Snowy Valleys,Riverina Murray,Regional,17080
+2019,2,Electricity Consumption - Scope 2,Business,,132667.9,Strathfield,Eastern Harbour City,Six Cities,17100
+2019,2,Electricity Consumption - Scope 2,Business,,381282.3,Sutherland Shire,Central River City,Six Cities,17150
+2019,2,Electricity Consumption - Scope 2,Business,,2778050.6,Sydney,Eastern Harbour City,Six Cities,17200
+2019,2,Electricity Consumption - Scope 2,Business,,190320,Tamworth Regional,New England North West,Regional,17310
+2019,2,Electricity Consumption - Scope 2,Business,,9466.6,Temora,Riverina Murray,Regional,17350
+2019,2,Electricity Consumption - Scope 2,Business,,7089.4,Tenterfield,New England North West,Regional,17400
+2019,2,Electricity Consumption - Scope 2,Business,,337501.1,The Hills Shire,Central River City,Six Cities,17420
+2019,2,Electricity Consumption - Scope 2,Business,,168742.3,Tweed,North Coast,Regional,17550
+2019,2,Electricity Consumption - Scope 2,Business,,9828.9,Unincorporated NSW,Far West,Regional,19399
+2019,2,Electricity Consumption - Scope 2,Business,,44345.1,Upper Hunter Shire,Upper Hunter,Regional,17620
+2019,2,Electricity Consumption - Scope 2,Business,,6187.8,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2019,2,Electricity Consumption - Scope 2,Business,,4337.4,Uralla,New England North West,Regional,17650
+2019,2,Electricity Consumption - Scope 2,Business,,213030.2,Wagga Wagga,Riverina Murray,Regional,17750
+2019,2,Electricity Consumption - Scope 2,Business,,2945.9,Walcha,New England North West,Regional,17850
+2019,2,Electricity Consumption - Scope 2,Business,,14025.9,Walgett,Far West,Regional,17900
+2019,2,Electricity Consumption - Scope 2,Business,,13476.8,Warren,Central West and Orana,Regional,17950
+2019,2,Electricity Consumption - Scope 2,Business,,17079.9,Warrumbungle Shire,Central West and Orana,Regional,18020
+2019,2,Electricity Consumption - Scope 2,Business,,141603.7,Waverley,Eastern Harbour City,Six Cities,18050
+2019,2,Electricity Consumption - Scope 2,Business,,3361.1,Weddin,Central West and Orana,Regional,18100
+2019,2,Electricity Consumption - Scope 2,Business,,84962.7,Wentworth,Far West,Regional,18200
+2019,2,Electricity Consumption - Scope 2,Business,,399145.6,Willoughby,Eastern Harbour City,Six Cities,18250
+2019,2,Electricity Consumption - Scope 2,Business,,224111,Wingecarribee,South East and Tablelands,Regional,18350
+2019,2,Electricity Consumption - Scope 2,Business,,251313.1,Wollondilly,Western Parkland City,Six Cities,18400
+2019,2,Electricity Consumption - Scope 2,Business,,1407526.1,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2019,2,Electricity Consumption - Scope 2,Business,,93736.7,Woollahra,Eastern Harbour City,Six Cities,18500
+2019,2,Electricity Consumption - Scope 2,Business,,17532.7,Yass Valley,South East and Tablelands,Regional,18710
+2018,2,Electricity Consumption - Scope 2,Business,,170569.5,Albury,Riverina Murray,Regional,10050
+2018,2,Electricity Consumption - Scope 2,Business,,63642.5,Armidale Regional,New England North West,Regional,10130
+2018,2,Electricity Consumption - Scope 2,Business,,69958,Ballina,North Coast,Regional,10250
+2018,2,Electricity Consumption - Scope 2,Business,,13916.2,Balranald,Far West,Regional,10300
+2018,2,Electricity Consumption - Scope 2,Business,,137175.9,Bathurst Regional,Central West and Orana,Regional,10470
+2018,2,Electricity Consumption - Scope 2,Business,,843087.6,Bayside,Eastern Harbour City,Six Cities,10500
+2018,2,Electricity Consumption - Scope 2,Business,,81689.5,Bega Valley,South East and Tablelands,Regional,10550
+2018,2,Electricity Consumption - Scope 2,Business,,20051.4,Bellingen,North Coast,Regional,10600
+2018,2,Electricity Consumption - Scope 2,Business,,26233,Berrigan,Riverina Murray,Regional,10650
+2018,2,Electricity Consumption - Scope 2,Business,,1327274.5,Blacktown,Central River City,Six Cities,10750
+2018,2,Electricity Consumption - Scope 2,Business,,216427.2,Bland,Riverina Murray,Regional,10800
+2018,2,Electricity Consumption - Scope 2,Business,,741799.5,Blayney,Central West and Orana,Regional,10850
+2018,2,Electricity Consumption - Scope 2,Business,,111262.9,Blue Mountains,Western Parkland City,Six Cities,10900
+2018,2,Electricity Consumption - Scope 2,Business,,77901,Bogan,Central West and Orana,Regional,10950
+2018,2,Electricity Consumption - Scope 2,Business,,12968.4,Bourke,Far West,Regional,11150
+2018,2,Electricity Consumption - Scope 2,Business,,5476.1,Brewarrina,Far West,Regional,11200
+2018,2,Electricity Consumption - Scope 2,Business,,211338.6,Broken Hill,Far West,Regional,11250
+2018,2,Electricity Consumption - Scope 2,Business,,130024.7,Burwood,Eastern Harbour City,Six Cities,11300
+2018,2,Electricity Consumption - Scope 2,Business,,62388.9,Byron,North Coast,Regional,11350
+2018,2,Electricity Consumption - Scope 2,Business,,71108.5,Cabonne,Central West and Orana,Regional,11400
+2018,2,Electricity Consumption - Scope 2,Business,,196621.1,Camden,Western Parkland City,Six Cities,11450
+2018,2,Electricity Consumption - Scope 2,Business,,562482.3,Campbelltown,Western Parkland City,Six Cities,11500
+2018,2,Electricity Consumption - Scope 2,Business,,184295.6,Canada Bay,Eastern Harbour City,Six Cities,11520
+2018,2,Electricity Consumption - Scope 2,Business,,785626.5,Canterbury-Bankstown,Central River City,Six Cities,11570
+2018,2,Electricity Consumption - Scope 2,Business,,48544.9,Carrathool,Riverina Murray,Regional,11600
+2018,2,Electricity Consumption - Scope 2,Business,,839639.8,Central Coast,Central Coast City,Six Cities,11650
+2018,2,Electricity Consumption - Scope 2,Business,,8004.2,Central Darling,Far West,Regional,11700
+2018,2,Electricity Consumption - Scope 2,Business,,162284.7,Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2018,2,Electricity Consumption - Scope 2,Business,,87777.9,Clarence Valley,North Coast,Regional,11730
+2018,2,Electricity Consumption - Scope 2,Business,,204262.5,Cobar,Far West,Regional,11750
+2018,2,Electricity Consumption - Scope 2,Business,,144683,Coffs Harbour,North Coast,Regional,11800
+2018,2,Electricity Consumption - Scope 2,Business,,4089.4,Coolamon,Riverina Murray,Regional,12000
+2018,2,Electricity Consumption - Scope 2,Business,,7183,Coonamble,Central West and Orana,Regional,12150
+2018,2,Electricity Consumption - Scope 2,Business,,25511.1,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2018,2,Electricity Consumption - Scope 2,Business,,34819.6,Cowra,Central West and Orana,Regional,12350
+2018,2,Electricity Consumption - Scope 2,Business,,822860.9,Cumberland,Central River City,Six Cities,12380
+2018,2,Electricity Consumption - Scope 2,Business,,148661,Dubbo Regional,Central West and Orana,Regional,12390
+2018,2,Electricity Consumption - Scope 2,Business,,11088.4,Dungog,Upper Hunter,Regional,12700
+2018,2,Electricity Consumption - Scope 2,Business,,44391.7,Edward River,Riverina Murray,Regional,12730
+2018,2,Electricity Consumption - Scope 2,Business,,211587.6,Eurobodalla,South East and Tablelands,Regional,12750
+2018,2,Electricity Consumption - Scope 2,Business,,626528.5,Fairfield,Western Parkland City,Six Cities,12850
+2018,2,Electricity Consumption - Scope 2,Business,,78718.4,Federation,Riverina Murray,Regional,12870
+2018,2,Electricity Consumption - Scope 2,Business,,28477,Forbes,Central West and Orana,Regional,12900
+2018,2,Electricity Consumption - Scope 2,Business,,233727,Georges River,Central River City,Six Cities,12930
+2018,2,Electricity Consumption - Scope 2,Business,,6619.5,Gilgandra,Central West and Orana,Regional,12950
+2018,2,Electricity Consumption - Scope 2,Business,,15432.4,Glen Innes Severn,New England North West,Regional,13010
+2018,2,Electricity Consumption - Scope 2,Business,,108201.6,Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2018,2,Electricity Consumption - Scope 2,Business,,18840.8,Greater Hume Shire,Riverina Murray,Regional,13340
+2018,2,Electricity Consumption - Scope 2,Business,,187972.6,Griffith,Riverina Murray,Regional,13450
+2018,2,Electricity Consumption - Scope 2,Business,,46499.8,Gunnedah,New England North West,Regional,13550
+2018,2,Electricity Consumption - Scope 2,Business,,11333.9,Gwydir,New England North West,Regional,13660
+2018,2,Electricity Consumption - Scope 2,Business,,195780.2,Hawkesbury,Western Parkland City,Six Cities,13800
+2018,2,Electricity Consumption - Scope 2,Business,,16035.1,Hay,Riverina Murray,Regional,13850
+2018,2,Electricity Consumption - Scope 2,Business,,52411,Hilltops,South East and Tablelands,Regional,13910
+2018,2,Electricity Consumption - Scope 2,Business,,439965.9,Hornsby,Eastern Harbour City,Six Cities,14000
+2018,2,Electricity Consumption - Scope 2,Business,,22726.1,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2018,2,Electricity Consumption - Scope 2,Business,,392223.5,Inner West,Eastern Harbour City,Six Cities,14170
+2018,2,Electricity Consumption - Scope 2,Business,,40646.1,Inverell,New England North West,Regional,14200
+2018,2,Electricity Consumption - Scope 2,Business,,13533.4,Junee,Riverina Murray,Regional,14300
+2018,2,Electricity Consumption - Scope 2,Business,,57699.9,Kempsey,North Coast,Regional,14350
+2018,2,Electricity Consumption - Scope 2,Business,,27187.7,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2018,2,Electricity Consumption - Scope 2,Business,,148459.8,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2018,2,Electricity Consumption - Scope 2,Business,,14205.1,Kyogle,North Coast,Regional,14550
+2018,2,Electricity Consumption - Scope 2,Business,,14668,Lachlan,Central West and Orana,Regional,14600
+2018,2,Electricity Consumption - Scope 2,Business,,435073.5,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2018,2,Electricity Consumption - Scope 2,Business,,89831.9,Lane Cove,Eastern Harbour City,Six Cities,14700
+2018,2,Electricity Consumption - Scope 2,Business,,86288.9,Leeton,Riverina Murray,Regional,14750
+2018,2,Electricity Consumption - Scope 2,Business,,99185.1,Lismore,North Coast,Regional,14850
+2018,2,Electricity Consumption - Scope 2,Business,,220957.5,Lithgow,Central West and Orana,Regional,14870
+2018,2,Electricity Consumption - Scope 2,Business,,522979.8,Liverpool,Western Parkland City,Six Cities,14900
+2018,2,Electricity Consumption - Scope 2,Business,,17028.3,Liverpool Plains,New England North West,Regional,14920
+2018,2,Electricity Consumption - Scope 2,Business,,3129.5,Lockhart,Riverina Murray,Regional,14950
+2018,2,Electricity Consumption - Scope 2,Business,,176476.6,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2018,2,Electricity Consumption - Scope 2,Business,,165733.5,Mid-Coast,Upper Hunter,Regional,15240
+2018,2,Electricity Consumption - Scope 2,Business,,286918.5,Mid-Western Regional,Central West and Orana,Regional,15270
+2018,2,Electricity Consumption - Scope 2,Business,,70443.6,Moree Plains,New England North West,Regional,15300
+2018,2,Electricity Consumption - Scope 2,Business,,37897.5,Mosman,Eastern Harbour City,Six Cities,15350
+2018,2,Electricity Consumption - Scope 2,Business,,50198.5,Murray River,Riverina Murray,Regional,15520
+2018,2,Electricity Consumption - Scope 2,Business,,44776.3,Murrumbidgee,Riverina Murray,Regional,15560
+2018,2,Electricity Consumption - Scope 2,Business,,377876.3,Muswellbrook,Upper Hunter,Regional,15650
+2018,2,Electricity Consumption - Scope 2,Business,,26960.3,Nambucca,North Coast,Regional,15700
+2018,2,Electricity Consumption - Scope 2,Business,,150667.6,Narrabri,New England North West,Regional,15750
+2018,2,Electricity Consumption - Scope 2,Business,,25653.1,Narrandera,Riverina Murray,Regional,15800
+2018,2,Electricity Consumption - Scope 2,Business,,54996,Narromine,Central West and Orana,Regional,15850
+2018,2,Electricity Consumption - Scope 2,Business,,961146.8,Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2018,2,Electricity Consumption - Scope 2,Business,,296194.2,North Sydney,Eastern Harbour City,Six Cities,15950
+2018,2,Electricity Consumption - Scope 2,Business,,540469.8,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2018,2,Electricity Consumption - Scope 2,Business,,112846.5,Oberon,Central West and Orana,Regional,16100
+2018,2,Electricity Consumption - Scope 2,Business,,97085.9,Orange,Central West and Orana,Regional,16150
+2018,2,Electricity Consumption - Scope 2,Business,,240029.7,Parkes,Central West and Orana,Regional,16200
+2018,2,Electricity Consumption - Scope 2,Business,,1253820.3,Parramatta,Central River City,Six Cities,16260
+2018,2,Electricity Consumption - Scope 2,Business,,576244.1,Penrith,Western Parkland City,Six Cities,16350
+2018,2,Electricity Consumption - Scope 2,Business,,153196,Port Macquarie-Hastings,North Coast,Regional,16380
+2018,2,Electricity Consumption - Scope 2,Business,,6997680.3,Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2018,2,Electricity Consumption - Scope 2,Business,,75656.1,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2018,2,Electricity Consumption - Scope 2,Business,,499235.2,Randwick,Eastern Harbour City,Six Cities,16550
+2018,2,Electricity Consumption - Scope 2,Business,,58270.6,Richmond Valley,North Coast,Regional,16610
+2018,2,Electricity Consumption - Scope 2,Business,,618556.8,Ryde,Eastern Harbour City,Six Cities,16700
+2018,2,Electricity Consumption - Scope 2,Business,,104698,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2018,2,Electricity Consumption - Scope 2,Business,,435215.1,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2018,2,Electricity Consumption - Scope 2,Business,,701687.4,Singleton,Upper Hunter,Regional,17000
+2018,2,Electricity Consumption - Scope 2,Business,,292110.7,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2018,2,Electricity Consumption - Scope 2,Business,,87213,Snowy Valleys,Riverina Murray,Regional,17080
+2018,2,Electricity Consumption - Scope 2,Business,,137318.5,Strathfield,Eastern Harbour City,Six Cities,17100
+2018,2,Electricity Consumption - Scope 2,Business,,362779.6,Sutherland Shire,Central River City,Six Cities,17150
+2018,2,Electricity Consumption - Scope 2,Business,,2803192.2,Sydney,Eastern Harbour City,Six Cities,17200
+2018,2,Electricity Consumption - Scope 2,Business,,199809,Tamworth Regional,New England North West,Regional,17310
+2018,2,Electricity Consumption - Scope 2,Business,,9912.5,Temora,Riverina Murray,Regional,17350
+2018,2,Electricity Consumption - Scope 2,Business,,7455,Tenterfield,New England North West,Regional,17400
+2018,2,Electricity Consumption - Scope 2,Business,,340843.9,The Hills Shire,Central River City,Six Cities,17420
+2018,2,Electricity Consumption - Scope 2,Business,,175755.8,Tweed,North Coast,Regional,17550
+2018,2,Electricity Consumption - Scope 2,Business,,10408.4,Unincorporated NSW,Far West,Regional,19399
+2018,2,Electricity Consumption - Scope 2,Business,,49931.5,Upper Hunter Shire,Upper Hunter,Regional,17620
+2018,2,Electricity Consumption - Scope 2,Business,,6601.8,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2018,2,Electricity Consumption - Scope 2,Business,,4502.5,Uralla,New England North West,Regional,17650
+2018,2,Electricity Consumption - Scope 2,Business,,210944.2,Wagga Wagga,Riverina Murray,Regional,17750
+2018,2,Electricity Consumption - Scope 2,Business,,3338.2,Walcha,New England North West,Regional,17850
+2018,2,Electricity Consumption - Scope 2,Business,,15690.1,Walgett,Far West,Regional,17900
+2018,2,Electricity Consumption - Scope 2,Business,,15301.5,Warren,Central West and Orana,Regional,17950
+2018,2,Electricity Consumption - Scope 2,Business,,17798.3,Warrumbungle Shire,Central West and Orana,Regional,18020
+2018,2,Electricity Consumption - Scope 2,Business,,150087.6,Waverley,Eastern Harbour City,Six Cities,18050
+2018,2,Electricity Consumption - Scope 2,Business,,3500,Weddin,Central West and Orana,Regional,18100
+2018,2,Electricity Consumption - Scope 2,Business,,92149.2,Wentworth,Far West,Regional,18200
+2018,2,Electricity Consumption - Scope 2,Business,,418247.3,Willoughby,Eastern Harbour City,Six Cities,18250
+2018,2,Electricity Consumption - Scope 2,Business,,233270,Wingecarribee,South East and Tablelands,Regional,18350
+2018,2,Electricity Consumption - Scope 2,Business,,260846.2,Wollondilly,Western Parkland City,Six Cities,18400
+2018,2,Electricity Consumption - Scope 2,Business,,1418619.2,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2018,2,Electricity Consumption - Scope 2,Business,,99184,Woollahra,Eastern Harbour City,Six Cities,18500
+2018,2,Electricity Consumption - Scope 2,Business,,17214.2,Yass Valley,South East and Tablelands,Regional,18710
+2017,2,Electricity Consumption - Scope 2,Business,,173316.3,Albury,Riverina Murray,Regional,10050
+2017,2,Electricity Consumption - Scope 2,Business,,65922.3,Armidale Regional,New England North West,Regional,10130
+2017,2,Electricity Consumption - Scope 2,Business,,71242.7,Ballina,North Coast,Regional,10250
+2017,2,Electricity Consumption - Scope 2,Business,,11453.2,Balranald,Far West,Regional,10300
+2017,2,Electricity Consumption - Scope 2,Business,,141189.9,Bathurst Regional,Central West and Orana,Regional,10470
+2017,2,Electricity Consumption - Scope 2,Business,,811284.8,Bayside,Eastern Harbour City,Six Cities,10500
+2017,2,Electricity Consumption - Scope 2,Business,,81901.5,Bega Valley,South East and Tablelands,Regional,10550
+2017,2,Electricity Consumption - Scope 2,Business,,20862.5,Bellingen,North Coast,Regional,10600
+2017,2,Electricity Consumption - Scope 2,Business,,23696.7,Berrigan,Riverina Murray,Regional,10650
+2017,2,Electricity Consumption - Scope 2,Business,,1260573.7,Blacktown,Central River City,Six Cities,10750
+2017,2,Electricity Consumption - Scope 2,Business,,205386,Bland,Riverina Murray,Regional,10800
+2017,2,Electricity Consumption - Scope 2,Business,,790072.7,Blayney,Central West and Orana,Regional,10850
+2017,2,Electricity Consumption - Scope 2,Business,,115854.3,Blue Mountains,Western Parkland City,Six Cities,10900
+2017,2,Electricity Consumption - Scope 2,Business,,73471.4,Bogan,Central West and Orana,Regional,10950
+2017,2,Electricity Consumption - Scope 2,Business,,14638.2,Bourke,Far West,Regional,11150
+2017,2,Electricity Consumption - Scope 2,Business,,5302.8,Brewarrina,Far West,Regional,11200
+2017,2,Electricity Consumption - Scope 2,Business,,200920.9,Broken Hill,Far West,Regional,11250
+2017,2,Electricity Consumption - Scope 2,Business,,141371.2,Burwood,Eastern Harbour City,Six Cities,11300
+2017,2,Electricity Consumption - Scope 2,Business,,62641.3,Byron,North Coast,Regional,11350
+2017,2,Electricity Consumption - Scope 2,Business,,71628.2,Cabonne,Central West and Orana,Regional,11400
+2017,2,Electricity Consumption - Scope 2,Business,,152118.1,Camden,Western Parkland City,Six Cities,11450
+2017,2,Electricity Consumption - Scope 2,Business,,596602.4,Campbelltown,Western Parkland City,Six Cities,11500
+2017,2,Electricity Consumption - Scope 2,Business,,193092.4,Canada Bay,Eastern Harbour City,Six Cities,11520
+2017,2,Electricity Consumption - Scope 2,Business,,798546.8,Canterbury-Bankstown,Central River City,Six Cities,11570
+2017,2,Electricity Consumption - Scope 2,Business,,37266.7,Carrathool,Riverina Murray,Regional,11600
+2017,2,Electricity Consumption - Scope 2,Business,,832546.1,Central Coast,Central Coast City,Six Cities,11650
+2017,2,Electricity Consumption - Scope 2,Business,,6240,Central Darling,Far West,Regional,11700
+2017,2,Electricity Consumption - Scope 2,Business,,166580.4,Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2017,2,Electricity Consumption - Scope 2,Business,,88775.4,Clarence Valley,North Coast,Regional,11730
+2017,2,Electricity Consumption - Scope 2,Business,,178738.2,Cobar,Far West,Regional,11750
+2017,2,Electricity Consumption - Scope 2,Business,,147825.4,Coffs Harbour,North Coast,Regional,11800
+2017,2,Electricity Consumption - Scope 2,Business,,4095.7,Coolamon,Riverina Murray,Regional,12000
+2017,2,Electricity Consumption - Scope 2,Business,,7316,Coonamble,Central West and Orana,Regional,12150
+2017,2,Electricity Consumption - Scope 2,Business,,28857.3,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2017,2,Electricity Consumption - Scope 2,Business,,32840.5,Cowra,Central West and Orana,Regional,12350
+2017,2,Electricity Consumption - Scope 2,Business,,836150.3,Cumberland,Central River City,Six Cities,12380
+2017,2,Electricity Consumption - Scope 2,Business,,144618.1,Dubbo Regional,Central West and Orana,Regional,12390
+2017,2,Electricity Consumption - Scope 2,Business,,11315.5,Dungog,Upper Hunter,Regional,12700
+2017,2,Electricity Consumption - Scope 2,Business,,36284.8,Edward River,Riverina Murray,Regional,12730
+2017,2,Electricity Consumption - Scope 2,Business,,216299.9,Eurobodalla,South East and Tablelands,Regional,12750
+2017,2,Electricity Consumption - Scope 2,Business,,637149.3,Fairfield,Western Parkland City,Six Cities,12850
+2017,2,Electricity Consumption - Scope 2,Business,,74449.6,Federation,Riverina Murray,Regional,12870
+2017,2,Electricity Consumption - Scope 2,Business,,26043,Forbes,Central West and Orana,Regional,12900
+2017,2,Electricity Consumption - Scope 2,Business,,237578.5,Georges River,Central River City,Six Cities,12930
+2017,2,Electricity Consumption - Scope 2,Business,,6852.5,Gilgandra,Central West and Orana,Regional,12950
+2017,2,Electricity Consumption - Scope 2,Business,,15566.5,Glen Innes Severn,New England North West,Regional,13010
+2017,2,Electricity Consumption - Scope 2,Business,,105148.2,Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2017,2,Electricity Consumption - Scope 2,Business,,18739.9,Greater Hume Shire,Riverina Murray,Regional,13340
+2017,2,Electricity Consumption - Scope 2,Business,,175566.8,Griffith,Riverina Murray,Regional,13450
+2017,2,Electricity Consumption - Scope 2,Business,,44694.2,Gunnedah,New England North West,Regional,13550
+2017,2,Electricity Consumption - Scope 2,Business,,10345.4,Gwydir,New England North West,Regional,13660
+2017,2,Electricity Consumption - Scope 2,Business,,200133,Hawkesbury,Western Parkland City,Six Cities,13800
+2017,2,Electricity Consumption - Scope 2,Business,,16045.6,Hay,Riverina Murray,Regional,13850
+2017,2,Electricity Consumption - Scope 2,Business,,52751.5,Hilltops,South East and Tablelands,Regional,13910
+2017,2,Electricity Consumption - Scope 2,Business,,439834.1,Hornsby,Eastern Harbour City,Six Cities,14000
+2017,2,Electricity Consumption - Scope 2,Business,,23785.4,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2017,2,Electricity Consumption - Scope 2,Business,,375731.1,Inner West,Eastern Harbour City,Six Cities,14170
+2017,2,Electricity Consumption - Scope 2,Business,,39098.9,Inverell,New England North West,Regional,14200
+2017,2,Electricity Consumption - Scope 2,Business,,11434.3,Junee,Riverina Murray,Regional,14300
+2017,2,Electricity Consumption - Scope 2,Business,,58438.9,Kempsey,North Coast,Regional,14350
+2017,2,Electricity Consumption - Scope 2,Business,,27682.6,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2017,2,Electricity Consumption - Scope 2,Business,,151152.6,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2017,2,Electricity Consumption - Scope 2,Business,,14198.1,Kyogle,North Coast,Regional,14550
+2017,2,Electricity Consumption - Scope 2,Business,,15775.1,Lachlan,Central West and Orana,Regional,14600
+2017,2,Electricity Consumption - Scope 2,Business,,453332.2,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2017,2,Electricity Consumption - Scope 2,Business,,94491.8,Lane Cove,Eastern Harbour City,Six Cities,14700
+2017,2,Electricity Consumption - Scope 2,Business,,77052.7,Leeton,Riverina Murray,Regional,14750
+2017,2,Electricity Consumption - Scope 2,Business,,100165.2,Lismore,North Coast,Regional,14850
+2017,2,Electricity Consumption - Scope 2,Business,,211402.3,Lithgow,Central West and Orana,Regional,14870
+2017,2,Electricity Consumption - Scope 2,Business,,519097.3,Liverpool,Western Parkland City,Six Cities,14900
+2017,2,Electricity Consumption - Scope 2,Business,,16333.6,Liverpool Plains,New England North West,Regional,14920
+2017,2,Electricity Consumption - Scope 2,Business,,3081,Lockhart,Riverina Murray,Regional,14950
+2017,2,Electricity Consumption - Scope 2,Business,,172427.3,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2017,2,Electricity Consumption - Scope 2,Business,,170869,Mid-Coast,Upper Hunter,Regional,15240
+2017,2,Electricity Consumption - Scope 2,Business,,268737.2,Mid-Western Regional,Central West and Orana,Regional,15270
+2017,2,Electricity Consumption - Scope 2,Business,,63215.8,Moree Plains,New England North West,Regional,15300
+2017,2,Electricity Consumption - Scope 2,Business,,38408.1,Mosman,Eastern Harbour City,Six Cities,15350
+2017,2,Electricity Consumption - Scope 2,Business,,48462.5,Murray River,Riverina Murray,Regional,15520
+2017,2,Electricity Consumption - Scope 2,Business,,35322.3,Murrumbidgee,Riverina Murray,Regional,15560
+2017,2,Electricity Consumption - Scope 2,Business,,387477.1,Muswellbrook,Upper Hunter,Regional,15650
+2017,2,Electricity Consumption - Scope 2,Business,,26773.1,Nambucca,North Coast,Regional,15700
+2017,2,Electricity Consumption - Scope 2,Business,,138206.3,Narrabri,New England North West,Regional,15750
+2017,2,Electricity Consumption - Scope 2,Business,,25350.3,Narrandera,Riverina Murray,Regional,15800
+2017,2,Electricity Consumption - Scope 2,Business,,49738.5,Narromine,Central West and Orana,Regional,15850
+2017,2,Electricity Consumption - Scope 2,Business,,972083,Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2017,2,Electricity Consumption - Scope 2,Business,,307144.5,North Sydney,Eastern Harbour City,Six Cities,15950
+2017,2,Electricity Consumption - Scope 2,Business,,534317.6,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2017,2,Electricity Consumption - Scope 2,Business,,115137.5,Oberon,Central West and Orana,Regional,16100
+2017,2,Electricity Consumption - Scope 2,Business,,101347.9,Orange,Central West and Orana,Regional,16150
+2017,2,Electricity Consumption - Scope 2,Business,,235182,Parkes,Central West and Orana,Regional,16200
+2017,2,Electricity Consumption - Scope 2,Business,,1245507.5,Parramatta,Central River City,Six Cities,16260
+2017,2,Electricity Consumption - Scope 2,Business,,568739.6,Penrith,Western Parkland City,Six Cities,16350
+2017,2,Electricity Consumption - Scope 2,Business,,148618.4,Port Macquarie-Hastings,North Coast,Regional,16380
+2017,2,Electricity Consumption - Scope 2,Business,,7111962.9,Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2017,2,Electricity Consumption - Scope 2,Business,,75615.5,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2017,2,Electricity Consumption - Scope 2,Business,,507495.3,Randwick,Eastern Harbour City,Six Cities,16550
+2017,2,Electricity Consumption - Scope 2,Business,,59607.4,Richmond Valley,North Coast,Regional,16610
+2017,2,Electricity Consumption - Scope 2,Business,,617650.9,Ryde,Eastern Harbour City,Six Cities,16700
+2017,2,Electricity Consumption - Scope 2,Business,,104558.3,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2017,2,Electricity Consumption - Scope 2,Business,,414359.4,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2017,2,Electricity Consumption - Scope 2,Business,,710123,Singleton,Upper Hunter,Regional,17000
+2017,2,Electricity Consumption - Scope 2,Business,,343640.5,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2017,2,Electricity Consumption - Scope 2,Business,,89704.6,Snowy Valleys,Riverina Murray,Regional,17080
+2017,2,Electricity Consumption - Scope 2,Business,,144030.4,Strathfield,Eastern Harbour City,Six Cities,17100
+2017,2,Electricity Consumption - Scope 2,Business,,374165.4,Sutherland Shire,Central River City,Six Cities,17150
+2017,2,Electricity Consumption - Scope 2,Business,,2909364.4,Sydney,Eastern Harbour City,Six Cities,17200
+2017,2,Electricity Consumption - Scope 2,Business,,204459.6,Tamworth Regional,New England North West,Regional,17310
+2017,2,Electricity Consumption - Scope 2,Business,,10064.4,Temora,Riverina Murray,Regional,17350
+2017,2,Electricity Consumption - Scope 2,Business,,7582.3,Tenterfield,New England North West,Regional,17400
+2017,2,Electricity Consumption - Scope 2,Business,,349914.9,The Hills Shire,Central River City,Six Cities,17420
+2017,2,Electricity Consumption - Scope 2,Business,,174907.1,Tweed,North Coast,Regional,17550
+2017,2,Electricity Consumption - Scope 2,Business,,6289.4,Unincorporated NSW,Far West,Regional,19399
+2017,2,Electricity Consumption - Scope 2,Business,,45482.5,Upper Hunter Shire,Upper Hunter,Regional,17620
+2017,2,Electricity Consumption - Scope 2,Business,,6805.3,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2017,2,Electricity Consumption - Scope 2,Business,,4467.6,Uralla,New England North West,Regional,17650
+2017,2,Electricity Consumption - Scope 2,Business,,205277.8,Wagga Wagga,Riverina Murray,Regional,17750
+2017,2,Electricity Consumption - Scope 2,Business,,3405.6,Walcha,New England North West,Regional,17850
+2017,2,Electricity Consumption - Scope 2,Business,,15347.1,Walgett,Far West,Regional,17900
+2017,2,Electricity Consumption - Scope 2,Business,,10759,Warren,Central West and Orana,Regional,17950
+2017,2,Electricity Consumption - Scope 2,Business,,17725.5,Warrumbungle Shire,Central West and Orana,Regional,18020
+2017,2,Electricity Consumption - Scope 2,Business,,150924.5,Waverley,Eastern Harbour City,Six Cities,18050
+2017,2,Electricity Consumption - Scope 2,Business,,3519.7,Weddin,Central West and Orana,Regional,18100
+2017,2,Electricity Consumption - Scope 2,Business,,85492.8,Wentworth,Far West,Regional,18200
+2017,2,Electricity Consumption - Scope 2,Business,,393664.1,Willoughby,Eastern Harbour City,Six Cities,18250
+2017,2,Electricity Consumption - Scope 2,Business,,224830.1,Wingecarribee,South East and Tablelands,Regional,18350
+2017,2,Electricity Consumption - Scope 2,Business,,270973.8,Wollondilly,Western Parkland City,Six Cities,18400
+2017,2,Electricity Consumption - Scope 2,Business,,1476522.3,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2017,2,Electricity Consumption - Scope 2,Business,,100360.6,Woollahra,Eastern Harbour City,Six Cities,18500
+2017,2,Electricity Consumption - Scope 2,Business,,17506.4,Yass Valley,South East and Tablelands,Regional,18710
+2016,2,Electricity Consumption - Scope 2,Business,,167555.1,Albury,Riverina Murray,Regional,10050
+2016,2,Electricity Consumption - Scope 2,Business,,72710.8,Armidale Regional,New England North West,Regional,10130
+2016,2,Electricity Consumption - Scope 2,Business,,72774.5,Ballina,North Coast,Regional,10250
+2016,2,Electricity Consumption - Scope 2,Business,,11854.2,Balranald,Far West,Regional,10300
+2016,2,Electricity Consumption - Scope 2,Business,,143068.2,Bathurst Regional,Central West and Orana,Regional,10470
+2016,2,Electricity Consumption - Scope 2,Business,,802603.2,Bayside,Eastern Harbour City,Six Cities,10500
+2016,2,Electricity Consumption - Scope 2,Business,,81601,Bega Valley,South East and Tablelands,Regional,10550
+2016,2,Electricity Consumption - Scope 2,Business,,21086.4,Bellingen,North Coast,Regional,10600
+2016,2,Electricity Consumption - Scope 2,Business,,24496,Berrigan,Riverina Murray,Regional,10650
+2016,2,Electricity Consumption - Scope 2,Business,,1297538.1,Blacktown,Central River City,Six Cities,10750
+2016,2,Electricity Consumption - Scope 2,Business,,217980,Bland,Riverina Murray,Regional,10800
+2016,2,Electricity Consumption - Scope 2,Business,,785411.1,Blayney,Central West and Orana,Regional,10850
+2016,2,Electricity Consumption - Scope 2,Business,,116733.3,Blue Mountains,Western Parkland City,Six Cities,10900
+2016,2,Electricity Consumption - Scope 2,Business,,79547.9,Bogan,Central West and Orana,Regional,10950
+2016,2,Electricity Consumption - Scope 2,Business,,11024.2,Bourke,Far West,Regional,11150
+2016,2,Electricity Consumption - Scope 2,Business,,5681,Brewarrina,Far West,Regional,11200
+2016,2,Electricity Consumption - Scope 2,Business,,211721.8,Broken Hill,Far West,Regional,11250
+2016,2,Electricity Consumption - Scope 2,Business,,136405.9,Burwood,Eastern Harbour City,Six Cities,11300
+2016,2,Electricity Consumption - Scope 2,Business,,59395.3,Byron,North Coast,Regional,11350
+2016,2,Electricity Consumption - Scope 2,Business,,73599.5,Cabonne,Central West and Orana,Regional,11400
+2016,2,Electricity Consumption - Scope 2,Business,,137858.5,Camden,Western Parkland City,Six Cities,11450
+2016,2,Electricity Consumption - Scope 2,Business,,631539.7,Campbelltown,Western Parkland City,Six Cities,11500
+2016,2,Electricity Consumption - Scope 2,Business,,201136.6,Canada Bay,Eastern Harbour City,Six Cities,11520
+2016,2,Electricity Consumption - Scope 2,Business,,804156.4,Canterbury-Bankstown,Central River City,Six Cities,11570
+2016,2,Electricity Consumption - Scope 2,Business,,38962.6,Carrathool,Riverina Murray,Regional,11600
+2016,2,Electricity Consumption - Scope 2,Business,,862066.9,Central Coast,Central Coast City,Six Cities,11650
+2016,2,Electricity Consumption - Scope 2,Business,,6865.2,Central Darling,Far West,Regional,11700
+2016,2,Electricity Consumption - Scope 2,Business,,168340,Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2016,2,Electricity Consumption - Scope 2,Business,,90128.5,Clarence Valley,North Coast,Regional,11730
+2016,2,Electricity Consumption - Scope 2,Business,,192709.4,Cobar,Far West,Regional,11750
+2016,2,Electricity Consumption - Scope 2,Business,,150985.9,Coffs Harbour,North Coast,Regional,11800
+2016,2,Electricity Consumption - Scope 2,Business,,4014,Coolamon,Riverina Murray,Regional,12000
+2016,2,Electricity Consumption - Scope 2,Business,,7512.5,Coonamble,Central West and Orana,Regional,12150
+2016,2,Electricity Consumption - Scope 2,Business,,24668,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2016,2,Electricity Consumption - Scope 2,Business,,33619.2,Cowra,Central West and Orana,Regional,12350
+2016,2,Electricity Consumption - Scope 2,Business,,1036648.1,Cumberland,Central River City,Six Cities,12380
+2016,2,Electricity Consumption - Scope 2,Business,,145387.8,Dubbo Regional,Central West and Orana,Regional,12390
+2016,2,Electricity Consumption - Scope 2,Business,,11455.2,Dungog,Upper Hunter,Regional,12700
+2016,2,Electricity Consumption - Scope 2,Business,,39772,Edward River,Riverina Murray,Regional,12730
+2016,2,Electricity Consumption - Scope 2,Business,,222885.1,Eurobodalla,South East and Tablelands,Regional,12750
+2016,2,Electricity Consumption - Scope 2,Business,,644358,Fairfield,Western Parkland City,Six Cities,12850
+2016,2,Electricity Consumption - Scope 2,Business,,70470.5,Federation,Riverina Murray,Regional,12870
+2016,2,Electricity Consumption - Scope 2,Business,,27800.3,Forbes,Central West and Orana,Regional,12900
+2016,2,Electricity Consumption - Scope 2,Business,,242827.6,Georges River,Central River City,Six Cities,12930
+2016,2,Electricity Consumption - Scope 2,Business,,6932.4,Gilgandra,Central West and Orana,Regional,12950
+2016,2,Electricity Consumption - Scope 2,Business,,15653.8,Glen Innes Severn,New England North West,Regional,13010
+2016,2,Electricity Consumption - Scope 2,Business,,97077.9,Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2016,2,Electricity Consumption - Scope 2,Business,,18355.2,Greater Hume Shire,Riverina Murray,Regional,13340
+2016,2,Electricity Consumption - Scope 2,Business,,173687.5,Griffith,Riverina Murray,Regional,13450
+2016,2,Electricity Consumption - Scope 2,Business,,45466.5,Gunnedah,New England North West,Regional,13550
+2016,2,Electricity Consumption - Scope 2,Business,,11013,Gwydir,New England North West,Regional,13660
+2016,2,Electricity Consumption - Scope 2,Business,,202873.2,Hawkesbury,Western Parkland City,Six Cities,13800
+2016,2,Electricity Consumption - Scope 2,Business,,16963.4,Hay,Riverina Murray,Regional,13850
+2016,2,Electricity Consumption - Scope 2,Business,,52637.1,Hilltops,South East and Tablelands,Regional,13910
+2016,2,Electricity Consumption - Scope 2,Business,,447792.8,Hornsby,Eastern Harbour City,Six Cities,14000
+2016,2,Electricity Consumption - Scope 2,Business,,24633.8,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2016,2,Electricity Consumption - Scope 2,Business,,364464.4,Inner West,Eastern Harbour City,Six Cities,14170
+2016,2,Electricity Consumption - Scope 2,Business,,41629.5,Inverell,New England North West,Regional,14200
+2016,2,Electricity Consumption - Scope 2,Business,,10951.7,Junee,Riverina Murray,Regional,14300
+2016,2,Electricity Consumption - Scope 2,Business,,59217.9,Kempsey,North Coast,Regional,14350
+2016,2,Electricity Consumption - Scope 2,Business,,28392.2,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2016,2,Electricity Consumption - Scope 2,Business,,154668.7,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2016,2,Electricity Consumption - Scope 2,Business,,13853.8,Kyogle,North Coast,Regional,14550
+2016,2,Electricity Consumption - Scope 2,Business,,22036.4,Lachlan,Central West and Orana,Regional,14600
+2016,2,Electricity Consumption - Scope 2,Business,,507007.5,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2016,2,Electricity Consumption - Scope 2,Business,,99651.9,Lane Cove,Eastern Harbour City,Six Cities,14700
+2016,2,Electricity Consumption - Scope 2,Business,,81163.5,Leeton,Riverina Murray,Regional,14750
+2016,2,Electricity Consumption - Scope 2,Business,,104553.5,Lismore,North Coast,Regional,14850
+2016,2,Electricity Consumption - Scope 2,Business,,222471.5,Lithgow,Central West and Orana,Regional,14870
+2016,2,Electricity Consumption - Scope 2,Business,,524323.8,Liverpool,Western Parkland City,Six Cities,14900
+2016,2,Electricity Consumption - Scope 2,Business,,16787.4,Liverpool Plains,New England North West,Regional,14920
+2016,2,Electricity Consumption - Scope 2,Business,,3068.9,Lockhart,Riverina Murray,Regional,14950
+2016,2,Electricity Consumption - Scope 2,Business,,175616.4,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2016,2,Electricity Consumption - Scope 2,Business,,173732.7,Mid-Coast,Upper Hunter,Regional,15240
+2016,2,Electricity Consumption - Scope 2,Business,,245420.7,Mid-Western Regional,Central West and Orana,Regional,15270
+2016,2,Electricity Consumption - Scope 2,Business,,56114.4,Moree Plains,New England North West,Regional,15300
+2016,2,Electricity Consumption - Scope 2,Business,,39319.1,Mosman,Eastern Harbour City,Six Cities,15350
+2016,2,Electricity Consumption - Scope 2,Business,,47665.1,Murray River,Riverina Murray,Regional,15520
+2016,2,Electricity Consumption - Scope 2,Business,,40033.3,Murrumbidgee,Riverina Murray,Regional,15560
+2016,2,Electricity Consumption - Scope 2,Business,,437914.4,Muswellbrook,Upper Hunter,Regional,15650
+2016,2,Electricity Consumption - Scope 2,Business,,30458.9,Nambucca,North Coast,Regional,15700
+2016,2,Electricity Consumption - Scope 2,Business,,133919.2,Narrabri,New England North West,Regional,15750
+2016,2,Electricity Consumption - Scope 2,Business,,23524.1,Narrandera,Riverina Murray,Regional,15800
+2016,2,Electricity Consumption - Scope 2,Business,,49319.2,Narromine,Central West and Orana,Regional,15850
+2016,2,Electricity Consumption - Scope 2,Business,,990295.3,Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2016,2,Electricity Consumption - Scope 2,Business,,322894.4,North Sydney,Eastern Harbour City,Six Cities,15950
+2016,2,Electricity Consumption - Scope 2,Business,,531479.5,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2016,2,Electricity Consumption - Scope 2,Business,,118030.7,Oberon,Central West and Orana,Regional,16100
+2016,2,Electricity Consumption - Scope 2,Business,,109217.9,Orange,Central West and Orana,Regional,16150
+2016,2,Electricity Consumption - Scope 2,Business,,234734.5,Parkes,Central West and Orana,Regional,16200
+2016,2,Electricity Consumption - Scope 2,Business,,1100754.5,Parramatta,Central River City,Six Cities,16260
+2016,2,Electricity Consumption - Scope 2,Business,,573608.7,Penrith,Western Parkland City,Six Cities,16350
+2016,2,Electricity Consumption - Scope 2,Business,,152212.9,Port Macquarie-Hastings,North Coast,Regional,16380
+2016,2,Electricity Consumption - Scope 2,Business,,7146630.3,Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2016,2,Electricity Consumption - Scope 2,Business,,75968.9,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2016,2,Electricity Consumption - Scope 2,Business,,517544.6,Randwick,Eastern Harbour City,Six Cities,16550
+2016,2,Electricity Consumption - Scope 2,Business,,60335.2,Richmond Valley,North Coast,Regional,16610
+2016,2,Electricity Consumption - Scope 2,Business,,596416,Ryde,Eastern Harbour City,Six Cities,16700
+2016,2,Electricity Consumption - Scope 2,Business,,106562.9,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2016,2,Electricity Consumption - Scope 2,Business,,409305.5,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2016,2,Electricity Consumption - Scope 2,Business,,749409.4,Singleton,Upper Hunter,Regional,17000
+2016,2,Electricity Consumption - Scope 2,Business,,150473,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2016,2,Electricity Consumption - Scope 2,Business,,91036.4,Snowy Valleys,Riverina Murray,Regional,17080
+2016,2,Electricity Consumption - Scope 2,Business,,147564.7,Strathfield,Eastern Harbour City,Six Cities,17100
+2016,2,Electricity Consumption - Scope 2,Business,,378372.1,Sutherland Shire,Central River City,Six Cities,17150
+2016,2,Electricity Consumption - Scope 2,Business,,2991956.3,Sydney,Eastern Harbour City,Six Cities,17200
+2016,2,Electricity Consumption - Scope 2,Business,,200913.9,Tamworth Regional,New England North West,Regional,17310
+2016,2,Electricity Consumption - Scope 2,Business,,10073.3,Temora,Riverina Murray,Regional,17350
+2016,2,Electricity Consumption - Scope 2,Business,,7475.6,Tenterfield,New England North West,Regional,17400
+2016,2,Electricity Consumption - Scope 2,Business,,360810,The Hills Shire,Central River City,Six Cities,17420
+2016,2,Electricity Consumption - Scope 2,Business,,176889.9,Tweed,North Coast,Regional,17550
+2016,2,Electricity Consumption - Scope 2,Business,,8434.6,Unincorporated NSW,Far West,Regional,19399
+2016,2,Electricity Consumption - Scope 2,Business,,54140.4,Upper Hunter Shire,Upper Hunter,Regional,17620
+2016,2,Electricity Consumption - Scope 2,Business,,6741.3,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2016,2,Electricity Consumption - Scope 2,Business,,4671.4,Uralla,New England North West,Regional,17650
+2016,2,Electricity Consumption - Scope 2,Business,,211193.4,Wagga Wagga,Riverina Murray,Regional,17750
+2016,2,Electricity Consumption - Scope 2,Business,,3408,Walcha,New England North West,Regional,17850
+2016,2,Electricity Consumption - Scope 2,Business,,14549.2,Walgett,Far West,Regional,17900
+2016,2,Electricity Consumption - Scope 2,Business,,8638.5,Warren,Central West and Orana,Regional,17950
+2016,2,Electricity Consumption - Scope 2,Business,,18394.3,Warrumbungle Shire,Central West and Orana,Regional,18020
+2016,2,Electricity Consumption - Scope 2,Business,,152241,Waverley,Eastern Harbour City,Six Cities,18050
+2016,2,Electricity Consumption - Scope 2,Business,,3629.3,Weddin,Central West and Orana,Regional,18100
+2016,2,Electricity Consumption - Scope 2,Business,,93351.1,Wentworth,Far West,Regional,18200
+2016,2,Electricity Consumption - Scope 2,Business,,404858.7,Willoughby,Eastern Harbour City,Six Cities,18250
+2016,2,Electricity Consumption - Scope 2,Business,,234438.3,Wingecarribee,South East and Tablelands,Regional,18350
+2016,2,Electricity Consumption - Scope 2,Business,,252271,Wollondilly,Western Parkland City,Six Cities,18400
+2016,2,Electricity Consumption - Scope 2,Business,,1463272.9,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2016,2,Electricity Consumption - Scope 2,Business,,102160.8,Woollahra,Eastern Harbour City,Six Cities,18500
+2016,2,Electricity Consumption - Scope 2,Business,,16793.3,Yass Valley,South East and Tablelands,Regional,18710
+2019,2,Electricity Consumption - Scope 2,Residential,,24389.3,Berrigan,Riverina Murray,Regional,10650
+2019,2,Electricity Consumption - Scope 2,Residential,,617485.9,Blacktown,Central River City,Six Cities,10750
+2019,2,Electricity Consumption - Scope 2,Residential,,15635.3,Bland,Riverina Murray,Regional,10800
+2019,2,Electricity Consumption - Scope 2,Residential,,17916.7,Blayney,Central West and Orana,Regional,10850
+2019,2,Electricity Consumption - Scope 2,Residential,,166175.4,Blue Mountains,Western Parkland City,Six Cities,10900
+2019,2,Electricity Consumption - Scope 2,Residential,,9778,Bogan,Central West and Orana,Regional,10950
+2019,2,Electricity Consumption - Scope 2,Residential,,9628.5,Bourke,Far West,Regional,11150
+2019,2,Electricity Consumption - Scope 2,Residential,,5750.8,Brewarrina,Far West,Regional,11200
+2019,2,Electricity Consumption - Scope 2,Residential,,45503.1,Broken Hill,Far West,Regional,11250
+2019,2,Electricity Consumption - Scope 2,Residential,,53913.2,Burwood,Eastern Harbour City,Six Cities,11300
+2019,2,Electricity Consumption - Scope 2,Residential,,68026.2,Byron,North Coast,Regional,11350
+2019,2,Electricity Consumption - Scope 2,Residential,,38486.5,Cabonne,Central West and Orana,Regional,11400
+2019,2,Electricity Consumption - Scope 2,Residential,,186373.9,Camden,Western Parkland City,Six Cities,11450
+2019,2,Electricity Consumption - Scope 2,Residential,,307729.2,Campbelltown,Western Parkland City,Six Cities,11500
+2019,2,Electricity Consumption - Scope 2,Residential,,147798.9,Canada Bay,Eastern Harbour City,Six Cities,11520
+2019,2,Electricity Consumption - Scope 2,Residential,,578548.9,Canterbury-Bankstown,Central River City,Six Cities,11570
+2019,2,Electricity Consumption - Scope 2,Residential,,10752.4,Carrathool,Riverina Murray,Regional,11600
+2019,2,Electricity Consumption - Scope 2,Residential,,717962.6,Central Coast,Central Coast City,Six Cities,11650
+2019,2,Electricity Consumption - Scope 2,Residential,,6921.3,Central Darling,Far West,Regional,11700
+2019,2,Electricity Consumption - Scope 2,Residential,,132069.9,Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2019,2,Electricity Consumption - Scope 2,Residential,,96813.1,Clarence Valley,North Coast,Regional,11730
+2019,2,Electricity Consumption - Scope 2,Residential,,13600.2,Cobar,Far West,Regional,11750
+2019,2,Electricity Consumption - Scope 2,Residential,,135083.9,Coffs Harbour,North Coast,Regional,11800
+2019,2,Electricity Consumption - Scope 2,Residential,,10350,Coolamon,Riverina Murray,Regional,12000
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

@@ -1,0 +1,517 @@
+﻿Year,ScopeID,Sector,SubSector1,SubSector2,Emissions,LGA,Planning_Region,Metro_or_Regional,LGA_CODE18
+2016,1,Stationary Energy (excluding Electricity Generation),,,77900.1,Albury,Riverina Murray,Regional,10050
+2016,1,Stationary Energy (excluding Electricity Generation),,,33709.2,Armidale Regional,New England North West,Regional,10130
+2016,1,Stationary Energy (excluding Electricity Generation),,,12427.8,Ballina,North Coast,Regional,10250
+2016,1,Stationary Energy (excluding Electricity Generation),,,2774.9,Balranald,Far West,Regional,10300
+2016,1,Stationary Energy (excluding Electricity Generation),,,58109,Bathurst Regional,Central West and Orana,Regional,10470
+2016,1,Stationary Energy (excluding Electricity Generation),,,682313.6,Bayside,Eastern Harbour City,Six Cities,10500
+2016,1,Stationary Energy (excluding Electricity Generation),,,46221.6,Bega Valley,South East and Tablelands,Regional,10550
+2016,1,Stationary Energy (excluding Electricity Generation),,,8356.5,Bellingen,North Coast,Regional,10600
+2016,1,Stationary Energy (excluding Electricity Generation),,,17671.6,Berrigan,Riverina Murray,Regional,10650
+2016,1,Stationary Energy (excluding Electricity Generation),,,213822.6,Blacktown,Central River City,Six Cities,10750
+2016,1,Stationary Energy (excluding Electricity Generation),,,110433.7,Bland,Riverina Murray,Regional,10800
+2016,1,Stationary Energy (excluding Electricity Generation),,,22840.4,Blayney,Central West and Orana,Regional,10850
+2016,1,Stationary Energy (excluding Electricity Generation),,,52413.1,Blue Mountains,Western Parkland City,Six Cities,10900
+2016,1,Stationary Energy (excluding Electricity Generation),,,50020.7,Bogan,Central West and Orana,Regional,10950
+2016,1,Stationary Energy (excluding Electricity Generation),,,4012.5,Bourke,Far West,Regional,11150
+2016,1,Stationary Energy (excluding Electricity Generation),,,11404.9,Brewarrina,Far West,Regional,11200
+2016,1,Stationary Energy (excluding Electricity Generation),,,23868.1,Broken Hill,Far West,Regional,11250
+2016,1,Stationary Energy (excluding Electricity Generation),,,18518.2,Burwood,Eastern Harbour City,Six Cities,11300
+2016,1,Stationary Energy (excluding Electricity Generation),,,10305.4,Byron,North Coast,Regional,11350
+2016,1,Stationary Energy (excluding Electricity Generation),,,18618.4,Cabonne,Central West and Orana,Regional,11400
+2016,1,Stationary Energy (excluding Electricity Generation),,,67244.3,Camden,Western Parkland City,Six Cities,11450
+2016,1,Stationary Energy (excluding Electricity Generation),,,83838.6,Campbelltown,Western Parkland City,Six Cities,11500
+2016,1,Stationary Energy (excluding Electricity Generation),,,40618.6,Canada Bay,Eastern Harbour City,Six Cities,11520
+2016,1,Stationary Energy (excluding Electricity Generation),,,143497.7,Canterbury-Bankstown,Central River City,Six Cities,11570
+2016,1,Stationary Energy (excluding Electricity Generation),,,95777.9,Carrathool,Riverina Murray,Regional,11600
+2016,1,Stationary Energy (excluding Electricity Generation),,,71428.5,Central Coast,Central Coast City,Six Cities,11650
+2016,1,Stationary Energy (excluding Electricity Generation),,,484.5,Central Darling,Far West,Regional,11700
+2016,1,Stationary Energy (excluding Electricity Generation),,,30346,Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2016,1,Stationary Energy (excluding Electricity Generation),,,60357.9,Clarence Valley,North Coast,Regional,11730
+2016,1,Stationary Energy (excluding Electricity Generation),,,46616.7,Cobar,Far West,Regional,11750
+2016,1,Stationary Energy (excluding Electricity Generation),,,28110.1,Coffs Harbour,North Coast,Regional,11800
+2016,1,Stationary Energy (excluding Electricity Generation),,,25588.4,Coolamon,Riverina Murray,Regional,12000
+2016,1,Stationary Energy (excluding Electricity Generation),,,78634.5,Coonamble,Central West and Orana,Regional,12150
+2016,1,Stationary Energy (excluding Electricity Generation),,,52810.7,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2016,1,Stationary Energy (excluding Electricity Generation),,,19393.7,Cowra,Central West and Orana,Regional,12350
+2016,1,Stationary Energy (excluding Electricity Generation),,,159199.8,Cumberland,Central River City,Six Cities,12380
+2016,1,Stationary Energy (excluding Electricity Generation),,,69843.2,Dubbo Regional,Central West and Orana,Regional,12390
+2016,1,Stationary Energy (excluding Electricity Generation),,,2856.9,Dungog,Upper Hunter,Regional,12700
+2016,1,Stationary Energy (excluding Electricity Generation),,,8959.3,Edward River,Riverina Murray,Regional,12730
+2016,1,Stationary Energy (excluding Electricity Generation),,,34295.3,Eurobodalla,South East and Tablelands,Regional,12750
+2016,1,Stationary Energy (excluding Electricity Generation),,,202394.4,Fairfield,Western Parkland City,Six Cities,12850
+2016,1,Stationary Energy (excluding Electricity Generation),,,73233.4,Federation,Riverina Murray,Regional,12870
+2016,1,Stationary Energy (excluding Electricity Generation),,,111831.4,Forbes,Central West and Orana,Regional,12900
+2016,1,Stationary Energy (excluding Electricity Generation),,,54512.4,Georges River,Central River City,Six Cities,12930
+2016,1,Stationary Energy (excluding Electricity Generation),,,8143.1,Gilgandra,Central West and Orana,Regional,12950
+2016,1,Stationary Energy (excluding Electricity Generation),,,11083.6,Glen Innes Severn,New England North West,Regional,13010
+2016,1,Stationary Energy (excluding Electricity Generation),,,79883.2,Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2016,1,Stationary Energy (excluding Electricity Generation),,,36696.8,Greater Hume Shire,Riverina Murray,Regional,13340
+2016,1,Stationary Energy (excluding Electricity Generation),,,59370.1,Griffith,Riverina Murray,Regional,13450
+2016,1,Stationary Energy (excluding Electricity Generation),,,54705.8,Gunnedah,New England North West,Regional,13550
+2016,1,Stationary Energy (excluding Electricity Generation),,,6881.8,Gwydir,New England North West,Regional,13660
+2016,1,Stationary Energy (excluding Electricity Generation),,,17771.6,Hawkesbury,Western Parkland City,Six Cities,13800
+2016,1,Stationary Energy (excluding Electricity Generation),,,11839.7,Hay,Riverina Murray,Regional,13850
+2016,1,Stationary Energy (excluding Electricity Generation),,,41813.9,Hilltops,South East and Tablelands,Regional,13910
+2016,1,Stationary Energy (excluding Electricity Generation),,,54244,Hornsby,Eastern Harbour City,Six Cities,14000
+2016,1,Stationary Energy (excluding Electricity Generation),,,7584.9,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2016,1,Stationary Energy (excluding Electricity Generation),,,87845.6,Inner West,Eastern Harbour City,Six Cities,14170
+2016,1,Stationary Energy (excluding Electricity Generation),,,25607.9,Inverell,New England North West,Regional,14200
+2016,1,Stationary Energy (excluding Electricity Generation),,,9595.2,Junee,Riverina Murray,Regional,14300
+2016,1,Stationary Energy (excluding Electricity Generation),,,17535.2,Kempsey,North Coast,Regional,14350
+2016,1,Stationary Energy (excluding Electricity Generation),,,7492.2,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2016,1,Stationary Energy (excluding Electricity Generation),,,57676.7,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2016,1,Stationary Energy (excluding Electricity Generation),,,8169.7,Kyogle,North Coast,Regional,14550
+2016,1,Stationary Energy (excluding Electricity Generation),,,117070.4,Lachlan,Central West and Orana,Regional,14600
+2016,1,Stationary Energy (excluding Electricity Generation),,,62705.7,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2016,1,Stationary Energy (excluding Electricity Generation),,,23995.9,Lane Cove,Eastern Harbour City,Six Cities,14700
+2016,1,Stationary Energy (excluding Electricity Generation),,,21482.9,Leeton,Riverina Murray,Regional,14750
+2016,1,Stationary Energy (excluding Electricity Generation),,,10962.9,Lismore,North Coast,Regional,14850
+2016,1,Stationary Energy (excluding Electricity Generation),,,34782.4,Lithgow,Central West and Orana,Regional,14870
+2016,1,Stationary Energy (excluding Electricity Generation),,,82189.5,Liverpool,Western Parkland City,Six Cities,14900
+2016,1,Stationary Energy (excluding Electricity Generation),,,48676.9,Liverpool Plains,New England North West,Regional,14920
+2016,1,Stationary Energy (excluding Electricity Generation),,,15971.7,Lockhart,Riverina Murray,Regional,14950
+2016,1,Stationary Energy (excluding Electricity Generation),,,79516.8,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2016,1,Stationary Energy (excluding Electricity Generation),,,78235.5,Mid-Coast,Upper Hunter,Regional,15240
+2016,1,Stationary Energy (excluding Electricity Generation),,,268061,Mid-Western Regional,Central West and Orana,Regional,15270
+2016,1,Stationary Energy (excluding Electricity Generation),,,96109.1,Moree Plains,New England North West,Regional,15300
+2016,1,Stationary Energy (excluding Electricity Generation),,,18140.4,Mosman,Eastern Harbour City,Six Cities,15350
+2016,1,Stationary Energy (excluding Electricity Generation),,,60926.8,Murray River,Riverina Murray,Regional,15520
+2016,1,Stationary Energy (excluding Electricity Generation),,,30107.2,Murrumbidgee,Riverina Murray,Regional,15560
+2016,1,Stationary Energy (excluding Electricity Generation),,,783762.6,Muswellbrook,Upper Hunter,Regional,15650
+2016,1,Stationary Energy (excluding Electricity Generation),,,28314.2,Nambucca,North Coast,Regional,15700
+2016,1,Stationary Energy (excluding Electricity Generation),,,433688.7,Narrabri,New England North West,Regional,15750
+2016,1,Stationary Energy (excluding Electricity Generation),,,9355.6,Narrandera,Riverina Murray,Regional,15800
+2016,1,Stationary Energy (excluding Electricity Generation),,,39537.1,Narromine,Central West and Orana,Regional,15850
+2016,1,Stationary Energy (excluding Electricity Generation),,,505232.7,Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2016,1,Stationary Energy (excluding Electricity Generation),,,48044.2,North Sydney,Eastern Harbour City,Six Cities,15950
+2016,1,Stationary Energy (excluding Electricity Generation),,,118650.8,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2016,1,Stationary Energy (excluding Electricity Generation),,,46728.7,Oberon,Central West and Orana,Regional,16100
+2016,1,Stationary Energy (excluding Electricity Generation),,,75976.5,Orange,Central West and Orana,Regional,16150
+2016,1,Stationary Energy (excluding Electricity Generation),,,57955.1,Parkes,Central West and Orana,Regional,16200
+2016,1,Stationary Energy (excluding Electricity Generation),,,129266.3,Parramatta,Central River City,Six Cities,16260
+2016,1,Stationary Energy (excluding Electricity Generation),,,142963.4,Penrith,Western Parkland City,Six Cities,16350
+2016,1,Stationary Energy (excluding Electricity Generation),,,37075.7,Port Macquarie-Hastings,North Coast,Regional,16380
+2016,1,Stationary Energy (excluding Electricity Generation),,,129161.2,Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2016,1,Stationary Energy (excluding Electricity Generation),,,16916.2,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2016,1,Stationary Energy (excluding Electricity Generation),,,80028.6,Randwick,Eastern Harbour City,Six Cities,16550
+2016,1,Stationary Energy (excluding Electricity Generation),,,19658.6,Richmond Valley,North Coast,Regional,16610
+2016,1,Stationary Energy (excluding Electricity Generation),,,63895.3,Ryde,Eastern Harbour City,Six Cities,16700
+2016,1,Stationary Energy (excluding Electricity Generation),,,36139.6,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2016,1,Stationary Energy (excluding Electricity Generation),,,316075.6,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2016,1,Stationary Energy (excluding Electricity Generation),,,1491886.3,Singleton,Upper Hunter,Regional,17000
+2016,1,Stationary Energy (excluding Electricity Generation),,,30603.3,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2016,1,Stationary Energy (excluding Electricity Generation),,,111514.1,Snowy Valleys,Riverina Murray,Regional,17080
+2016,1,Stationary Energy (excluding Electricity Generation),,,28865.6,Strathfield,Eastern Harbour City,Six Cities,17100
+2016,1,Stationary Energy (excluding Electricity Generation),,,63414.3,Sutherland Shire,Central River City,Six Cities,17150
+2016,1,Stationary Energy (excluding Electricity Generation),,,308289,Sydney,Eastern Harbour City,Six Cities,17200
+2016,1,Stationary Energy (excluding Electricity Generation),,,125886.4,Tamworth Regional,New England North West,Regional,17310
+2016,1,Stationary Energy (excluding Electricity Generation),,,14285.4,Temora,Riverina Murray,Regional,17350
+2016,1,Stationary Energy (excluding Electricity Generation),,,16230.4,Tenterfield,New England North West,Regional,17400
+2016,1,Stationary Energy (excluding Electricity Generation),,,60927.3,The Hills Shire,Central River City,Six Cities,17420
+2016,1,Stationary Energy (excluding Electricity Generation),,,23748.9,Tweed,North Coast,Regional,17550
+2016,1,Stationary Energy (excluding Electricity Generation),,,3282.3,Unincorporated NSW,Far West,Regional,19399
+2016,1,Stationary Energy (excluding Electricity Generation),,,27062.7,Upper Hunter Shire,Upper Hunter,Regional,17620
+2016,1,Stationary Energy (excluding Electricity Generation),,,1985.7,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2016,1,Stationary Energy (excluding Electricity Generation),,,1139.5,Uralla,New England North West,Regional,17650
+2016,1,Stationary Energy (excluding Electricity Generation),,,64842.8,Wagga Wagga,Riverina Murray,Regional,17750
+2016,1,Stationary Energy (excluding Electricity Generation),,,10185.2,Walcha,New England North West,Regional,17850
+2016,1,Stationary Energy (excluding Electricity Generation),,,40775,Walgett,Far West,Regional,17900
+2016,1,Stationary Energy (excluding Electricity Generation),,,62802.6,Warren,Central West and Orana,Regional,17950
+2016,1,Stationary Energy (excluding Electricity Generation),,,64097.7,Warrumbungle Shire,Central West and Orana,Regional,18020
+2016,1,Stationary Energy (excluding Electricity Generation),,,34608.3,Waverley,Eastern Harbour City,Six Cities,18050
+2016,1,Stationary Energy (excluding Electricity Generation),,,30698.8,Weddin,Central West and Orana,Regional,18100
+2016,1,Stationary Energy (excluding Electricity Generation),,,61903.3,Wentworth,Far West,Regional,18200
+2016,1,Stationary Energy (excluding Electricity Generation),,,68446.6,Willoughby,Eastern Harbour City,Six Cities,18250
+2016,1,Stationary Energy (excluding Electricity Generation),,,483365.3,Wingecarribee,South East and Tablelands,Regional,18350
+2016,1,Stationary Energy (excluding Electricity Generation),,,46324.7,Wollondilly,Western Parkland City,Six Cities,18400
+2016,1,Stationary Energy (excluding Electricity Generation),,,1561452.8,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2016,1,Stationary Energy (excluding Electricity Generation),,,36101.4,Woollahra,Eastern Harbour City,Six Cities,18500
+2016,1,Stationary Energy (excluding Electricity Generation),,,20430.3,Yass Valley,South East and Tablelands,Regional,18710
+2017,1,Stationary Energy (excluding Electricity Generation),,,79960.6,Albury,Riverina Murray,Regional,10050
+2017,1,Stationary Energy (excluding Electricity Generation),,,33505.5,Armidale Regional,New England North West,Regional,10130
+2017,1,Stationary Energy (excluding Electricity Generation),,,12170.3,Ballina,North Coast,Regional,10250
+2017,1,Stationary Energy (excluding Electricity Generation),,,2737.2,Balranald,Far West,Regional,10300
+2017,1,Stationary Energy (excluding Electricity Generation),,,55982.3,Bathurst Regional,Central West and Orana,Regional,10470
+2017,1,Stationary Energy (excluding Electricity Generation),,,741245.2,Bayside,Eastern Harbour City,Six Cities,10500
+2017,1,Stationary Energy (excluding Electricity Generation),,,44976.7,Bega Valley,South East and Tablelands,Regional,10550
+2017,1,Stationary Energy (excluding Electricity Generation),,,8270.3,Bellingen,North Coast,Regional,10600
+2017,1,Stationary Energy (excluding Electricity Generation),,,17383,Berrigan,Riverina Murray,Regional,10650
+2017,1,Stationary Energy (excluding Electricity Generation),,,213517.4,Blacktown,Central River City,Six Cities,10750
+2017,1,Stationary Energy (excluding Electricity Generation),,,113385.7,Bland,Riverina Murray,Regional,10800
+2017,1,Stationary Energy (excluding Electricity Generation),,,23272.4,Blayney,Central West and Orana,Regional,10850
+2017,1,Stationary Energy (excluding Electricity Generation),,,54016.1,Blue Mountains,Western Parkland City,Six Cities,10900
+2017,1,Stationary Energy (excluding Electricity Generation),,,49042.5,Bogan,Central West and Orana,Regional,10950
+2017,1,Stationary Energy (excluding Electricity Generation),,,3956.5,Bourke,Far West,Regional,11150
+2017,1,Stationary Energy (excluding Electricity Generation),,,11188.2,Brewarrina,Far West,Regional,11200
+2017,1,Stationary Energy (excluding Electricity Generation),,,16349.5,Broken Hill,Far West,Regional,11250
+2017,1,Stationary Energy (excluding Electricity Generation),,,19049.5,Burwood,Eastern Harbour City,Six Cities,11300
+2017,1,Stationary Energy (excluding Electricity Generation),,,10267.7,Byron,North Coast,Regional,11350
+2017,1,Stationary Energy (excluding Electricity Generation),,,18333.5,Cabonne,Central West and Orana,Regional,11400
+2017,1,Stationary Energy (excluding Electricity Generation),,,69700,Camden,Western Parkland City,Six Cities,11450
+2017,1,Stationary Energy (excluding Electricity Generation),,,89674.2,Campbelltown,Western Parkland City,Six Cities,11500
+2017,1,Stationary Energy (excluding Electricity Generation),,,41187.1,Canada Bay,Eastern Harbour City,Six Cities,11520
+2017,1,Stationary Energy (excluding Electricity Generation),,,144846.6,Canterbury-Bankstown,Central River City,Six Cities,11570
+2017,1,Stationary Energy (excluding Electricity Generation),,,95944.2,Carrathool,Riverina Murray,Regional,11600
+2017,1,Stationary Energy (excluding Electricity Generation),,,76003.9,Central Coast,Central Coast City,Six Cities,11650
+2017,1,Stationary Energy (excluding Electricity Generation),,,493,Central Darling,Far West,Regional,11700
+2017,1,Stationary Energy (excluding Electricity Generation),,,23764.7,Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2017,1,Stationary Energy (excluding Electricity Generation),,,89719.2,Clarence Valley,North Coast,Regional,11730
+2017,1,Stationary Energy (excluding Electricity Generation),,,46752.1,Cobar,Far West,Regional,11750
+2017,1,Stationary Energy (excluding Electricity Generation),,,28221.9,Coffs Harbour,North Coast,Regional,11800
+2017,1,Stationary Energy (excluding Electricity Generation),,,25211.9,Coolamon,Riverina Murray,Regional,12000
+2017,1,Stationary Energy (excluding Electricity Generation),,,77093.5,Coonamble,Central West and Orana,Regional,12150
+2017,1,Stationary Energy (excluding Electricity Generation),,,51808.9,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2017,1,Stationary Energy (excluding Electricity Generation),,,19106.7,Cowra,Central West and Orana,Regional,12350
+2017,1,Stationary Energy (excluding Electricity Generation),,,158152.5,Cumberland,Central River City,Six Cities,12380
+2017,1,Stationary Energy (excluding Electricity Generation),,,68846.5,Dubbo Regional,Central West and Orana,Regional,12390
+2017,1,Stationary Energy (excluding Electricity Generation),,,2857.1,Dungog,Upper Hunter,Regional,12700
+2017,1,Stationary Energy (excluding Electricity Generation),,,8851.2,Edward River,Riverina Murray,Regional,12730
+2017,1,Stationary Energy (excluding Electricity Generation),,,33909.2,Eurobodalla,South East and Tablelands,Regional,12750
+2017,1,Stationary Energy (excluding Electricity Generation),,,211632.7,Fairfield,Western Parkland City,Six Cities,12850
+2017,1,Stationary Energy (excluding Electricity Generation),,,73521.1,Federation,Riverina Murray,Regional,12870
+2017,1,Stationary Energy (excluding Electricity Generation),,,110163.2,Forbes,Central West and Orana,Regional,12900
+2017,1,Stationary Energy (excluding Electricity Generation),,,54990.6,Georges River,Central River City,Six Cities,12930
+2017,1,Stationary Energy (excluding Electricity Generation),,,8008.3,Gilgandra,Central West and Orana,Regional,12950
+2017,1,Stationary Energy (excluding Electricity Generation),,,10923.9,Glen Innes Severn,New England North West,Regional,13010
+2017,1,Stationary Energy (excluding Electricity Generation),,,75288.9,Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2017,1,Stationary Energy (excluding Electricity Generation),,,36193.3,Greater Hume Shire,Riverina Murray,Regional,13340
+2017,1,Stationary Energy (excluding Electricity Generation),,,63697.2,Griffith,Riverina Murray,Regional,13450
+2017,1,Stationary Energy (excluding Electricity Generation),,,55223.7,Gunnedah,New England North West,Regional,13550
+2017,1,Stationary Energy (excluding Electricity Generation),,,6777.1,Gwydir,New England North West,Regional,13660
+2017,1,Stationary Energy (excluding Electricity Generation),,,17944.4,Hawkesbury,Western Parkland City,Six Cities,13800
+2017,1,Stationary Energy (excluding Electricity Generation),,,12542.5,Hay,Riverina Murray,Regional,13850
+2017,1,Stationary Energy (excluding Electricity Generation),,,49828.8,Hilltops,South East and Tablelands,Regional,13910
+2017,1,Stationary Energy (excluding Electricity Generation),,,52030.6,Hornsby,Eastern Harbour City,Six Cities,14000
+2017,1,Stationary Energy (excluding Electricity Generation),,,7453.1,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2017,1,Stationary Energy (excluding Electricity Generation),,,94501.7,Inner West,Eastern Harbour City,Six Cities,14170
+2017,1,Stationary Energy (excluding Electricity Generation),,,25203.8,Inverell,New England North West,Regional,14200
+2017,1,Stationary Energy (excluding Electricity Generation),,,9783.4,Junee,Riverina Murray,Regional,14300
+2017,1,Stationary Energy (excluding Electricity Generation),,,15559.6,Kempsey,North Coast,Regional,14350
+2017,1,Stationary Energy (excluding Electricity Generation),,,7468.1,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2017,1,Stationary Energy (excluding Electricity Generation),,,57415.1,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2017,1,Stationary Energy (excluding Electricity Generation),,,8065.5,Kyogle,North Coast,Regional,14550
+2017,1,Stationary Energy (excluding Electricity Generation),,,114776.5,Lachlan,Central West and Orana,Regional,14600
+2017,1,Stationary Energy (excluding Electricity Generation),,,68609.8,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2017,1,Stationary Energy (excluding Electricity Generation),,,24042.1,Lane Cove,Eastern Harbour City,Six Cities,14700
+2017,1,Stationary Energy (excluding Electricity Generation),,,18292.3,Leeton,Riverina Murray,Regional,14750
+2017,1,Stationary Energy (excluding Electricity Generation),,,11061.4,Lismore,North Coast,Regional,14850
+2017,1,Stationary Energy (excluding Electricity Generation),,,35725.2,Lithgow,Central West and Orana,Regional,14870
+2017,1,Stationary Energy (excluding Electricity Generation),,,82519.4,Liverpool,Western Parkland City,Six Cities,14900
+2017,1,Stationary Energy (excluding Electricity Generation),,,47518.4,Liverpool Plains,New England North West,Regional,14920
+2017,1,Stationary Energy (excluding Electricity Generation),,,15673,Lockhart,Riverina Murray,Regional,14950
+2017,1,Stationary Energy (excluding Electricity Generation),,,75515.1,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2017,1,Stationary Energy (excluding Electricity Generation),,,71696.2,Mid-Coast,Upper Hunter,Regional,15240
+2017,1,Stationary Energy (excluding Electricity Generation),,,275938.9,Mid-Western Regional,Central West and Orana,Regional,15270
+2017,1,Stationary Energy (excluding Electricity Generation),,,94780.1,Moree Plains,New England North West,Regional,15300
+2017,1,Stationary Energy (excluding Electricity Generation),,,17452.3,Mosman,Eastern Harbour City,Six Cities,15350
+2017,1,Stationary Energy (excluding Electricity Generation),,,59857.8,Murray River,Riverina Murray,Regional,15520
+2017,1,Stationary Energy (excluding Electricity Generation),,,32021.4,Murrumbidgee,Riverina Murray,Regional,15560
+2017,1,Stationary Energy (excluding Electricity Generation),,,814377,Muswellbrook,Upper Hunter,Regional,15650
+2017,1,Stationary Energy (excluding Electricity Generation),,,26083.3,Nambucca,North Coast,Regional,15700
+2017,1,Stationary Energy (excluding Electricity Generation),,,495563,Narrabri,New England North West,Regional,15750
+2017,1,Stationary Energy (excluding Electricity Generation),,,9464.8,Narrandera,Riverina Murray,Regional,15800
+2017,1,Stationary Energy (excluding Electricity Generation),,,44695.9,Narromine,Central West and Orana,Regional,15850
+2017,1,Stationary Energy (excluding Electricity Generation),,,449735.4,Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2017,1,Stationary Energy (excluding Electricity Generation),,,47855.6,North Sydney,Eastern Harbour City,Six Cities,15950
+2017,1,Stationary Energy (excluding Electricity Generation),,,117044.9,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2017,1,Stationary Energy (excluding Electricity Generation),,,45436.4,Oberon,Central West and Orana,Regional,16100
+2017,1,Stationary Energy (excluding Electricity Generation),,,81577.4,Orange,Central West and Orana,Regional,16150
+2017,1,Stationary Energy (excluding Electricity Generation),,,56387.9,Parkes,Central West and Orana,Regional,16200
+2017,1,Stationary Energy (excluding Electricity Generation),,,129591.6,Parramatta,Central River City,Six Cities,16260
+2017,1,Stationary Energy (excluding Electricity Generation),,,140634.2,Penrith,Western Parkland City,Six Cities,16350
+2017,1,Stationary Energy (excluding Electricity Generation),,,36896.2,Port Macquarie-Hastings,North Coast,Regional,16380
+2017,1,Stationary Energy (excluding Electricity Generation),,,125965.7,Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2017,1,Stationary Energy (excluding Electricity Generation),,,16868.4,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2017,1,Stationary Energy (excluding Electricity Generation),,,78612.5,Randwick,Eastern Harbour City,Six Cities,16550
+2017,1,Stationary Energy (excluding Electricity Generation),,,19293.5,Richmond Valley,North Coast,Regional,16610
+2017,1,Stationary Energy (excluding Electricity Generation),,,64071,Ryde,Eastern Harbour City,Six Cities,16700
+2017,1,Stationary Energy (excluding Electricity Generation),,,35839.9,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2017,1,Stationary Energy (excluding Electricity Generation),,,293777.4,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2017,1,Stationary Energy (excluding Electricity Generation),,,1509919,Singleton,Upper Hunter,Regional,17000
+2017,1,Stationary Energy (excluding Electricity Generation),,,30389.9,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2017,1,Stationary Energy (excluding Electricity Generation),,,120094.9,Snowy Valleys,Riverina Murray,Regional,17080
+2017,1,Stationary Energy (excluding Electricity Generation),,,29380.6,Strathfield,Eastern Harbour City,Six Cities,17100
+2017,1,Stationary Energy (excluding Electricity Generation),,,63281.2,Sutherland Shire,Central River City,Six Cities,17150
+2017,1,Stationary Energy (excluding Electricity Generation),,,295782.5,Sydney,Eastern Harbour City,Six Cities,17200
+2017,1,Stationary Energy (excluding Electricity Generation),,,116592.6,Tamworth Regional,New England North West,Regional,17310
+2017,1,Stationary Energy (excluding Electricity Generation),,,14046.3,Temora,Riverina Murray,Regional,17350
+2017,1,Stationary Energy (excluding Electricity Generation),,,15955.3,Tenterfield,New England North West,Regional,17400
+2017,1,Stationary Energy (excluding Electricity Generation),,,61328.9,The Hills Shire,Central River City,Six Cities,17420
+2017,1,Stationary Energy (excluding Electricity Generation),,,23824.8,Tweed,North Coast,Regional,17550
+2017,1,Stationary Energy (excluding Electricity Generation),,,3216.8,Unincorporated NSW,Far West,Regional,19399
+2017,1,Stationary Energy (excluding Electricity Generation),,,25284.5,Upper Hunter Shire,Upper Hunter,Regional,17620
+2017,1,Stationary Energy (excluding Electricity Generation),,,1971.2,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2017,1,Stationary Energy (excluding Electricity Generation),,,1148.5,Uralla,New England North West,Regional,17650
+2017,1,Stationary Energy (excluding Electricity Generation),,,69385.4,Wagga Wagga,Riverina Murray,Regional,17750
+2017,1,Stationary Energy (excluding Electricity Generation),,,10004,Walcha,New England North West,Regional,17850
+2017,1,Stationary Energy (excluding Electricity Generation),,,40022.2,Walgett,Far West,Regional,17900
+2017,1,Stationary Energy (excluding Electricity Generation),,,61471.8,Warren,Central West and Orana,Regional,17950
+2017,1,Stationary Energy (excluding Electricity Generation),,,62882.9,Warrumbungle Shire,Central West and Orana,Regional,18020
+2017,1,Stationary Energy (excluding Electricity Generation),,,34230,Waverley,Eastern Harbour City,Six Cities,18050
+2017,1,Stationary Energy (excluding Electricity Generation),,,30109.7,Weddin,Central West and Orana,Regional,18100
+2017,1,Stationary Energy (excluding Electricity Generation),,,59713.5,Wentworth,Far West,Regional,18200
+2017,1,Stationary Energy (excluding Electricity Generation),,,68122.1,Willoughby,Eastern Harbour City,Six Cities,18250
+2017,1,Stationary Energy (excluding Electricity Generation),,,501758.2,Wingecarribee,South East and Tablelands,Regional,18350
+2017,1,Stationary Energy (excluding Electricity Generation),,,24891.4,Wollondilly,Western Parkland City,Six Cities,18400
+2017,1,Stationary Energy (excluding Electricity Generation),,,1670488.4,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2017,1,Stationary Energy (excluding Electricity Generation),,,35313.5,Woollahra,Eastern Harbour City,Six Cities,18500
+2017,1,Stationary Energy (excluding Electricity Generation),,,20478.9,Yass Valley,South East and Tablelands,Regional,18710
+2018,1,Stationary Energy (excluding Electricity Generation),,,69280.5,Albury,Riverina Murray,Regional,10050
+2018,1,Stationary Energy (excluding Electricity Generation),,,34675.2,Armidale Regional,New England North West,Regional,10130
+2018,1,Stationary Energy (excluding Electricity Generation),,,11876.5,Ballina,North Coast,Regional,10250
+2018,1,Stationary Energy (excluding Electricity Generation),,,2825.8,Balranald,Far West,Regional,10300
+2018,1,Stationary Energy (excluding Electricity Generation),,,55162.1,Bathurst Regional,Central West and Orana,Regional,10470
+2018,1,Stationary Energy (excluding Electricity Generation),,,711423.3,Bayside,Eastern Harbour City,Six Cities,10500
+2018,1,Stationary Energy (excluding Electricity Generation),,,44917,Bega Valley,South East and Tablelands,Regional,10550
+2018,1,Stationary Energy (excluding Electricity Generation),,,8232.7,Bellingen,North Coast,Regional,10600
+2018,1,Stationary Energy (excluding Electricity Generation),,,17568.1,Berrigan,Riverina Murray,Regional,10650
+2018,1,Stationary Energy (excluding Electricity Generation),,,220152.6,Blacktown,Central River City,Six Cities,10750
+2018,1,Stationary Energy (excluding Electricity Generation),,,140239.4,Bland,Riverina Murray,Regional,10800
+2018,1,Stationary Energy (excluding Electricity Generation),,,23308.7,Blayney,Central West and Orana,Regional,10850
+2018,1,Stationary Energy (excluding Electricity Generation),,,51432.4,Blue Mountains,Western Parkland City,Six Cities,10900
+2018,1,Stationary Energy (excluding Electricity Generation),,,49783.4,Bogan,Central West and Orana,Regional,10950
+2018,1,Stationary Energy (excluding Electricity Generation),,,3988.5,Bourke,Far West,Regional,11150
+2018,1,Stationary Energy (excluding Electricity Generation),,,11350.2,Brewarrina,Far West,Regional,11200
+2018,1,Stationary Energy (excluding Electricity Generation),,,23400.5,Broken Hill,Far West,Regional,11250
+2018,1,Stationary Energy (excluding Electricity Generation),,,19830.9,Burwood,Eastern Harbour City,Six Cities,11300
+2018,1,Stationary Energy (excluding Electricity Generation),,,9956.7,Byron,North Coast,Regional,11350
+2018,1,Stationary Energy (excluding Electricity Generation),,,18437,Cabonne,Central West and Orana,Regional,11400
+2018,1,Stationary Energy (excluding Electricity Generation),,,72078.4,Camden,Western Parkland City,Six Cities,11450
+2018,1,Stationary Energy (excluding Electricity Generation),,,87390.2,Campbelltown,Western Parkland City,Six Cities,11500
+2018,1,Stationary Energy (excluding Electricity Generation),,,41541.5,Canada Bay,Eastern Harbour City,Six Cities,11520
+2018,1,Stationary Energy (excluding Electricity Generation),,,146800,Canterbury-Bankstown,Central River City,Six Cities,11570
+2018,1,Stationary Energy (excluding Electricity Generation),,,93904.4,Carrathool,Riverina Murray,Regional,11600
+2018,1,Stationary Energy (excluding Electricity Generation),,,77064.2,Central Coast,Central Coast City,Six Cities,11650
+2018,1,Stationary Energy (excluding Electricity Generation),,,470.6,Central Darling,Far West,Regional,11700
+2018,1,Stationary Energy (excluding Electricity Generation),,,23637.2,Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2018,1,Stationary Energy (excluding Electricity Generation),,,90683.9,Clarence Valley,North Coast,Regional,11730
+2018,1,Stationary Energy (excluding Electricity Generation),,,46835.6,Cobar,Far West,Regional,11750
+2018,1,Stationary Energy (excluding Electricity Generation),,,28011.4,Coffs Harbour,North Coast,Regional,11800
+2018,1,Stationary Energy (excluding Electricity Generation),,,25502.5,Coolamon,Riverina Murray,Regional,12000
+2018,1,Stationary Energy (excluding Electricity Generation),,,78260.5,Coonamble,Central West and Orana,Regional,12150
+2018,1,Stationary Energy (excluding Electricity Generation),,,49175.4,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2018,1,Stationary Energy (excluding Electricity Generation),,,19006.5,Cowra,Central West and Orana,Regional,12350
+2018,1,Stationary Energy (excluding Electricity Generation),,,227312.2,Cumberland,Central River City,Six Cities,12380
+2018,1,Stationary Energy (excluding Electricity Generation),,,67973,Dubbo Regional,Central West and Orana,Regional,12390
+2018,1,Stationary Energy (excluding Electricity Generation),,,2815.1,Dungog,Upper Hunter,Regional,12700
+2018,1,Stationary Energy (excluding Electricity Generation),,,8909.5,Edward River,Riverina Murray,Regional,12730
+2018,1,Stationary Energy (excluding Electricity Generation),,,33826.5,Eurobodalla,South East and Tablelands,Regional,12750
+2018,1,Stationary Energy (excluding Electricity Generation),,,210757.8,Fairfield,Western Parkland City,Six Cities,12850
+2018,1,Stationary Energy (excluding Electricity Generation),,,71762.6,Federation,Riverina Murray,Regional,12870
+2018,1,Stationary Energy (excluding Electricity Generation),,,111418.9,Forbes,Central West and Orana,Regional,12900
+2018,1,Stationary Energy (excluding Electricity Generation),,,55507.9,Georges River,Central River City,Six Cities,12930
+2018,1,Stationary Energy (excluding Electricity Generation),,,8081.9,Gilgandra,Central West and Orana,Regional,12950
+2018,1,Stationary Energy (excluding Electricity Generation),,,10980.8,Glen Innes Severn,New England North West,Regional,13010
+2018,1,Stationary Energy (excluding Electricity Generation),,,104600.6,Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2018,1,Stationary Energy (excluding Electricity Generation),,,35047.7,Greater Hume Shire,Riverina Murray,Regional,13340
+2018,1,Stationary Energy (excluding Electricity Generation),,,65932.2,Griffith,Riverina Murray,Regional,13450
+2018,1,Stationary Energy (excluding Electricity Generation),,,58328.5,Gunnedah,New England North West,Regional,13550
+2018,1,Stationary Energy (excluding Electricity Generation),,,6810.4,Gwydir,New England North West,Regional,13660
+2018,1,Stationary Energy (excluding Electricity Generation),,,17254.9,Hawkesbury,Western Parkland City,Six Cities,13800
+2018,1,Stationary Energy (excluding Electricity Generation),,,10160.3,Hay,Riverina Murray,Regional,13850
+2018,1,Stationary Energy (excluding Electricity Generation),,,47909.5,Hilltops,South East and Tablelands,Regional,13910
+2018,1,Stationary Energy (excluding Electricity Generation),,,53012.8,Hornsby,Eastern Harbour City,Six Cities,14000
+2018,1,Stationary Energy (excluding Electricity Generation),,,7359.3,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2018,1,Stationary Energy (excluding Electricity Generation),,,101062.4,Inner West,Eastern Harbour City,Six Cities,14170
+2018,1,Stationary Energy (excluding Electricity Generation),,,25411.8,Inverell,New England North West,Regional,14200
+2018,1,Stationary Energy (excluding Electricity Generation),,,9805.9,Junee,Riverina Murray,Regional,14300
+2018,1,Stationary Energy (excluding Electricity Generation),,,15325,Kempsey,North Coast,Regional,14350
+2018,1,Stationary Energy (excluding Electricity Generation),,,7353.5,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2018,1,Stationary Energy (excluding Electricity Generation),,,56779.7,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2018,1,Stationary Energy (excluding Electricity Generation),,,8068.7,Kyogle,North Coast,Regional,14550
+2018,1,Stationary Energy (excluding Electricity Generation),,,116513.4,Lachlan,Central West and Orana,Regional,14600
+2018,1,Stationary Energy (excluding Electricity Generation),,,60593.9,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2018,1,Stationary Energy (excluding Electricity Generation),,,24437.4,Lane Cove,Eastern Harbour City,Six Cities,14700
+2018,1,Stationary Energy (excluding Electricity Generation),,,17872.5,Leeton,Riverina Murray,Regional,14750
+2018,1,Stationary Energy (excluding Electricity Generation),,,10759.6,Lismore,North Coast,Regional,14850
+2018,1,Stationary Energy (excluding Electricity Generation),,,34869.4,Lithgow,Central West and Orana,Regional,14870
+2018,1,Stationary Energy (excluding Electricity Generation),,,85663,Liverpool,Western Parkland City,Six Cities,14900
+2018,1,Stationary Energy (excluding Electricity Generation),,,52807.3,Liverpool Plains,New England North West,Regional,14920
+2018,1,Stationary Energy (excluding Electricity Generation),,,15890.8,Lockhart,Riverina Murray,Regional,14950
+2018,1,Stationary Energy (excluding Electricity Generation),,,72700.1,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2018,1,Stationary Energy (excluding Electricity Generation),,,56880.3,Mid-Coast,Upper Hunter,Regional,15240
+2018,1,Stationary Energy (excluding Electricity Generation),,,274909.5,Mid-Western Regional,Central West and Orana,Regional,15270
+2018,1,Stationary Energy (excluding Electricity Generation),,,96011.9,Moree Plains,New England North West,Regional,15300
+2018,1,Stationary Energy (excluding Electricity Generation),,,17511.7,Mosman,Eastern Harbour City,Six Cities,15350
+2018,1,Stationary Energy (excluding Electricity Generation),,,60391.1,Murray River,Riverina Murray,Regional,15520
+2018,1,Stationary Energy (excluding Electricity Generation),,,32339.7,Murrumbidgee,Riverina Murray,Regional,15560
+2018,1,Stationary Energy (excluding Electricity Generation),,,798958.3,Muswellbrook,Upper Hunter,Regional,15650
+2018,1,Stationary Energy (excluding Electricity Generation),,,27828.8,Nambucca,North Coast,Regional,15700
+2018,1,Stationary Energy (excluding Electricity Generation),,,543216.5,Narrabri,New England North West,Regional,15750
+2018,1,Stationary Energy (excluding Electricity Generation),,,9377.5,Narrandera,Riverina Murray,Regional,15800
+2018,1,Stationary Energy (excluding Electricity Generation),,,35128.8,Narromine,Central West and Orana,Regional,15850
+2018,1,Stationary Energy (excluding Electricity Generation),,,478006.7,Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2018,1,Stationary Energy (excluding Electricity Generation),,,48374.5,North Sydney,Eastern Harbour City,Six Cities,15950
+2018,1,Stationary Energy (excluding Electricity Generation),,,116475.1,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2018,1,Stationary Energy (excluding Electricity Generation),,,55744.8,Oberon,Central West and Orana,Regional,16100
+2018,1,Stationary Energy (excluding Electricity Generation),,,77542.6,Orange,Central West and Orana,Regional,16150
+2018,1,Stationary Energy (excluding Electricity Generation),,,60417.1,Parkes,Central West and Orana,Regional,16200
+2018,1,Stationary Energy (excluding Electricity Generation),,,125388,Parramatta,Central River City,Six Cities,16260
+2018,1,Stationary Energy (excluding Electricity Generation),,,143574.5,Penrith,Western Parkland City,Six Cities,16350
+2018,1,Stationary Energy (excluding Electricity Generation),,,37603.4,Port Macquarie-Hastings,North Coast,Regional,16380
+2018,1,Stationary Energy (excluding Electricity Generation),,,132236.2,Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2018,1,Stationary Energy (excluding Electricity Generation),,,16396.1,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2018,1,Stationary Energy (excluding Electricity Generation),,,76376.5,Randwick,Eastern Harbour City,Six Cities,16550
+2018,1,Stationary Energy (excluding Electricity Generation),,,21946.2,Richmond Valley,North Coast,Regional,16610
+2018,1,Stationary Energy (excluding Electricity Generation),,,76458.9,Ryde,Eastern Harbour City,Six Cities,16700
+2018,1,Stationary Energy (excluding Electricity Generation),,,35817.5,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2018,1,Stationary Energy (excluding Electricity Generation),,,316752.9,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2018,1,Stationary Energy (excluding Electricity Generation),,,1527533,Singleton,Upper Hunter,Regional,17000
+2018,1,Stationary Energy (excluding Electricity Generation),,,18365.2,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2018,1,Stationary Energy (excluding Electricity Generation),,,104388,Snowy Valleys,Riverina Murray,Regional,17080
+2018,1,Stationary Energy (excluding Electricity Generation),,,29045,Strathfield,Eastern Harbour City,Six Cities,17100
+2018,1,Stationary Energy (excluding Electricity Generation),,,62393.5,Sutherland Shire,Central River City,Six Cities,17150
+2018,1,Stationary Energy (excluding Electricity Generation),,,318267.9,Sydney,Eastern Harbour City,Six Cities,17200
+2018,1,Stationary Energy (excluding Electricity Generation),,,112138.1,Tamworth Regional,New England North West,Regional,17310
+2018,1,Stationary Energy (excluding Electricity Generation),,,14213.8,Temora,Riverina Murray,Regional,17350
+2018,1,Stationary Energy (excluding Electricity Generation),,,16107,Tenterfield,New England North West,Regional,17400
+2018,1,Stationary Energy (excluding Electricity Generation),,,61589.2,The Hills Shire,Central River City,Six Cities,17420
+2018,1,Stationary Energy (excluding Electricity Generation),,,23114.6,Tweed,North Coast,Regional,17550
+2018,1,Stationary Energy (excluding Electricity Generation),,,3267.8,Unincorporated NSW,Far West,Regional,19399
+2018,1,Stationary Energy (excluding Electricity Generation),,,25914.8,Upper Hunter Shire,Upper Hunter,Regional,17620
+2018,1,Stationary Energy (excluding Electricity Generation),,,1870.1,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2018,1,Stationary Energy (excluding Electricity Generation),,,1086,Uralla,New England North West,Regional,17650
+2018,1,Stationary Energy (excluding Electricity Generation),,,69133.6,Wagga Wagga,Riverina Murray,Regional,17750
+2018,1,Stationary Energy (excluding Electricity Generation),,,10118.8,Walcha,New England North West,Regional,17850
+2018,1,Stationary Energy (excluding Electricity Generation),,,40558.5,Walgett,Far West,Regional,17900
+2018,1,Stationary Energy (excluding Electricity Generation),,,62445.3,Warren,Central West and Orana,Regional,17950
+2018,1,Stationary Energy (excluding Electricity Generation),,,63748.6,Warrumbungle Shire,Central West and Orana,Regional,18020
+2018,1,Stationary Energy (excluding Electricity Generation),,,34790.6,Waverley,Eastern Harbour City,Six Cities,18050
+2018,1,Stationary Energy (excluding Electricity Generation),,,30535.8,Weddin,Central West and Orana,Regional,18100
+2018,1,Stationary Energy (excluding Electricity Generation),,,64539.9,Wentworth,Far West,Regional,18200
+2018,1,Stationary Energy (excluding Electricity Generation),,,70763,Willoughby,Eastern Harbour City,Six Cities,18250
+2018,1,Stationary Energy (excluding Electricity Generation),,,497606.5,Wingecarribee,South East and Tablelands,Regional,18350
+2018,1,Stationary Energy (excluding Electricity Generation),,,23796.3,Wollondilly,Western Parkland City,Six Cities,18400
+2018,1,Stationary Energy (excluding Electricity Generation),,,1335731,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2018,1,Stationary Energy (excluding Electricity Generation),,,35573,Woollahra,Eastern Harbour City,Six Cities,18500
+2018,1,Stationary Energy (excluding Electricity Generation),,,20310,Yass Valley,South East and Tablelands,Regional,18710
+2019,1,Stationary Energy (excluding Electricity Generation),,,74363.5,Albury,Riverina Murray,Regional,10050
+2019,1,Stationary Energy (excluding Electricity Generation),,,29031.3,Armidale Regional,New England North West,Regional,10130
+2019,1,Stationary Energy (excluding Electricity Generation),,,11214.9,Ballina,North Coast,Regional,10250
+2019,1,Stationary Energy (excluding Electricity Generation),,,3453.7,Balranald,Far West,Regional,10300
+2019,1,Stationary Energy (excluding Electricity Generation),,,53540.8,Bathurst Regional,Central West and Orana,Regional,10470
+2019,1,Stationary Energy (excluding Electricity Generation),,,705045.9,Bayside,Eastern Harbour City,Six Cities,10500
+2019,1,Stationary Energy (excluding Electricity Generation),,,37918.8,Bega Valley,South East and Tablelands,Regional,10550
+2019,1,Stationary Energy (excluding Electricity Generation),,,6942.3,Bellingen,North Coast,Regional,10600
+2019,1,Stationary Energy (excluding Electricity Generation),,,13903.6,Berrigan,Riverina Murray,Regional,10650
+2019,1,Stationary Energy (excluding Electricity Generation),,,219036.1,Blacktown,Central River City,Six Cities,10750
+2019,1,Stationary Energy (excluding Electricity Generation),,,123711.3,Bland,Riverina Murray,Regional,10800
+2019,1,Stationary Energy (excluding Electricity Generation),,,20730.7,Blayney,Central West and Orana,Regional,10850
+2019,1,Stationary Energy (excluding Electricity Generation),,,52713,Blue Mountains,Western Parkland City,Six Cities,10900
+2019,1,Stationary Energy (excluding Electricity Generation),,,39034.8,Bogan,Central West and Orana,Regional,10950
+2019,1,Stationary Energy (excluding Electricity Generation),,,3200.5,Bourke,Far West,Regional,11150
+2019,1,Stationary Energy (excluding Electricity Generation),,,8880.9,Brewarrina,Far West,Regional,11200
+2019,1,Stationary Energy (excluding Electricity Generation),,,21731.7,Broken Hill,Far West,Regional,11250
+2019,1,Stationary Energy (excluding Electricity Generation),,,20497.9,Burwood,Eastern Harbour City,Six Cities,11300
+2019,1,Stationary Energy (excluding Electricity Generation),,,9488.9,Byron,North Coast,Regional,11350
+2019,1,Stationary Energy (excluding Electricity Generation),,,14861.4,Cabonne,Central West and Orana,Regional,11400
+2019,1,Stationary Energy (excluding Electricity Generation),,,68581.1,Camden,Western Parkland City,Six Cities,11450
+2019,1,Stationary Energy (excluding Electricity Generation),,,87174,Campbelltown,Western Parkland City,Six Cities,11500
+2019,1,Stationary Energy (excluding Electricity Generation),,,41988.9,Canada Bay,Eastern Harbour City,Six Cities,11520
+2019,1,Stationary Energy (excluding Electricity Generation),,,150758.5,Canterbury-Bankstown,Central River City,Six Cities,11570
+2019,1,Stationary Energy (excluding Electricity Generation),,,86234.4,Carrathool,Riverina Murray,Regional,11600
+2019,1,Stationary Energy (excluding Electricity Generation),,,74850.2,Central Coast,Central Coast City,Six Cities,11650
+2019,1,Stationary Energy (excluding Electricity Generation),,,423.6,Central Darling,Far West,Regional,11700
+2019,1,Stationary Energy (excluding Electricity Generation),,,26147.1,Cessnock,Lower Hunter and Greater Newcastle City,Six Cities,11720
+2019,1,Stationary Energy (excluding Electricity Generation),,,111820,Clarence Valley,North Coast,Regional,11730
+2019,1,Stationary Energy (excluding Electricity Generation),,,52464.4,Cobar,Far West,Regional,11750
+2019,1,Stationary Energy (excluding Electricity Generation),,,25500.3,Coffs Harbour,North Coast,Regional,11800
+2019,1,Stationary Energy (excluding Electricity Generation),,,20174.7,Coolamon,Riverina Murray,Regional,12000
+2019,1,Stationary Energy (excluding Electricity Generation),,,61101.2,Coonamble,Central West and Orana,Regional,12150
+2019,1,Stationary Energy (excluding Electricity Generation),,,39736.6,Cootamundra-Gundagai Regional,Riverina Murray,Regional,12160
+2019,1,Stationary Energy (excluding Electricity Generation),,,15852.1,Cowra,Central West and Orana,Regional,12350
+2019,1,Stationary Energy (excluding Electricity Generation),,,234372.2,Cumberland,Central River City,Six Cities,12380
+2019,1,Stationary Energy (excluding Electricity Generation),,,59032.7,Dubbo Regional,Central West and Orana,Regional,12390
+2019,1,Stationary Energy (excluding Electricity Generation),,,2395.9,Dungog,Upper Hunter,Regional,12700
+2019,1,Stationary Energy (excluding Electricity Generation),,,7213.2,Edward River,Riverina Murray,Regional,12730
+2019,1,Stationary Energy (excluding Electricity Generation),,,28706.5,Eurobodalla,South East and Tablelands,Regional,12750
+2019,1,Stationary Energy (excluding Electricity Generation),,,195885.1,Fairfield,Western Parkland City,Six Cities,12850
+2019,1,Stationary Energy (excluding Electricity Generation),,,61289.9,Federation,Riverina Murray,Regional,12870
+2019,1,Stationary Energy (excluding Electricity Generation),,,87654,Forbes,Central West and Orana,Regional,12900
+2019,1,Stationary Energy (excluding Electricity Generation),,,56199.4,Georges River,Central River City,Six Cities,12930
+2019,1,Stationary Energy (excluding Electricity Generation),,,6472.3,Gilgandra,Central West and Orana,Regional,12950
+2019,1,Stationary Energy (excluding Electricity Generation),,,8936.8,Glen Innes Severn,New England North West,Regional,13010
+2019,1,Stationary Energy (excluding Electricity Generation),,,95210.6,Goulburn Mulwaree,South East and Tablelands,Regional,13310
+2019,1,Stationary Energy (excluding Electricity Generation),,,30404.2,Greater Hume Shire,Riverina Murray,Regional,13340
+2019,1,Stationary Energy (excluding Electricity Generation),,,57164.8,Griffith,Riverina Murray,Regional,13450
+2019,1,Stationary Energy (excluding Electricity Generation),,,49730.2,Gunnedah,New England North West,Regional,13550
+2019,1,Stationary Energy (excluding Electricity Generation),,,5509.8,Gwydir,New England North West,Regional,13660
+2019,1,Stationary Energy (excluding Electricity Generation),,,17079.5,Hawkesbury,Western Parkland City,Six Cities,13800
+2019,1,Stationary Energy (excluding Electricity Generation),,,9168.2,Hay,Riverina Murray,Regional,13850
+2019,1,Stationary Energy (excluding Electricity Generation),,,46447.4,Hilltops,South East and Tablelands,Regional,13910
+2019,1,Stationary Energy (excluding Electricity Generation),,,53721,Hornsby,Eastern Harbour City,Six Cities,14000
+2019,1,Stationary Energy (excluding Electricity Generation),,,7415.4,Hunters Hill,Eastern Harbour City,Six Cities,14100
+2019,1,Stationary Energy (excluding Electricity Generation),,,92074.7,Inner West,Eastern Harbour City,Six Cities,14170
+2019,1,Stationary Energy (excluding Electricity Generation),,,20599.4,Inverell,New England North West,Regional,14200
+2019,1,Stationary Energy (excluding Electricity Generation),,,8293.6,Junee,Riverina Murray,Regional,14300
+2019,1,Stationary Energy (excluding Electricity Generation),,,12505.1,Kempsey,North Coast,Regional,14350
+2019,1,Stationary Energy (excluding Electricity Generation),,,7128.3,Kiama,Illawarra-Shoalhaven City,Six Cities,14400
+2019,1,Stationary Energy (excluding Electricity Generation),,,57748.8,Ku-Ring-Gai,Eastern Harbour City,Six Cities,14500
+2019,1,Stationary Energy (excluding Electricity Generation),,,6645,Kyogle,North Coast,Regional,14550
+2019,1,Stationary Energy (excluding Electricity Generation),,,90984.2,Lachlan,Central West and Orana,Regional,14600
+2019,1,Stationary Energy (excluding Electricity Generation),,,61739.2,Lake Macquarie,Lower Hunter and Greater Newcastle City,Six Cities,14650
+2019,1,Stationary Energy (excluding Electricity Generation),,,24590.2,Lane Cove,Eastern Harbour City,Six Cities,14700
+2019,1,Stationary Energy (excluding Electricity Generation),,,16991.4,Leeton,Riverina Murray,Regional,14750
+2019,1,Stationary Energy (excluding Electricity Generation),,,10741.4,Lismore,North Coast,Regional,14850
+2019,1,Stationary Energy (excluding Electricity Generation),,,33220,Lithgow,Central West and Orana,Regional,14870
+2019,1,Stationary Energy (excluding Electricity Generation),,,90080.6,Liverpool,Western Parkland City,Six Cities,14900
+2019,1,Stationary Energy (excluding Electricity Generation),,,50979.7,Liverpool Plains,New England North West,Regional,14920
+2019,1,Stationary Energy (excluding Electricity Generation),,,12441.9,Lockhart,Riverina Murray,Regional,14950
+2019,1,Stationary Energy (excluding Electricity Generation),,,72795.6,Maitland,Lower Hunter and Greater Newcastle City,Six Cities,15050
+2019,1,Stationary Energy (excluding Electricity Generation),,,56124.6,Mid-Coast,Upper Hunter,Regional,15240
+2019,1,Stationary Energy (excluding Electricity Generation),,,283242.3,Mid-Western Regional,Central West and Orana,Regional,15270
+2019,1,Stationary Energy (excluding Electricity Generation),,,75086.7,Moree Plains,New England North West,Regional,15300
+2019,1,Stationary Energy (excluding Electricity Generation),,,17582.3,Mosman,Eastern Harbour City,Six Cities,15350
+2019,1,Stationary Energy (excluding Electricity Generation),,,47281.2,Murray River,Riverina Murray,Regional,15520
+2019,1,Stationary Energy (excluding Electricity Generation),,,25624,Murrumbidgee,Riverina Murray,Regional,15560
+2019,1,Stationary Energy (excluding Electricity Generation),,,959614.5,Muswellbrook,Upper Hunter,Regional,15650
+2019,1,Stationary Energy (excluding Electricity Generation),,,26643.5,Nambucca,North Coast,Regional,15700
+2019,1,Stationary Energy (excluding Electricity Generation),,,560774.9,Narrabri,New England North West,Regional,15750
+2019,1,Stationary Energy (excluding Electricity Generation),,,7925.3,Narrandera,Riverina Murray,Regional,15800
+2019,1,Stationary Energy (excluding Electricity Generation),,,19456.5,Narromine,Central West and Orana,Regional,15850
+2019,1,Stationary Energy (excluding Electricity Generation),,,484690,Newcastle,Lower Hunter and Greater Newcastle City,Six Cities,15900
+2019,1,Stationary Energy (excluding Electricity Generation),,,49487.4,North Sydney,Eastern Harbour City,Six Cities,15950
+2019,1,Stationary Energy (excluding Electricity Generation),,,118475.4,Northern Beaches,Eastern Harbour City,Six Cities,15990
+2019,1,Stationary Energy (excluding Electricity Generation),,,62663.1,Oberon,Central West and Orana,Regional,16100
+2019,1,Stationary Energy (excluding Electricity Generation),,,92759.3,Orange,Central West and Orana,Regional,16150
+2019,1,Stationary Energy (excluding Electricity Generation),,,51388.7,Parkes,Central West and Orana,Regional,16200
+2019,1,Stationary Energy (excluding Electricity Generation),,,127889.6,Parramatta,Central River City,Six Cities,16260
+2019,1,Stationary Energy (excluding Electricity Generation),,,145736.2,Penrith,Western Parkland City,Six Cities,16350
+2019,1,Stationary Energy (excluding Electricity Generation),,,32652.5,Port Macquarie-Hastings,North Coast,Regional,16380
+2019,1,Stationary Energy (excluding Electricity Generation),,,124801.2,Port Stephens,Lower Hunter and Greater Newcastle City,Six Cities,16400
+2019,1,Stationary Energy (excluding Electricity Generation),,,15423.7,Queanbeyan-Palerang Regional,South East and Tablelands,Regional,16490
+2019,1,Stationary Energy (excluding Electricity Generation),,,75041.2,Randwick,Eastern Harbour City,Six Cities,16550
+2019,1,Stationary Energy (excluding Electricity Generation),,,28061.1,Richmond Valley,North Coast,Regional,16610
+2019,1,Stationary Energy (excluding Electricity Generation),,,65125.4,Ryde,Eastern Harbour City,Six Cities,16700
+2019,1,Stationary Energy (excluding Electricity Generation),,,35790.7,Shellharbour,Illawarra-Shoalhaven City,Six Cities,16900
+2019,1,Stationary Energy (excluding Electricity Generation),,,339652.5,Shoalhaven,Illawarra-Shoalhaven City,Six Cities,16950
+2019,1,Stationary Energy (excluding Electricity Generation),,,1531659.5,Singleton,Upper Hunter,Regional,17000
+2019,1,Stationary Energy (excluding Electricity Generation),,,26202.3,Snowy Monaro Regional,South East and Tablelands,Regional,17040
+2019,1,Stationary Energy (excluding Electricity Generation),,,87849.2,Snowy Valleys,Riverina Murray,Regional,17080
+2019,1,Stationary Energy (excluding Electricity Generation),,,29397.6,Strathfield,Eastern Harbour City,Six Cities,17100
+2019,1,Stationary Energy (excluding Electricity Generation),,,62351.1,Sutherland Shire,Central River City,Six Cities,17150
+2019,1,Stationary Energy (excluding Electricity Generation),,,318517.7,Sydney,Eastern Harbour City,Six Cities,17200
+2019,1,Stationary Energy (excluding Electricity Generation),,,91150.7,Tamworth Regional,New England North West,Regional,17310
+2019,1,Stationary Energy (excluding Electricity Generation),,,11246.2,Temora,Riverina Murray,Regional,17350
+2019,1,Stationary Energy (excluding Electricity Generation),,,12822.4,Tenterfield,New England North West,Regional,17400
+2019,1,Stationary Energy (excluding Electricity Generation),,,64668.6,The Hills Shire,Central River City,Six Cities,17420
+2019,1,Stationary Energy (excluding Electricity Generation),,,22186.7,Tweed,North Coast,Regional,17550
+2019,1,Stationary Energy (excluding Electricity Generation),,,2544.2,Unincorporated NSW,Far West,Regional,19399
+2019,1,Stationary Energy (excluding Electricity Generation),,,22057.8,Upper Hunter Shire,Upper Hunter,Regional,17620
+2019,1,Stationary Energy (excluding Electricity Generation),,,1835.1,Upper Lachlan Shire,South East and Tablelands,Regional,17640
+2019,1,Stationary Energy (excluding Electricity Generation),,,1064,Uralla,New England North West,Regional,17650
+2019,1,Stationary Energy (excluding Electricity Generation),,,64625.1,Wagga Wagga,Riverina Murray,Regional,17750
+2019,1,Stationary Energy (excluding Electricity Generation),,,8012.9,Walcha,New England North West,Regional,17850
+2019,1,Stationary Energy (excluding Electricity Generation),,,31773.7,Walgett,Far West,Regional,17900
+2019,1,Stationary Energy (excluding Electricity Generation),,,48640.3,Warren,Central West and Orana,Regional,17950
+2019,1,Stationary Energy (excluding Electricity Generation),,,50027.3,Warrumbungle Shire,Central West and Orana,Regional,18020
+2019,1,Stationary Energy (excluding Electricity Generation),,,35108.1,Waverley,Eastern Harbour City,Six Cities,18050
+2019,1,Stationary Energy (excluding Electricity Generation),,,23917.1,Weddin,Central West and Orana,Regional,18100
+2019,1,Stationary Energy (excluding Electricity Generation),,,66615.5,Wentworth,Far West,Regional,18200
+2019,1,Stationary Energy (excluding Electricity Generation),,,68477.6,Willoughby,Eastern Harbour City,Six Cities,18250
+2019,1,Stationary Energy (excluding Electricity Generation),,,434531.4,Wingecarribee,South East and Tablelands,Regional,18350
+2019,1,Stationary Energy (excluding Electricity Generation),,,30149.1,Wollondilly,Western Parkland City,Six Cities,18400
+2019,1,Stationary Energy (excluding Electricity Generation),,,1171366.4,Wollongong,Illawarra-Shoalhaven City,Six Cities,18450
+2019,1,Stationary Energy (excluding Electricity Generation),,,35718.7,Woollahra,Eastern Harbour City,Six Cities,18500
+2019,1,Stationary Energy (excluding Electricity Generation),,,17321.5,Yass Valley,South East and Tablelands,Regional,18710
