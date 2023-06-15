@@ -1,16 +1,143 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GreenHouse Gas Commission</title>
-    <script src="https://d3js.org/d3.v5.min.js"></script>
-</head>
-<body>
-    <h1>Green House Emission Report ! </h1>
-    <p>Text from JS</p>
-  
-    <script src="{{url_for('static',filename='data.js')}}"></script>
-    <!-- {{url_for('static', filename='somejavascriptfile.js')}} -->
-</body>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Greenhouse Gas Emission</title>
+
+    <!-- Montserrat Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
+  </head>
+  <body>
+    <div class="container">
+
+      <!-- Header -->
+      <header class="header">
+        <h1 style="color:rgb(11, 134, 119);text-align:center;">Greenhouse Emission in NSW </h1>
+        
+        <div class="header-center">
+          <h1 style="color:rgb(134, 54, 11);text-align:center;">GROUP 4</h1>
+        </div> 
+      </header>
+      <!-- End Header -->
+
+      <!-- Sidebar -->
+      
+      <!-- End Sidebar -->
+
+      <!-- Main -->
+      <main class="main-container">
+        <div class="main-title">
+          <p class="font-weight-bold">DASHBOARD</p>
+        </div>
+
+        <div class="main-cards">
+
+          <div class="card">
+            <div class="card-inner">
+              <p class="font-weight-bold">YEAR</p>
+              <span class="material-icons-outlined text-blue"><span class="material-icons">
+                calendar_month
+                </span></span>
+            </div>
+            <select>
+              <option>2016</option>
+              <option>2017</option>
+              <option>2018</option>
+              <option>2019</option>
+            </select>
+            <!-- <span class="text-primary font-weight-bold">249</span> -->
+          </div>
+
+          <div class="card">
+            <div class="card-inner">
+              <p class="font-weight-bold">LGA</p>
+              <span class="material-icons-outlined text-orange"><span class="material-icons">
+                location_city
+                </span></span>
+            </div>
+            <select>
+              <option>Brisbane</option>
+              <option>Melbourne</option>
+              <option>Ballian</option>
+            </select>
+          </div>
+
+          <div class="card">
+            <div class="card-inner">
+              <p class="font-weight-bold">EMISSION SOURCE</p>
+              <span class="material-icons-outlined text-green"><span class="material-icons">
+                co2
+                </span></span>
+            </div>
+            <select>
+              <option>Agriculture</option>
+              <option>Transport</option>
+              <option>Waste</option>
+              <option>Electricity consumption</option>
+              <option>LULUP</option>
+
+            </select>
+          </div>
+
+          <div class="card">
+            <div class="card-inner">
+              <p class="font-weight-bold">EMISSION SUB-CATEGORY </p>
+              <span class="material-icons-outlined text-red"><span class="material-icons">
+                category
+                </span></span>
+            </div>
+            <select>
+              <option>Beef</option>
+              <option>Railways</option>
+              <option>Dairy</option>
+              <option>Goat </option>
+              <option>Heavy Duty Vehicles</option>
+
+            </select>
+          </div>
+
+        </div>
+
+        <div class="charts">
+
+          <div class="charts-card">
+            <p class="chart-title">All Emission Source Vs LGA</p>
+            <div id="bar-chart"></div>
+          </div>
+
+          <div class="charts-card">
+            <p class="chart-title">Emission Range Over 2016 </p>
+            <div id="area-chart"></div>
+          </div>
+
+        </div>
+        <!-- <div class="charts">
+
+          <div class="charts-card">
+            
+          </div>
+
+          <div class="charts-card">
+            
+          </div>
+
+        </div> -->
+      </main>
+      <!-- End Main -->
+
+    </div>
+
+    <!-- Scripts -->
+    <!-- ApexCharts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.3/apexcharts.min.js"></script>
+    <!-- Custom JS -->
+    <script src="{{url_for('static',filename='script.js')}}"></script>
+  </body>
 </html>
