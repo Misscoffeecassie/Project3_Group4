@@ -13,7 +13,7 @@ print(mongo.list_database_names())
 db = mongo['greenhouse_emission']
 
 # review the collections in our new database
-pprint(db.list_collection_names())
+# pprint(db.list_collection_names())
 
 # assign the collection to a variable
 electricity_consumption = db['electricity_consumption']
@@ -25,6 +25,7 @@ electricity_generation = db['electricity_generation']
 waste = db['waste']
 transport = db['transport']
 stationary_energy = db['stationary_energy']
+geo_data = db['geo_data']
 
 # Find how many documents have culture as "Nayarit"
 # print('elec consumptions',electricity_consumption.count_documents({}))
@@ -35,7 +36,7 @@ stationary_energy = db['stationary_energy']
 # print('electricity_generation ',electricity_generation.count_documents({}))
 # print('waste',waste.count_documents({}))
 # print('transport',transport.count_documents({}))
-# print('stationary_energy',stationary_energy.count_documents({}))
+# print('geo_data',geo_data.count_documents({}))
 
 item_dict = {
     "waste":waste.count_documents({}),
@@ -47,6 +48,11 @@ app = Flask(__name__)
 def index():
     """List all available api routes."""
     return render_template("index.html")
+
+@app.route("/static/pages/charts/chartjs.html")
+def chart():
+    """List all available api routes."""
+    return render_template("../static/pages/charts/chartjs.html")
     
 @app.route("/api/items")
 def get_items():
