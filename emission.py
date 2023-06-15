@@ -27,15 +27,15 @@ transport = db['transport']
 stationary_energy = db['stationary_energy']
 
 # Find how many documents have culture as "Nayarit"
-# print('elec consumptions',electricity_consumption.count_documents({}))
-# print('fugitive',fugitive.count_documents({}))
-# print('lulucf',lulucf.count_documents({}))
-# print('ippu ',ippu.count_documents({}))
-# print('agriculture',agriculture.count_documents({}))
-# print('electricity_generation ',electricity_generation.count_documents({}))
-# print('waste',waste.count_documents({}))
-# print('transport',transport.count_documents({}))
-# print('stationary_energy',stationary_energy.count_documents({}))
+print('elec consumptions',electricity_consumption.count_documents({}))
+print('fugitive',fugitive.count_documents({}))
+print('lulucf',lulucf.count_documents({}))
+print('ippu ',ippu.count_documents({}))
+print('agriculture',agriculture.count_documents({}))
+print('electricity_generation ',electricity_generation.count_documents({}))
+print('waste',waste.count_documents({}))
+print('transport',transport.count_documents({}))
+print('stationary_energy',stationary_energy.count_documents({}))
 
 item_dict = {
     "waste":waste.count_documents({}),
