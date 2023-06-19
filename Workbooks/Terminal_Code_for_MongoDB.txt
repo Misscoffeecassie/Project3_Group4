@@ -1,0 +1,12 @@
+
+mongoimport --type csv -d greenhouse_emission -c agriculture --headerline --drop agriculture.csv
+mongoimport --type csv -d greenhouse_emission -c electricity_consumption --headerline --drop electricity_consumption.csv
+mongoimport --type csv -d greenhouse_emission -c fugitive --headerline --drop fugitive.csv
+mongoimport --type csv -d greenhouse_emission -c lulucf --headerline --drop lulucf.csv
+mongoimport --type csv -d greenhouse_emission -c ippu --headerline --drop ippu.csv
+mongoimport --type csv -d greenhouse_emission -c agriculture --headerline --drop agriculture.csv
+mongoimport --type csv -d greenhouse_emission -c electricity_generation --headerline --drop electricity_generation.csv
+mongoimport --type csv -d greenhouse_emission -c waste --headerline --drop waste.csv
+mongoimport --type csv -d greenhouse_emission -c transport --headerline --drop transport.csv
+mongoimport --type csv -d greenhouse_emission -c stationary_energy --headerline --drop stationary_energy.csv
+mongoimport --type csv -d greenhouse_emission -c geo_data --headerline --drop geo_data.csv

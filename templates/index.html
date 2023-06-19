@@ -13,6 +13,11 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
+  <!--KKC Added-->
+    <script>
+      var KK_Data = {{ kk_data }};
+    </script>
+  <!--KKC Added Ended-->
   </head>
   <body>
     <div class="container">
@@ -46,11 +51,17 @@
                 calendar_month
                 </span></span>
             </div>
-            <select>
-              <option>2016</option>
-              <option>2017</option>
-              <option>2018</option>
-              <option>2019</option>
+            <!--- Begin Modified by KKC -->
+            <select onChange="newYear()" id="selectedYear">
+                {% for year in yearOptions %}
+                {% if year == selected_year %}
+                    <option selected>{{ year }}</option>
+                {% else %}
+                    <option>{{ year }}</option>
+                {% endif %}
+                {% endfor %}
+              <!--- End of Modified by KKC -->
+
             </select>
             <!-- <span class="text-primary font-weight-bold">249</span> -->
           </div>
@@ -62,10 +73,17 @@
                 location_city
                 </span></span>
             </div>
-            <select>
-              <option>Brisbane</option>
-              <option>Melbourne</option>
-              <option>Ballian</option>
+            <!--- Begin Modified by KKC -->
+            <select onChange="newLGA()" id="selectedLGA">
+                {% for LGA in LGAoptions %}
+                {% if LGA == selected_LGA %}
+                    <option selected>{{ LGA }}</option>
+                {% else %}
+                    <option>{{ LGA }}</option>
+                {% endif %}
+                {% endfor %}
+              <!--- End of Modified by KKC -->
+
             </select>
           </div>
 
@@ -76,12 +94,16 @@
                 co2
                 </span></span>
             </div>
-            <select>
-              <option>Agriculture</option>
-              <option>Transport</option>
-              <option>Waste</option>
-              <option>Electricity consumption</option>
-              <option>LULUP</option>
+            <!--- Begin Modified by KKC -->
+            <select onChange="newEmission()" id="selectedEmission">
+                {% for emission in emissionOptions %}
+                {% if emission == selected_emission %}
+                    <option selected>{{ emission }}</option>
+                {% else %}
+                    <option>{{ emission }}</option>
+                {% endif %}
+                {% endfor %}
+              <!--- End of Modified by KKC -->
 
             </select>
           </div>
@@ -93,12 +115,16 @@
                 category
                 </span></span>
             </div>
-            <select>
-              <option>Beef</option>
-              <option>Railways</option>
-              <option>Dairy</option>
-              <option>Goat </option>
-              <option>Heavy Duty Vehicles</option>
+            <!--- Begin Modified by KKC -->
+            <select onChange="newEmissionSubCat()" id="selectedEmissionSubCat">
+                {% for emissionSubCat in emissionSubCatOptions %}
+                {% if emissionSubCat == selected_emission_subcat %}
+                    <option selected>{{ emissionSubCat }}</option>
+                {% else %}
+                    <option>{{ emissionSubCat }}</option>
+                {% endif %}
+                {% endfor %}
+              <!--- End of Modified by KKC -->
 
             </select>
           </div>
@@ -116,6 +142,15 @@
             <p class="chart-title">Emission Range Over 2016 </p>
             <div id="area-chart"></div>
           </div>
+
+          <!--- Added by KKC -->
+          
+          <div class="charts-card">
+            <p class="chart-title">New Graph KKC </p>
+            <div id="KK_Chart"></div>
+          </div>
+          
+          <!-- End of added by KKC -->
 
         </div>
         <!-- <div class="charts">
@@ -137,6 +172,7 @@
     <!-- Scripts -->
     <!-- ApexCharts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.3/apexcharts.min.js"></script>
+
     <!-- Custom JS -->
     <script src="{{url_for('static',filename='script.js')}}"></script>
   </body>

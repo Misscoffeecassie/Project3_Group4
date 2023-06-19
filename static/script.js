@@ -17,6 +17,35 @@ function closeSidebar() {
   }
 }
 
+//* KKC Added *//
+
+// ---------- SELECTIONS ---------
+function newYear() {
+    var selectedYear = document.getElementById("selectedYear").value;
+    document.location.href = "/newSelection/year/" + selectedYear;
+    return;
+}
+
+function newLGA() {
+    var selectedLGA = document.getElementById("selectedLGA").value;
+    document.location.href = "/newSelection/LGA/" + selectedLGA;
+    return;
+}
+
+function newEmission() {
+    var selectedEmission = document.getElementById("selectedEmission").value;
+    document.location.href = "/newSelection/Emission/" + selectedEmission;
+    return;
+}
+
+function newEmissionSubCat() {
+    var selectedEmissionSubCat = document.getElementById("selectedEmissionSubCat").value;
+    document.location.href = "/newSelection/EmissionSubCat/" + selectedEmissionSubCat;
+    return;
+}
+
+
+//* KKC Added End *//
 
 
 // ---------- CHARTS ----------
@@ -117,3 +146,13 @@ var areaChartOptions = {
 
 var areaChart = new ApexCharts(document.querySelector("#area-chart"), areaChartOptions);
 areaChart.render();
+
+//* KKC Added *//
+//* KKC - yet to be done - choos an ApexChart chart type and add code here *//
+var KK_emissions = KK_Data;
+var KK_BarchartOptions = barChartOptions;
+KK_BarchartOptions["series"][0]["data"] = KK_emissions;
+var KK_Chart = new ApexCharts(document.querySelector("#KK_Chart"), KK_BarchartOptions);
+KK_Chart.render();
+
+//* KKC Added End *//
