@@ -1,3 +1,3 @@
-d3.json("api/items").then((data) => {
-    console.log(data)
+d3.json("get_by_year/"+year+"/"+search_lga).then(function(data) {
+    console.log(data);
 });
