@@ -11,8 +11,11 @@
     <!-- Material Icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
 
+    <!-- Leaflet Styles -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
+    <link rel="stylesheet" href="/static/style.css">
   </head>
   <body>
     <div class="container">
@@ -52,7 +55,6 @@
               <option>2018</option>
               <option>2019</option>
             </select>
-            <!-- <span class="text-primary font-weight-bold">249</span> -->
           </div>
 
           <div class="card">
@@ -116,28 +118,34 @@
             <p class="chart-title">Emission Range Over 2016 </p>
             <div id="area-chart"></div>
           </div>
+<!--   emission map         -->
+          <div class="charts-card">
+            <p class="chart-title">Average Emissions by Planning Regions</p>
+            <div id="chart" style="height: 500px;"></div>
+            <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <!-- Scripts -->
+            <script src="/static/heatmapchart.js"></script>
+          </div>
+               
+        <!-- ApexCharts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.3/apexcharts.min.js"></script>
+
+
+
+        
+
+      
+
+    <!-- Custom JS -->
+    <script src="/static/script.js"></script>
+         
 
         </div>
-        <!-- <div class="charts">
-
-          <div class="charts-card">
-            
-          </div>
-
-          <div class="charts-card">
-            
-          </div>
-
-        </div> -->
       </main>
       <!-- End Main -->
 
     </div>
 
-    <!-- Scripts -->
-    <!-- ApexCharts -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.3/apexcharts.min.js"></script>
-    <!-- Custom JS -->
-    <script src="{{url_for('static',filename='script.js')}}"></script>
+   
   </body>
 </html>
