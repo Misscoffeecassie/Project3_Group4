@@ -6,6 +6,10 @@
     <title>Greenhouse Gas Emission</title>
     <!-- Material Icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+    <!-- Leaflet Styles -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
     <!-- Leaflet CSS -->
@@ -239,7 +243,7 @@
         </div>
 
         <div class="charts">
-
+          
             <div class="charts-card">
               <p class="chart-title">Co2 Emission Over 2016 - 2019</p>
               <div id="chartContainer" style="height: 500px; width: 100%;"></div>
@@ -250,22 +254,18 @@
               <div id="doughnut_container" style="height: 500px; width: 100%;"></div>
             </div>
             
-  
-              <!-- KKC add-end -->
-  
-  
-          </div>
+        </div>
+               
+        <!-- ApexCharts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.3/apexcharts.min.js"></script>
 
         </div>
 
-        
-  <!-- Scripts -->  
       </main>
 
       </div>
       
       <!-- End Main -->
-
 
     <!-- Scripts -->
     <!-- ApexCharts -->
@@ -278,6 +278,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.1.1/chart.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
-    
+
   </body>
 </html>

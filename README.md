@@ -3,16 +3,16 @@ Project 3_Group 4
 Team members: Barani, Cassie, Henry, Keerthi, Sandhalie
 
 ## Deployment
-* Here is a link to the dashboard: https://jeremytallant.github.io/belly-button-challenge/
+* Here is a link to the dashboard: [NSW Emissions Dashboard](https://misscoffeecassie.github.io/Project3_Group4/templates/)
 
 ## Purpose
 In this project, we are trying to answer the below questions:
 * Which sectors are performing the best in terms of reducing carbon emissions?
-* Which LGAs and sectors needs more action to be able to reduce carbon emissions?
-* In NSW what are the external factors that contributes to each type of emission?
+* Which LGAs and sectors need more action to be able to reduce carbon emissions?
+* In NSW what are the external factors that contribute to each type of emission?
 
 ## Data Sources and Inspiration
-NSW regional and local greenhouse gas emissions, 2016−2019 | dataset | seed (no date) NSW Regional and Local Greenhouse Gas Emissions, 2016−2019. Available at: https://datasets.seed.nsw.gov.au/dataset/nsw-regional-and-local-greenhouse-gas-emissions-2016-2019 (Accessed: 20 June 2023).  
+NSW Regional and local greenhouse gas emissions, 2016−2019 | dataset | seed (no date) NSW Regional and Local Greenhouse Gas Emissions, 2016−2019. Available at: https://datasets.seed.nsw.gov.au/dataset/nsw-regional-and-local-greenhouse-gas-emissions-2016-2019 (Accessed: 20 June 2023).  
 Climate change - climate change (no date) Victorian Greenhouse Gas Emissions Report 2020. Available at: https://www.climatechange.vic.gov.au/__data/assets/pdf_file/0036/598257/Victorian-Greenhouse-Gas-Emissions-Report-2020.pdf (Accessed: 20 June 2023). 
 
 ## File Organization and Structure
