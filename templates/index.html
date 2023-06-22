@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
   </head>
   <body>
     <div class="container">
@@ -124,7 +124,8 @@
             <div id="chart" style="height: 500px;"></div>
             <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
     <!-- Scripts -->
-            <script src="/static/heatmapchart.js"></script>
+            <script src="{{url_for('static',filename='heatmapchart.js')}}"></script>
+          
           </div>
                
         <!-- ApexCharts -->
@@ -137,8 +138,7 @@
       
 
     <!-- Custom JS -->
-    <script src="/static/script.js"></script>
-         
+    <script src="{{url_for('static',filename='script.js')}}"></script>
 
         </div>
       </main>
