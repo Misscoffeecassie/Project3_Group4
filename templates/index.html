@@ -4,10 +4,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <title>Greenhouse Gas Emission</title>
-
-    <!-- Montserrat Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-
     <!-- Material Icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
 
@@ -16,6 +12,23 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin=""/>
+    <!-- JS Libraries -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.1.1/chart.min.js"></script>
+    <script src = "https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.2.0/chartjs-plugin-datalabels.min.js"></script>
+    <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+    integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+    crossorigin=""></script>
+    <!-- Montserrat Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  
+
   </head>
   <body>
     <div class="container">
@@ -39,9 +52,16 @@
         <div class="main-title">
           <p class="font-weight-bold">DASHBOARD</p>
         </div>
+        
+        <div class="charts1">
+
+          <div class="charts-card1">
+            <p class="chart-title1">Progress to Net-Zero from 2016 to 2019</p>
+            <div id="radial-chart"></div>
+          </div>
+        </div>
 
         <div class="main-cards">
-
           <div class="card">
             <div class="card-inner">
               <p class="font-weight-bold">YEAR</p>
@@ -49,11 +69,11 @@
                 calendar_month
                 </span></span>
             </div>
-            <select>
-              <option>2016</option>
-              <option>2017</option>
-              <option>2018</option>
-              <option>2019</option>
+            <select id="select_year" onchange="yearChanged(this.value)">
+              <option value="2016">2016</option>
+              <option value="2017">2017</option>
+              <option value="2018">2018</option>
+              <option value="2019">2019</option>
             </select>
           </div>
 
@@ -64,11 +84,138 @@
                 location_city
                 </span></span>
             </div>
-            <select>
-              <option>Brisbane</option>
-              <option>Melbourne</option>
-              <option>Ballian</option>
-            </select>
+            <select id="select_lga" onchange="optionChanged(this.value)">
+              <option value="Albury">Albury</option>
+              <option value="Armidale Regional">Armidale Regional</option>
+              <option value="Ballina">Ballina</option>
+              <option value="Balranald">Balranald</option>
+              <option value="Bathurst Regional">Bathurst Regional</option>
+              <option value="Bayside">Bayside</option>
+              <option value="Bega Valley">Bega Valley</option>
+              <option value="Bellingen">Bellingen</option>
+              <option value="Berrigan">Berrigan</option>
+              <option value="Blacktown">Blacktown</option>
+              <option value="Bland">Bland</option>
+              <option value="Blayney">Blayney</option>
+              <option value="Blue Mountains">Blue Mountains</option>
+              <option value="Bogan">Bogan</option>
+              <option value="Bourke">Bourke</option>
+              <option value="Brewarrina">Brewarrina</option>
+              <option value="Broken Hill">Broken Hill</option>
+              <option value="Burwood">Burwood</option>
+              <option value="Byron">Byron</option>
+              <option value="Cabonne">Cabonne</option>
+              <option value="Camden">Camden</option>
+              <option value="Campbelltown">Campbelltown</option>
+              <option value="Canada Bay">Canada Bay</option>
+              <option value="Canterbury-Bankstown">Canterbury-Bankstown</option>
+              <option value="Carrathool">Carrathool</option>
+              <option value="Central Coast">Central Coast</option>
+              <option value="Central Darling">Central Darling</option>
+              <option value="Cessnock">Cessnock</option>
+              <option value="Clarence Valley">Clarence Valley</option>
+              <option value="Cobar">Cobar</option>
+              <option value="Coffs Harbour">Coffs Harbour</option>
+              <option value="Coolamon">Coolamon</option>
+              <option value="Coonamble">Coonamble</option>
+              <option value="Cootamundra-Gundagai Regional">Cootamundra-Gundagai Regional</option>
+              <option value="Cowra">Cowra</option>
+              <option value="Cumberland">Cumberland</option>
+              <option value="Dubbo Regional">Dubbo Regional</option>
+              <option value="Dungog">Dungog</option>
+              <option value="Edward River">Edward River</option>
+              <option value="Eurobodalla">Eurobodalla</option>
+              <option value="Fairfield">Fairfield</option>
+              <option value="Federation">Federation</option>
+              <option value="Forbes">Forbes</option>
+              <option value="Georges River">Georges River</option>
+              <option value="Gilgandra">Gilgandra</option>
+              <option value="Glen Innes Severn">Glen Innes Severn</option>
+              <option value="Goulburn Mulwaree">Goulburn Mulwaree</option>
+              <option value="Greater Hume Shire">Greater Hume Shire</option>
+              <option value="Griffith">Griffith</option>
+              <option value="Gunnedah">Gunnedah</option>
+              <option value="Gwydir">Gwydir</option>
+              <option value="Hawkesbury">Hawkesbury</option>
+              <option value="Hay">Hay</option>
+              <option value="Hilltops">Hilltops</option>
+              <option value="Hornsby">Hornsby</option>
+              <option value="Hunters Hill">Hunters Hill</option>
+              <option value="Inner West">Inner West</option>
+              <option value="Inverell">Inverell</option>
+              <option value="Junee">Junee</option>
+              <option value="Kempsey">Kempsey</option>
+              <option value="Kiama">Kiama</option>
+              <option value="Ku-Ring-Gai">Ku-Ring-Gai</option>
+              <option value="Kyogle">Kyogle</option>
+              <option value="Lachlan">Lachlan</option>
+              <option value="Lake Macquarie">Lake Macquarie</option>
+              <option value="Lane Cove">Lane Cove</option>
+              <option value="Leeton">Leeton</option>
+              <option value="Lismore">Lismore</option>
+              <option value="Lithgow">Lithgow</option>
+              <option value="Liverpool">Liverpool</option>
+              <option value="Liverpool Plains">Liverpool Plains</option>
+              <option value="Lockhart">Lockhart</option>
+              <option value="Maitland">Maitland</option>
+              <option value="Mid-Coast">Mid-Coast</option>
+              <option value="Mid-Western Regional">Mid-Western Regional</option>
+              <option value="Moree Plains">Moree Plains</option>
+              <option value="Mosman">Mosman</option>
+              <option value="Murray River">Murray River</option>
+              <option value="Murrumbidgee">Murrumbidgee</option>
+              <option value="Muswellbrook">Muswellbrook</option>
+              <option value="Nambucca">Nambucca</option>
+              <option value="Narrabri">Narrabri</option>
+              <option value="Narrandera">Narrandera</option>
+              <option value="Narromine">Narromine</option>
+              <option value="Newcastle">Newcastle</option>
+              <option value="North Sydney">North Sydney</option>
+              <option value="Northern Beaches">Northern Beaches</option>
+              <option value="Oberon">Oberon</option>
+              <option value="Orange">Orange</option>
+              <option value="Parkes">Parkes</option>
+              <option value="Parramatta">Parramatta</option>
+              <option value="Penrith">Penrith</option>
+              <option value="Port Macquarie-Hastings">Port Macquarie-Hastings</option>
+              <option value="Port Stephens">Port Stephens</option>
+              <option value="Queanbeyan-Palerang Regional">Queanbeyan-Palerang Regional</option>
+              <option value="Randwick">Randwick</option>
+              <option value="Richmond Valley">Richmond Valley</option>
+              <option value="Ryde">Ryde</option>
+              <option value="Shellharbour">Shellharbour</option>
+              <option value="Shoalhaven">Shoalhaven</option>
+              <option value="Singleton">Singleton</option>
+              <option value="Snowy Monaro Regional">Snowy Monaro Regional</option>
+              <option value="Snowy Valleys">Snowy Valleys</option>
+              <option value="Strathfield">Strathfield</option>
+              <option value="Sutherland Shire">Sutherland Shire</option>
+              <option value="Sydney">Sydney</option>
+              <option value="Tamworth Regional">Tamworth Regional</option>
+              <option value="Temora">Temora</option>
+              <option value="Tenterfield">Tenterfield</option>
+              <option value="The Hills Shire">The Hills Shire</option>
+              <option value="Tweed">Tweed</option>
+              <option value="Unincorporated NSW">Unincorporated NSW</option>
+              <option value="Upper Hunter Shire">Upper Hunter Shire</option>
+              <option value="Upper Lachlan Shire">Upper Lachlan Shire</option>
+              <option value="Uralla">Uralla</option>
+              <option value="Wagga Wagga">Wagga Wagga</option>
+              <option value="Walcha">Walcha</option>
+              <option value="Walgett">Walgett</option>
+              <option value="Warren">Warren</option>
+              <option value="Warrumbungle Shire">Warrumbungle Shire</option>
+              <option value="Waverley">Waverley</option>
+              <option value="Weddin">Weddin</option>
+              <option value="Wentworth">Wentworth</option>
+              <option value="Willoughby">Willoughby</option>
+              <option value="Wingecarribee">Wingecarribee</option>
+              <option value="Wollondilly">Wollondilly</option>
+              <option value="Wollongong">Wollongong</option>
+              <option value="Woollahra">Woollahra</option>
+              <option value="Yass Valley">Yass Valley</option>
+              
+            </select>         
           </div>
 
           <div class="card">
@@ -78,74 +225,59 @@
                 co2
                 </span></span>
             </div>
-            <select>
-              <option>Agriculture</option>
-              <option>Transport</option>
-              <option>Waste</option>
-              <option>Electricity consumption</option>
-              <option>LULUP</option>
-
+            <select id="sector_selection">
+              <option value="Agriculture">Agriculture</option>
+              <option value="Transport">Transport</option>
+              <option value="Waste">Waste</option>
+              <option value="Electricity Consumption - Scope 2">Electricity consumption</option>
+              <option value="Land Use, Land Use Change and Forestry">luluf</option>
+              <option value="Fugitive Emissions">Fugitive </option>
+              <option value="Electricity Generation">Electricity Generation</option>
+              <option value="Stationary Energy (excluding Electricity Generation)">Stationary Energy</option>
             </select>
           </div>
-
-          <div class="card">
-            <div class="card-inner">
-              <p class="font-weight-bold">EMISSION SUB-CATEGORY </p>
-              <span class="material-icons-outlined text-red"><span class="material-icons">
-                category
-                </span></span>
-            </div>
-            <select>
-              <option>Beef</option>
-              <option>Railways</option>
-              <option>Dairy</option>
-              <option>Goat </option>
-              <option>Heavy Duty Vehicles</option>
-
-            </select>
+  
+            
           </div>
 
         </div>
 
         <div class="charts">
-
-          <div class="charts-card">
-            <p class="chart-title">All Emission Source Vs LGA</p>
-            <div id="bar-chart"></div>
-          </div>
-
-          <div class="charts-card">
-            <p class="chart-title">Emission Range Over 2016 </p>
-            <div id="area-chart"></div>
-          </div>
-<!--   emission map         -->
-          <div class="charts-card">
-            <p class="chart-title">Average Emissions by Planning Regions</p>
-            <div id="chart" style="height: 500px;"></div>
-            <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
-    <!-- Scripts -->
-            <script src="{{url_for('static',filename='heatmapchart.js')}}"></script>
           
-          </div>
+            <div class="charts-card">
+              <p class="chart-title">Co2 Emission Over 2016 - 2019</p>
+              <div id="chartContainer" style="height: 500px; width: 100%;"></div>
+            </div>
+
+            <div class="charts-card">
+              <p class="chart-title">Co2 Emissions for sector by year</p>
+              <div id="doughnut_container" style="height: 500px; width: 100%;"></div>
+            </div>
+            
+        </div>
                
         <!-- ApexCharts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.3/apexcharts.min.js"></script>
 
-
-
-        
-
-      
-
-    <!-- Custom JS -->
-    <script src="{{url_for('static',filename='script.js')}}"></script>
-
         </div>
+
       </main>
+
+      </div>
+      
       <!-- End Main -->
 
-    </div>
+    <!-- Scripts -->
+    <!-- ApexCharts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.3/apexcharts.min.js"></script>
+    <!-- Custom JS -->
+    <script src="{{url_for('static',filename='script.js')}}"></script>
+    <script src="{{url_for('static',filename='data.js')}}"></script>
+    <!-- KKC Added-->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.1.1/chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
 
-   
   </body>
 </html>
