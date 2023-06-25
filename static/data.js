@@ -1,19 +1,8 @@
-// Populate sectors 
-// let sectors = ['Electricity Consumption - Scope 2','Agriculture',
-// 'Fugitive Emissions','Land Use, Land Use Change and Forestry',
-// 'Electricity Generation','Waste','Transport',
-// 'Stationary Energy (excluding Electricity Generation)']
-// let sector_selection = d3.select("#sector_selection");
-// for (i=0;i<sectors.length;i++){
-//    option = sector_selection.append('option').text(sectors[i]);
-//    option = option.attr('value',sector_selection);
-// }
-// const doughnut = document.getElementById('doughnut');
 
 let search_sector;
 let search_year = 2016
 let search_lga = 'Albury';
-let optionchange = 0;
+
 //  json to build area chart
 d3.json("get_all_year/"+search_lga).then(function(data) {
    organise_years_data(data,search_lga);
@@ -22,9 +11,9 @@ d3.json("get_all_year/"+search_lga).then(function(data) {
 // json to build doughnut chart
 
 d3.json("get_by_lga_year/"+search_lga+"/"+search_year).then(function(data) {
-   // buildDoughnut(data,search_year,search_lga);
-   build_doughnut(data,search_year,search_lga)
+   build_doughnut(data,search_year,search_lga);
 });
+
 
 function build_doughnut(chart_data,yr,lga){
    
@@ -53,34 +42,28 @@ function build_doughnut(chart_data,yr,lga){
    chart.render();
 }
 
+// When LGA is changed
 function optionChanged(value){
    // console.log(value)
-   d3.json("get_all_year/"+value).then(function(data) {
-      organise_years_data(data,search_lga);
-   });
-   let search_year = d3.select("#year").property("value")
-   let search_lga = value
-   // console.log(search_year)
-   d3.json("get_by_lga_year/"+search_lga+"/"+search_year).then(function(data) {
-      // console.log(data)
-      build_doughnut(data,search_year,search_lga);
-   });
-}
-
-function optionChanged(value){
-   // console.log(value)
-   d3.json("get_all_year/"+value).then(function(data) {
-      organise_years_data(data,search_lga);
-   });
    let search_year = d3.select("#select_year").property("value")
    let search_lga = value
+   let search_sector = d3.select("#sector_selection").property("value")
+   d3.json("get_all_year/"+value).then(function(data) {
+      organise_years_data(data,search_lga);
+   });
+   
    // console.log(search_year)
    d3.json("get_by_lga_year/"+search_lga+"/"+search_year).then(function(data) {
       // console.log(data)
       build_doughnut(data,search_year,search_lga);
    });
+   d3.json("get_emission_progress/"+search_lga+"/"+search_sector).then(function(data) {
+      //console.log(data)
+      build_radial(data,search_sector,search_lga);
+    });
 }
 
+// When year is changed
 function yearChanged(value){
    let search_lga = d3.select("#select_lga").property("value")
    let search_year = value
@@ -90,34 +73,17 @@ function yearChanged(value){
    });
 }
 
-function frameYearData(y_data){
-   single_year_data = []
-   for (i=0;i<y_data.length;i++){
-      e_data = y_data[i];
-      temp_each_emission = {}
-      temp_subsector = []
-      // console.log(e_data)
-      if (e_data.length > 0){
-
-         emission_amount = 0
-         for (j=0;j<e_data.length;j++){
-            temp_each_emission.year = e_data[j]['Year']
-            temp_each_emission.sector = e_data[j]['Sector']
-            if(e_data[j]['SubSector1'] == '' || e_data[j]['Emissions_tonnes_CO2-e'] == '' ){
-               e_data[j]['Emissions_tonnes_CO2-e'] = 0
-            }
-            emission_amount = emission_amount + e_data[j]['Emissions_tonnes_CO2-e']
-            temp_subsector.push({'name':e_data[j]['SubSector1'],
-            'value':e_data[j]['Emissions_tonnes_CO2-e']})
-         } 
-         temp_each_emission.subsector = temp_subsector;
-         temp_each_emission.emission_amount = Math.round((emission_amount/e_data.length));
-      }
-      single_year_data.push(temp_each_emission);
-   }
-   return single_year_data
+//  When sector is selected
+function sectorChanged(value){
+   let search_lga = d3.select("#select_lga").property("value")
+   let search_sector = value
+   d3.json("get_emission_progress/"+search_lga+"/"+search_sector).then(function(data) {
+      console.log(data)
+      build_radial(data,search_sector,search_lga);
+   });
 }
 
+// Data prepe for stacked area chart Step 1
 function organise_years_data(years_data,lga){
    // console.log(years_data)
    let y_16;
@@ -149,6 +115,36 @@ function organise_years_data(years_data,lga){
    
 }
 
+// Data prepe for stacked area chart Step 2
+function frameYearData(y_data){
+   single_year_data = []
+   for (i=0;i<y_data.length;i++){
+      e_data = y_data[i];
+      temp_each_emission = {}
+      temp_subsector = []
+      // console.log(e_data)
+      if (e_data.length > 0){
+
+         emission_amount = 0
+         for (j=0;j<e_data.length;j++){
+            temp_each_emission.year = e_data[j]['Year']
+            temp_each_emission.sector = e_data[j]['Sector']
+            if(e_data[j]['SubSector1'] == '' || e_data[j]['Emissions_tonnes_CO2-e'] == '' ){
+               e_data[j]['Emissions_tonnes_CO2-e'] = 0
+            }
+            emission_amount = emission_amount + e_data[j]['Emissions_tonnes_CO2-e']
+            temp_subsector.push({'name':e_data[j]['SubSector1'],
+            'value':e_data[j]['Emissions_tonnes_CO2-e']})
+         } 
+         temp_each_emission.subsector = temp_subsector;
+         temp_each_emission.emission_amount = Math.round((emission_amount/e_data.length));
+      }
+      single_year_data.push(temp_each_emission);
+   }
+   return single_year_data
+}
+
+//  OCde to build Stacked area chart
 function buildAreacChart(x16,x17,x18,x19,lga){
    x = [x16,x17,x18,x19];
    //console.log(x16)
@@ -311,3 +307,4 @@ function buildAreacChart(x16,x17,x18,x19,lga){
       });
       chart.render();
 }
+

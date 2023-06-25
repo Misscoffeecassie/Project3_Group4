@@ -6,10 +6,6 @@
     <title>Greenhouse Gas Emission</title>
     <!-- Material Icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
-
-    <!-- Leaflet Styles -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
     <!-- Leaflet CSS -->
@@ -24,43 +20,30 @@
     <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
     integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
     crossorigin=""></script>
-    <!-- Montserrat Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-
-  
-
   </head>
+  
   <body>
     <div class="container">
-
       <!-- Header -->
       <header class="header">
         <h1 style="color:rgb(11, 134, 119);text-align:center;">Greenhouse Emission in NSW </h1>
-        
         <div class="header-center">
           <h1 style="color:rgb(134, 54, 11);text-align:center;">GROUP 4</h1>
         </div> 
       </header>
-      <!-- End Header -->
-
-      <!-- Sidebar -->
-      
-      <!-- End Sidebar -->
-
       <!-- Main -->
       <main class="main-container">
         <div class="main-title">
           <p class="font-weight-bold">DASHBOARD</p>
         </div>
-        
         <div class="charts1">
 
           <div class="charts-card1">
             <p class="chart-title1">Progress to Net-Zero from 2016 to 2019</p>
+            <p id="radial_title"></p>
             <div id="radial-chart"></div>
           </div>
         </div>
-
         <div class="main-cards">
           <div class="card">
             <div class="card-inner">
@@ -76,13 +59,11 @@
               <option value="2019">2019</option>
             </select>
           </div>
-
           <div class="card">
             <div class="card-inner">
-              <p class="font-weight-bold">LGA</p>
+              <p class="font-weight-bold">Local Government Area(LGA)</p>
               <span class="material-icons-outlined text-orange"><span class="material-icons">
                 location_city
-                </span></span>
             </div>
             <select id="select_lga" onchange="optionChanged(this.value)">
               <option value="Albury">Albury</option>
@@ -215,17 +196,16 @@
               <option value="Woollahra">Woollahra</option>
               <option value="Yass Valley">Yass Valley</option>
               
-            </select>         
+            </select>
           </div>
 
           <div class="card">
             <div class="card-inner">
-              <p class="font-weight-bold">EMISSION SOURCE</p>
+              <p class="font-weight-bold">Co2 EMISSION SECTOR</p>
               <span class="material-icons-outlined text-green"><span class="material-icons">
                 co2
-                </span></span>
             </div>
-            <select id="sector_selection">
+            <select id="sector_selection" onchange="sectorChanged(this.value)">
               <option value="Agriculture">Agriculture</option>
               <option value="Transport">Transport</option>
               <option value="Waste">Waste</option>
@@ -235,49 +215,63 @@
               <option value="Electricity Generation">Electricity Generation</option>
               <option value="Stationary Energy (excluding Electricity Generation)">Stationary Energy</option>
             </select>
-          </div>
-  
-            
-          </div>
-
+          </div>  
+        <!-- KKC added -->
         </div>
-
+          <div class="card">
+            <div class="card-inner">
+                <a href="/barchart">Bar Charts</a>
+          </div>  
+        </div>
+        <!-- KKC added end -->
+        <!-- Area and Doughnut charts -->
         <div class="charts">
-          
-            <div class="charts-card">
-              <p class="chart-title">Co2 Emission Over 2016 - 2019</p>
-              <div id="chartContainer" style="height: 500px; width: 100%;"></div>
-            </div>
-
-            <div class="charts-card">
-              <p class="chart-title">Co2 Emissions for sector by year</p>
-              <div id="doughnut_container" style="height: 500px; width: 100%;"></div>
-            </div>
-            
+          <div class="charts-card">
+            <p class="chart-title">Co2 Emission Over 2016 - 2019</p>
+            <div id="chartContainer" style="height: 500px; width: 100%;"></div>
+          </div>
+          <div class="charts-card">
+            <div id="doughnut_container" style="height: 500px; width: 100%;"></div>
+          </div>
         </div>
-               
-        <!-- ApexCharts -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.3/apexcharts.min.js"></script>
-
+        <!-- Range Column chart -->
+        <div class="charts">
+          <div class="charts-card">
+            <div id="range_column_chart" style="height: 370px; width: 100%;"></div>
+          </div>
         </div>
-
+        
+        <!-- <div class="charts">
+          <div class="charts-card">
+            <p class="chart-title">All Emission Sector of LGA From 2016 - 2019</p>
+             <div id="doughnut_container" style="height: 500px; width: 100%;"></div> 
+          </div>
+        </div> -->
+        <!-- End of Area and Doughnut charts -->
       </main>
-
-      </div>
-      
       <!-- End Main -->
+      <!-- <div class="row">
+        <p class="chart-title">Cumulative Co2 Emission Sectors (2016 -2019)</p>
+        <div class ="col-xl-6">
+          <div id="chartContainer" style="height: 500px; width: 100%;"></div>
+        </div>
+      </div>
+      <div class="dough_container">
+        <p class="chart-title">Co2 Emission Sectors for LGA </p>
+        <div class ="col-xl-6"></div>
+          <canvas id="doughnut" aria-label="chart" height="350" width="580"></canvas>
+        </div> 
+      </div> -->
 
     <!-- Scripts -->
     <!-- ApexCharts -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.3/apexcharts.min.js"></script>
-    <!-- Custom JS -->
-    <script src="{{url_for('static',filename='script.js')}}"></script>
-    <script src="{{url_for('static',filename='data.js')}}"></script>
-    <!-- KKC Added-->
-    <script src="https://d3js.org/d3.v6.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.1.1/chart.min.js"></script>
+   
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.3/apexcharts.min.js"></script>
+    <script src="{{url_for('static',filename='data.js')}}"></script>
+    <script src="{{url_for('static',filename='script.js')}}"></script>
 
   </body>
 </html>

@@ -38,10 +38,12 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 
-# Bar Chart
-@app.route("/bar_chart")
+# Bar Chart 
+@app.route("/barchart")
 def barchart():
-    return render_template("bar_chart.html")
+    return render_template("barchart.html")
+
+
 
 # Extract query results & josnification
 def find_all(query_result):
@@ -71,17 +73,12 @@ wte ='Waste'
 trans ='Transport'
 stat_eng ='Stationary Energy (excluding Electricity Generation)'
 
-@app.route("/get_all_data",methods=['GET'])
-def get_all_data():
-    # Fetch fugitive  documents
-    results = combined.find({})
-    return find_all(results)
 
-# Build doughnut chart
+# Build doghnut chart
 
 @app.route("/get_by_lga_year/<lga>/<year>",methods=['GET'])
 def get_by_lga_year(lga,year):
-    lga = str(lga).strip()
+    lag = str(lga).strip()
     year = int(year)
     sector_data =list(combined.aggregate([
 
@@ -92,49 +89,6 @@ def get_by_lga_year(lga,year):
     # print([sector_data])
     return (find_all(sector_data))
     
-
-# Build Henry's chart
-# @app.route("/get_all_count/<year>",methods=['GET'])
-# def get_by_lga_year(year):
-#     year = int(year)
-#     sector_data =list(combined.aggregate([
-
-#             {'$match':{ '$and':[ {'Year':year}] }},
-#             {'$group': {'_id': {"Sector": "$Sector"},'emission_amt':{'$sum':"$Emissions_tonnes_CO2-e"}}},
-#             {'$sort':{'emission_amt':-1}}
-#             ]))
-#     # print([sector_data])
-#     return (find_all(sector_data))
-    
-# Code to build Choroplath
-
-# @app.route("/get_geo_data/<sector>/<year>",methods=['GET']) # Data set given by keerthi
-# def get_geo_data(sector,year):
-#     # agri = agri.strip()
-#     year = year.strip()
-#     sector = str(sector).strip()
-   
-#     #Agriculture
-#     if str(sector) == str(agri): 
-    
-#         sector_data =list(agriculture.aggregate([
-#             {'$match':{ '$and':[ {'Year':year},{'Sector':sector}] }},
-#             {'$group': {'_id': {"LGA": "$LGA_CODE18"},'emission_amt':{'$sum':"$Emissions"}}},
-#             {'$sort':{'emission_amt':-1}}
-#             ]))
-#         geo_pack = buildGeodata(sector_data)
-#         return find_all(geo_pack)
-    
-#     # # Electric Consumptions
-#     if (sector == elec_cons): 
-#         sector_data =list(electricity_consumption.aggregate([
-#             {'$match':{ '$and':[ {'Year':year},{'Sector':sector}] }},
-#             {'$group': {'_id': {"LGA": "$LGA_CODE18"},'emission_amt':{'$sum':"$Emissions"}}},
-#             {'$sort':{'emission_amt':-1}}
-#             ]))
-        
-#         geo_pack = buildGeodata(sector_data)
-#         return find_all(geo_pack)
    
  
 
@@ -160,43 +114,47 @@ def get_all_year(lga):
     return json_variables
 
    
+# Data for Radial chart
+@app.route("/get_emission_progress/<lga>/<sector>",methods=['GET'])
+def get_by_year(lga,sector):
+    # lga = 'Albury'
+    # sector = 'Waste'
+    lga = str(lga).strip()
+    sector = str(sector).strip()
+    progress = 0
+    lga_2016_data =list(combined.aggregate([
 
-# @app.route("/get_by_year/<year>/<lga>",methods=['GET'])
-# def get_by_year(year,lga):
-#     sectors = ['Electricity Consumption - Scope 2','Agriculture',
-#                 'Fugitive Emissions','Land Use, Land Use Change and Forestry',
-#                 'Electricity Generation','Waste','Transport',
-#                 'Stationary Energy (excluding Electricity Generation)']
-#     sector_by_data = []
-#     for i in range(len(sectors)):
-#         templist = []
-#         query = {'Year':int(year),'LGA':lga,'Sector':sectors[i]}
-#         results = combined.find(query)
-#         for row in results:
-#             templist.append(row)
-#         sector_by_data.append(templist)
-#     json_variables = json.dumps(sector_by_data,default=json_util.default)
-#     return json_variables
+            {'$match':{ '$and':[ {'Year':2016},{'LGA':lga},{'Sector':sector}] }},
+            {'$group': {'_id': {"Sector": "$Sector"},'emission_amt':{'$sum':"$Emissions_tonnes_CO2-e"}}},
+            {'$sort':{'emission_amt':-1}}
+            ]))
+    lga_2019_data =list(combined.aggregate([
 
+            {'$match':{ '$and':[ {'Year':2019},{'LGA':lga},{'Sector':sector}] }},
+            {'$group': {'_id': {"Sector": "$Sector"},'emission_amt':{'$sum':"$Emissions_tonnes_CO2-e"}}},
+            {'$sort':{'emission_amt':-1}}
+            ]))
+    
+    # json_variables = json.dumps(temp_list,default=json_util.default)
+    if len(lga_2019_data):
+        progress = ((lga_2016_data[0]['emission_amt'] - lga_2019_data[0]['emission_amt']) / lga_2016_data[0]['emission_amt'])*100
+        progress_data = {
+            'lga':lga,
+            'sector':sector,
+            'for_2016':lga_2016_data[0]['emission_amt'] ,
+            'for_2019':lga_2019_data[0]['emission_amt'],
+            'diff':round(progress)
+        }
+    else:
+        progress_data = {
+            'lga':lga,
+            'sector':sector,
+            'for_2016':0,
+            'for_2019':0,
+            'diff':round(progress)
+        }
+    return (jsonify(progress_data))
 
-
-@app.route("/get_by_year/<year>/<lga>",methods=['GET'])
-def get_by_year(year,lga):
-    sectors = ['Electricity Consumption - Scope 2','Agriculture',
-                'Fugitive Emissions','Fugitive Emissions',
-                'Land Use, Land Use Change and Forestry',
-                'Electricity Generation','Waste','Transport',
-                'Stationary Energy (excluding Electricity Generation)']
-    sector_by_data = []
-    for i in range(len(sectors)):
-        templist = []
-        query = {'Year':int(year),'LGA':lga,'Sector':sectors[i]}
-        results = combined.find(query)
-        for row in results:
-            templist.append(row)
-        sector_by_data.append(templist)
-    json_variables = json.dumps(sector_by_data,default=json_util.default)
-    return json_variables
 
 ## KKC - added ##
 @app.route("/getYears",methods=['GET'])
@@ -224,6 +182,8 @@ def get_Year_data(LGA, Sector):
         if Sector == 'All':
             aggs = [
                     { "$group": { "_id": "$Year", "totalEmission": { "$sum": "$Emissions_tonnes_CO2-e" }}
+                    },
+                    { "$sort": { "_id": 1}
                     }
                    ]
         else:
@@ -231,6 +191,8 @@ def get_Year_data(LGA, Sector):
                     { "$match":{ "Sector": Sector }
                     },
                     { "$group": { "_id": "$Year", "totalEmission": { "$sum": "$Emissions_tonnes_CO2-e" }}
+                    },
+                    { "$sort": { "_id": 1}
                     }
                    ]
     elif Sector == 'All':
@@ -238,6 +200,8 @@ def get_Year_data(LGA, Sector):
                 { "$match":{ "LGA": LGA }
                 },
                 { "$group": { "_id": "$Year", "totalEmission": { "$sum": "$Emissions_tonnes_CO2-e" }}
+                },
+                { "$sort": { "_id": 1}
                 }
                ]
     else:
@@ -245,6 +209,8 @@ def get_Year_data(LGA, Sector):
                 { "$match":{ "LGA": LGA, "Sector": Sector }
                 },
                 { "$group": { "_id": "$Year", "totalEmission": { "$sum": "$Emissions_tonnes_CO2-e" }}
+                },
+                { "$sort": { "_id": 1}
                 }
                ]
     print(aggs)
@@ -258,6 +224,8 @@ def get_LGA_data(Year, Sector):
         if Sector == 'All':
             aggs = [
                     { "$group": { "_id": "$LGA", "totalEmission": { "$sum": "$Emissions_tonnes_CO2-e" }}
+                    },
+                    { "$sort": { "_id": 1}
                     }
                    ]
         else:
@@ -265,6 +233,8 @@ def get_LGA_data(Year, Sector):
                     { "$match":{ "Sector": Sector }
                     },
                     { "$group": { "_id": "$LGA", "totalEmission": { "$sum": "$Emissions_tonnes_CO2-e" }}
+                    },
+                    { "$sort": { "_id": 1}
                     }
                    ]
     elif Sector == 'All':
@@ -272,6 +242,8 @@ def get_LGA_data(Year, Sector):
                     { "$match":{ "Year": int(Year) }
                     },
                     { "$group": { "_id": "$LGA", "totalEmission": { "$sum": "$Emissions_tonnes_CO2-e" }}
+                    },
+                    { "$sort": { "_id": 1}
                     }
                    ]
     else:
@@ -279,6 +251,8 @@ def get_LGA_data(Year, Sector):
                 { "$match":{ "Year": int(Year), "Sector": Sector }
                 },
                 { "$group": { "_id": "$LGA", "totalEmission": { "$sum": "$Emissions_tonnes_CO2-e" }}
+                },
+                { "$sort": { "_id": 1}
                 }
                ]
     print(aggs)
@@ -292,6 +266,8 @@ def get_Sector_data(Year, LGA):
         if LGA == 'All':
             aggs = [
                     { "$group": { "_id": "$Sector",  "totalEmission": { "$sum": "$Emissions_tonnes_CO2-e" }}
+                    },
+                    { "$sort": { "_id": 1}
                     }
                    ]
         else:
@@ -299,6 +275,8 @@ def get_Sector_data(Year, LGA):
                     { "$match":{ "LGA": LGA }
                     },
                     { "$group": { "_id": "$Sector",  "totalEmission": { "$sum": "$Emissions_tonnes_CO2-e" }}
+                    },
+                    { "$sort": { "_id": 1}
                     }
                    ]
     elif LGA == 'All':
@@ -306,6 +284,8 @@ def get_Sector_data(Year, LGA):
                 { "$match":{ "Year": int(Year) }
                 },
                 { "$group": { "_id": "$Sector",  "totalEmission": { "$sum": "$Emissions_tonnes_CO2-e" }}
+                },
+                { "$sort": { "_id": 1}
                 }
                ]
     else:
@@ -313,13 +293,14 @@ def get_Sector_data(Year, LGA):
                 { "$match":{ "Year": int(Year), "LGA": LGA }
                 },
                 { "$group": { "_id": "$Sector",  "totalEmission": { "$sum": "$Emissions_tonnes_CO2-e" }}
+                },
+                { "$sort": { "_id": 1}
                 }
                ]
     print(aggs)
     results = combined.aggregate(aggs)
     return find_all(results)
 
-## KKC - added end ##​
-
+## KKC - added end ##
 if __name__ == '__main__':
     app.run(debug=True)
